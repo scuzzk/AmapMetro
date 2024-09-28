@@ -1,0 +1,2071 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440600",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁3号线后通段",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727442827.7",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440600",
+        "target_city": "4406",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.060975900,23.161415000,113.348449100,23.037359000",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440600||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "sc-00|is-po|si-po|ci-100000|tg-merge",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.396000;出入口=0.269000;公司企业=0.207000\u0006交通出行|地铁站=0.375000;出入口|地铁站出入口=0.269000;公司企业=0.185000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁3号线后通段",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.396000;出入口=0.269000;公司企业=0.207000\u0006交通出行|地铁站=0.375000;出入口|地铁站出入口=0.269000;公司企业=0.185000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "佛山市",
+        "result_adcode": "440600"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁3号线后通段",
+    "message": "Successful.",
+    "total": "9",
+    "busline_list": [
+      {
+        "front_name": "联和",
+        "areacode": "0757",
+        "code": "440600",
+        "xs": "113.085207,113.087712,113.087913,113.088313,113.088825,113.089383,113.091249,113.095198,113.097627,113.098104,113.102602,113.102915,113.10415,113.105452,113.105723,113.106057,113.113864,113.116167",
+        "id": "900000181853",
+        "terminal_name": "中山公园",
+        "terminal_spell": "zhong shan gong yuan",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁3号线后通段",
+        "start_time": "",
+        "front_spell": "lian he",
+        "busline_event": "",
+        "ys": "23.060541,23.05167,23.051281,23.0509,23.050649,23.050471,23.050135,23.049583,23.049481,23.049451,23.048989,23.048933,23.048614,23.04827,23.048204,23.048154,23.047844,23.047821",
+        "total_price": "0",
+        "name": "地铁3号线后通段(联和--中山公园)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440605",
+            "navi_poiid": "",
+            "name": "联和",
+            "station_num": "1",
+            "poiid1": "BS09766770",
+            "start_time": "",
+            "spell": "lian he",
+            "time_desc_json": "",
+            "station_id": "900000181853025",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.085207;23.060541",
+            "poiid2_xy": "113.084932;23.060343",
+            "poiid2": "BV10863167"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440604",
+            "navi_poiid": "",
+            "name": "佛山站",
+            "station_num": "2",
+            "poiid1": "BS09799718",
+            "start_time": "",
+            "spell": "fo shan zhan",
+            "time_desc_json": "",
+            "station_id": "900000181853026",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.097627;23.049481",
+            "poiid2_xy": "113.097627;23.049481",
+            "poiid2": "BV09319862"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440604",
+            "navi_poiid": "",
+            "name": "敦厚",
+            "station_num": "3",
+            "poiid1": "BS09766771",
+            "start_time": "",
+            "spell": "dun hou",
+            "time_desc_json": "",
+            "station_id": "900000181853027",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.10415;23.048614",
+            "poiid2_xy": "113.104150;23.048614",
+            "poiid2": "BV10863181"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440604",
+            "navi_poiid": "",
+            "name": "中山公园",
+            "station_num": "4",
+            "poiid1": "BS09766763",
+            "start_time": "",
+            "spell": "zhong shan gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000181853028",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.116167;23.047821",
+            "poiid2_xy": "113.116160;23.048125",
+            "poiid2": "BV10863195"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.085207;23.047821;113.116167;23.060541",
+        "air": "",
+        "length": "4.015000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "中山公园",
+        "areacode": "0757",
+        "code": "440600",
+        "xs": "113.116167,113.113864,113.106057,113.105723,113.105452,113.10415,113.102915,113.102602,113.098104,113.097627,113.095198,113.091249,113.089383,113.088825,113.088313,113.087913,113.087712,113.085207",
+        "id": "900000181852",
+        "terminal_name": "联和",
+        "terminal_spell": "lian he",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁3号线后通段",
+        "start_time": "",
+        "front_spell": "zhong shan gong yuan",
+        "busline_event": "",
+        "ys": "23.047821,23.047844,23.048154,23.048204,23.04827,23.048614,23.048933,23.048989,23.049451,23.049481,23.049583,23.050135,23.050471,23.050649,23.0509,23.051281,23.05167,23.060541",
+        "total_price": "0",
+        "name": "地铁3号线后通段(中山公园--联和)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440604",
+            "navi_poiid": "",
+            "name": "中山公园",
+            "station_num": "1",
+            "poiid1": "BS09766777",
+            "start_time": "",
+            "spell": "zhong shan gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000181852021",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.116167;23.047821",
+            "poiid2_xy": "113.116160;23.048125",
+            "poiid2": "BV10863195"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440604",
+            "navi_poiid": "",
+            "name": "敦厚",
+            "station_num": "2",
+            "poiid1": "BS09766786",
+            "start_time": "",
+            "spell": "dun hou",
+            "time_desc_json": "",
+            "station_id": "900000181852022",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.10415;23.048614",
+            "poiid2_xy": "113.104150;23.048614",
+            "poiid2": "BV10863181"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440604",
+            "navi_poiid": "",
+            "name": "佛山站",
+            "station_num": "3",
+            "poiid1": "BS09799719",
+            "start_time": "",
+            "spell": "fo shan zhan",
+            "time_desc_json": "",
+            "station_id": "900000181852023",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.097627;23.049481",
+            "poiid2_xy": "113.097627;23.049481",
+            "poiid2": "BV09319862"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440605",
+            "navi_poiid": "",
+            "name": "联和",
+            "station_num": "4",
+            "poiid1": "BS11919873",
+            "start_time": "",
+            "spell": "lian he",
+            "time_desc_json": "",
+            "station_id": "900000181852024",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.085207;23.060541",
+            "poiid2_xy": "113.084932;23.060343",
+            "poiid2": "BV10863167"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.085207;23.047821;113.116167;23.060541",
+        "air": "",
+        "length": "4.015000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.084932;23.048125;113.324493;23.151077",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0757",
+        "cityname": "佛山市",
+        "address": "(在建)3号线后通段;3号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181852",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.047821",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181852021",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "179.427808",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09766777",
+            "poiid2": "BV10863195",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中山公园(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "718401",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁3号线后通段(中山公园--联和)",
+            "x": "113.116167",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181853",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.047821",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181853028",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-0.572192",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09766763",
+            "poiid2": "BV10863195",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中山公园(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "718401",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁3号线后通段(联和--中山公园)",
+            "x": "113.116167",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000076109",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.048125",
+            "businfo_line_alias": "3号线",
+            "businfo_stationids": "900000076109050",
+            "businfo_ui_colors": "0065B3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "0.750557",
+            "businfo_expect_dates": "",
+            "poiid": "BS09001141",
+            "poiid2": "BV10863195",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中山公园(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "636147",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁3号线(中山公园--顺德学院站)",
+            "x": "113.116160",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000076108",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.048125",
+            "businfo_line_alias": "3号线",
+            "businfo_stationids": "900000076108042",
+            "businfo_ui_colors": "0065B3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-179.249443",
+            "businfo_expect_dates": "",
+            "poiid": "BS09001142",
+            "poiid2": "BV10863195",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中山公园(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "636147",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁3号线(顺德学院站--中山公园)",
+            "x": "113.116160",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.116160",
+        "review_total": "4",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10863195",
+        "name": "中山公园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181853|900000181852|900000076108|900000076109",
+          "display_x": "113.116160",
+          "display_y": "23.048125",
+          "businfo_ids": "BS09766763|BS09766777|BS09001142|BS09001141",
+          "businfo_line_alias": "(在建)3号线后通段|(在建)3号线后通段|3号线|3号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA|0065B3|0065B3",
+          "businfo_alias": "",
+          "businfo_angles": "-0.572192|179.427808|-179.249443|0.750557",
+          "businfo_line_names": "(在建)地铁3号线后通段(联和--中山公园)|(在建)地铁3号线后通段(中山公园--联和)|地铁3号线(顺德学院站--中山公园)|地铁3号线(中山公园--顺德学院站)",
+          "businfo_stationids": "900000181853028|900000181852021|900000076108042|900000076109050",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "718401|718401|636147|636147",
+          "businfo_station_status": "3|3|1|1",
+          "businfo_meshs": "F49F012041|F49F012041|F49F012041|F49F012041",
+          "xs": "113.116167|113.116167|113.116160|113.116160",
+          "ys": "23.047821|23.047821|23.048125|23.048125",
+          "businfo_line_keys": "(在建)地铁3号线后通段|(在建)地铁3号线后通段|地铁3号线|地铁3号线",
+          "businfo_expect_dates": "预计2024年开通|预计2024年开通| | ",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/b8c560c17b2e6f4bcfb1f7ecf1bfc87e",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.047697+++23.048483+++23.047887",
+            "poiids": "BX09911930+++BX09911929+++BX09911928",
+            "name": "parent_other_rel",
+            "pxs": "113.115304+++113.117029+++113.117097",
+            "childtype": "107+++107+++107",
+            "poiname": "中山公园地铁站D口+++中山公园地铁站C口+++中山公园地铁站B口",
+            "address": "3号线+++3号线+++3号线",
+            "shortname": "D口+++C口+++B口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "中山公园(地铁站)",
+        "cpdata": "",
+        "latitude": "23.048125",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0757",
+        "cityname": "佛山市",
+        "address": "(在建)3号线后通段;3号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000217602",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.060343",
+            "businfo_line_alias": "3号线",
+            "businfo_stationids": "900000217602009",
+            "businfo_ui_colors": "0065B3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-76.429566",
+            "businfo_expect_dates": "",
+            "poiid": "BS09766785",
+            "poiid2": "BV10863167",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "联和(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "706339",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁3号线(佛山大学--联和)",
+            "x": "113.084932",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000217601",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.060343",
+            "businfo_line_alias": "3号线",
+            "businfo_stationids": "900000217601001",
+            "businfo_ui_colors": "0065B3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "103.570434",
+            "businfo_expect_dates": "",
+            "poiid": "BS11919874",
+            "poiid2": "BV10863167",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "联和(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "706339",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁3号线(联和--佛山大学)",
+            "x": "113.084932",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181853",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.060541",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181853025",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-74.231340",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09766770",
+            "poiid2": "BV10863167",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "联和(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "26060",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁3号线后通段(联和--中山公园)",
+            "x": "113.085207",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181852",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.060541",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181852024",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "105.768660",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS11919873",
+            "poiid2": "BV10863167",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "联和(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "26060",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁3号线后通段(中山公园--联和)",
+            "x": "113.085207",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.084932",
+        "review_total": "3",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10863167",
+        "name": "联和(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000217602|900000217601|900000181853|900000181852",
+          "display_x": "113.084932",
+          "display_y": "23.060343",
+          "businfo_ids": "BS09766785|BS11919874|BS09766770|BS11919873",
+          "businfo_line_alias": "3号线|3号线|(在建)3号线后通段|(在建)3号线后通段",
+          "businfo_ui_colors": "0065B3|0065B3|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-76.429566|103.570434|-74.231340|105.768660",
+          "businfo_line_names": "地铁3号线(佛山大学--联和)|地铁3号线(联和--佛山大学)|(在建)地铁3号线后通段(联和--中山公园)|(在建)地铁3号线后通段(中山公园--联和)",
+          "businfo_stationids": "900000217602009|900000217601001|900000181853025|900000181852024",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "706339|706339|26060|26060",
+          "businfo_station_status": "1|1|3|3",
+          "businfo_meshs": "F49F012041|F49F012041|F49F012041|F49F012041",
+          "xs": "113.084932|113.084932|113.085207|113.085207",
+          "ys": "23.060343|23.060343|23.060541|23.060541",
+          "businfo_line_keys": "地铁3号线|地铁3号线|(在建)地铁3号线后通段|(在建)地铁3号线后通段",
+          "businfo_expect_dates": " | |预计2024年开通|预计2024年开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440605",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10863167/comment/c635a5a4345f4e2dcafc97458d294ec6_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.060980+++23.059779+++23.060217",
+            "poiids": "BX09912210+++BX09912211+++BX09912209",
+            "name": "parent_other_rel",
+            "pxs": "113.085477+++113.084305+++113.085721",
+            "childtype": "107+++107+++107",
+            "poiname": "联和地铁站C口+++联和地铁站A口+++联和地铁站B口",
+            "address": "3号线+++3号线+++3号线",
+            "shortname": "C口+++A口+++B口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "联和(地铁站)",
+        "cpdata": "",
+        "latitude": "23.060343",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0757",
+        "cityname": "佛山市",
+        "address": "(在建)3号线后通段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181852",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.049481",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181852023",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "176.401232",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09799719",
+            "poiid2": "BV09319862",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "佛山站(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "660585",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁3号线后通段(中山公园--联和)",
+            "x": "113.097627",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181853",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.049481",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181853026",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-2.404585",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09799718",
+            "poiid2": "BV09319862",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "佛山站(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "660585",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁3号线后通段(联和--中山公园)",
+            "x": "113.097627",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.097627",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09319862",
+        "name": "佛山站(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181852|900000181853",
+          "display_x": "113.097627",
+          "display_y": "23.049481",
+          "businfo_ids": "BS09799719|BS09799718",
+          "businfo_line_alias": "(在建)3号线后通段|(在建)3号线后通段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "176.401232|-2.404585",
+          "businfo_line_names": "(在建)地铁3号线后通段(中山公园--联和)|(在建)地铁3号线后通段(联和--中山公园)",
+          "businfo_stationids": "900000181852023|900000181853026",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "660585|660585",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F012041|F49F012041",
+          "xs": "113.097627|113.097627",
+          "ys": "23.049481|23.049481",
+          "businfo_line_keys": "(在建)地铁3号线后通段|(在建)地铁3号线后通段",
+          "businfo_expect_dates": "预计2024年开通|预计2024年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "佛山站(地铁站)",
+        "cpdata": "",
+        "latitude": "23.049481",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0757",
+        "cityname": "佛山市",
+        "address": "(在建)3号线后通段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181852",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.048614",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181852022",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "165.200133",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09766786",
+            "poiid2": "BV10863181",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "敦厚(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "707456",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁3号线后通段(中山公园--联和)",
+            "x": "113.104150",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000181853",
+            "businfo_line_shields": "3号线后通段",
+            "businfo_line_types": "2",
+            "y": "23.048614",
+            "businfo_line_alias": "(在建)3号线后通段",
+            "businfo_stationids": "900000181853027",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-14.482921",
+            "businfo_expect_dates": "预计2024年开通",
+            "poiid": "BS09766771",
+            "poiid2": "BV10863181",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "敦厚(地铁站)",
+            "businfo_mesh": "F49F012041",
+            "businfo_road_id": "707456",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁3号线后通段(联和--中山公园)",
+            "x": "113.104150",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁3号线后通段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.104150",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10863181",
+        "name": "敦厚(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181853|900000181852",
+          "display_x": "113.104150",
+          "display_y": "23.048614",
+          "businfo_ids": "BS09766771|BS09766786",
+          "businfo_line_alias": "(在建)3号线后通段|(在建)3号线后通段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-14.482921|165.200133",
+          "businfo_line_names": "(在建)地铁3号线后通段(联和--中山公园)|(在建)地铁3号线后通段(中山公园--联和)",
+          "businfo_stationids": "900000181853027|900000181852022",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "707456|707456",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F012041|F49F012041",
+          "xs": "113.104150|113.104150",
+          "ys": "23.048614|23.048614",
+          "businfo_line_keys": "(在建)地铁3号线后通段|(在建)地铁3号线后通段",
+          "businfo_expect_dates": "预计2024年开通|预计2024年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.048850+++23.048426+++23.048135+++23.048639",
+            "poiids": "BX09912213+++BX09912214+++BX09912212+++BX09912215",
+            "name": "parent_other_rel",
+            "pxs": "113.104544+++113.102917+++113.104273+++113.104921",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "敦厚地铁站B口+++敦厚地铁站出入口+++敦厚地铁站A口+++敦厚地铁站出入口",
+            "address": "(在建)3号线后通段+++(在建)3号线后通段+++(在建)3号线后通段+++(在建)3号线后通段",
+            "shortname": "B口+++出入口+++A口+++出入口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "敦厚(地铁站)",
+        "cpdata": "",
+        "latitude": "23.048614",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0757",
+        "address": "(在建)3号线后通段",
+        "cityname": "佛山市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.104273",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09912212",
+        "name": "敦厚地铁站A口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181852;900000181853",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "(在建)3号线后通段;(在建)3号线后通段",
+          "businfo_exit_status": "3",
+          "eys": "23.048135",
+          "businfo_station_name_en": "Dunhou",
+          "businfo_stationids": "900000181852022;900000181853027",
+          "businfo_ui_colors": "AAAAAA;AAAAAA",
+          "businfo_exitids": "90000018185202201;90000018185302701",
+          "poiid1s": "BT09912240",
+          "exs": "113.104273",
+          "businfo_station_name": "敦厚",
+          "businfo_line_names": "地铁3号线后通段(中山公园--联和);地铁3号线后通段(联和--中山公园)",
+          "businfo_line_keys": "地铁3号线后通段;地铁3号线后通段",
+          "businfo_station_poiid2": "BV10863181"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "敦厚地铁站A口",
+        "cpdata": "",
+        "latitude": "23.048135",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0757",
+        "address": "(在建)3号线后通段",
+        "cityname": "佛山市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.104921",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09912215",
+        "name": "敦厚地铁站出入口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181852;900000181853",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "(在建)3号线后通段;(在建)3号线后通段",
+          "businfo_exit_status": "3",
+          "eys": "23.048639",
+          "businfo_station_name_en": "Dunhou",
+          "businfo_stationids": "900000181852022;900000181853027",
+          "businfo_ui_colors": "AAAAAA;AAAAAA",
+          "businfo_exitids": "90000018185202204;90000018185302703",
+          "poiid1s": "BT09912243",
+          "exs": "113.104921",
+          "businfo_station_name": "敦厚",
+          "businfo_line_names": "地铁3号线后通段(中山公园--联和);地铁3号线后通段(联和--中山公园)",
+          "businfo_line_keys": "地铁3号线后通段;地铁3号线后通段",
+          "businfo_station_poiid2": "BV10863181"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "敦厚地铁站出入口",
+        "cpdata": "",
+        "latitude": "23.048639",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0757",
+        "address": "(在建)3号线后通段",
+        "cityname": "佛山市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.102917",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09912214",
+        "name": "敦厚地铁站出入口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181852;900000181853",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "(在建)3号线后通段;(在建)3号线后通段",
+          "businfo_exit_status": "3",
+          "eys": "23.048426",
+          "businfo_station_name_en": "Dunhou",
+          "businfo_stationids": "900000181852022;900000181853027",
+          "businfo_ui_colors": "AAAAAA;AAAAAA",
+          "businfo_exitids": "90000018185202202;90000018185302704",
+          "poiid1s": "BT09912242",
+          "exs": "113.102917",
+          "businfo_station_name": "敦厚",
+          "businfo_line_names": "地铁3号线后通段(中山公园--联和);地铁3号线后通段(联和--中山公园)",
+          "businfo_line_keys": "地铁3号线后通段;地铁3号线后通段",
+          "businfo_station_poiid2": "BV10863181"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "敦厚地铁站出入口",
+        "cpdata": "",
+        "latitude": "23.048426",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0757",
+        "address": "(在建)3号线后通段",
+        "cityname": "佛山市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.104544",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09912213",
+        "name": "敦厚地铁站B口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000181852;900000181853",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "(在建)3号线后通段;(在建)3号线后通段",
+          "businfo_exit_status": "3",
+          "eys": "23.04885",
+          "businfo_station_name_en": "Dunhou",
+          "businfo_stationids": "900000181852022;900000181853027",
+          "businfo_ui_colors": "AAAAAA;AAAAAA",
+          "businfo_exitids": "90000018185202203;90000018185302702",
+          "poiid1s": "BT09912241",
+          "exs": "113.104544",
+          "businfo_station_name": "敦厚",
+          "businfo_line_names": "地铁3号线后通段(中山公园--联和);地铁3号线后通段(联和--中山公园)",
+          "businfo_line_keys": "地铁3号线后通段;地铁3号线后通段",
+          "businfo_station_poiid2": "BV10863181"
+        },
+        "adcode": "440604",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "敦厚地铁站B口",
+        "cpdata": "",
+        "latitude": "23.048850",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)11号线内环;(在建)11号线外环;(在建)18号线北延段;(在建)18号线后通段;1号线;3号线北延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023049",
+            "businfo_line_shields": "1号线",
+            "businfo_line_types": "2",
+            "y": "23.150202",
+            "businfo_line_alias": "1号线",
+            "businfo_stationids": "440100023049002",
+            "businfo_ui_colors": "FCD600",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-19.294628",
+            "businfo_expect_dates": "",
+            "poiid": "BS11111291",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "751535",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁1号线(广州东站--西塱)",
+            "x": "113.324606",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁1号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000164416;900000172017",
+            "businfo_line_shields": "18号线后通段;18号线北延段",
+            "businfo_line_types": "2;2",
+            "y": "23.149614",
+            "businfo_line_alias": "(在建)18号线后通段;(在建)18号线北延段",
+            "businfo_stationids": "900000164416002;900000172017001",
+            "businfo_ui_colors": "AAAAAA;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "88.903626",
+            "businfo_expect_dates": "预计2024年开通;预计2026年底开通",
+            "poiid": "BS13436635",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "47659",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线后通段(冼村--广州东站);(在建)地铁18号线北延段(广州东站--花城街)",
+            "x": "113.325625",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁18号线后通段;(在建)地铁18号线北延段",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074492",
+            "businfo_line_shields": "11号线内环",
+            "businfo_line_types": "2",
+            "y": "23.152156",
+            "businfo_line_alias": "(在建)11号线内环",
+            "businfo_stationids": "900000074492025",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-21.073969",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS11892867",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "664386",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁11号线内环(赤沙--赤沙)",
+            "x": "113.325729",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172012;900000164415",
+            "businfo_line_shields": "18号线北延段;18号线后通段",
+            "businfo_line_types": "2;2",
+            "y": "23.149614",
+            "businfo_line_alias": "(在建)18号线北延段;(在建)18号线后通段",
+            "businfo_stationids": "900000172012008;900000164415001",
+            "businfo_ui_colors": "AAAAAA;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-91.096374",
+            "businfo_expect_dates": "预计2026年底开通;预计2024年开通",
+            "poiid": "BS13436636",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "47659",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站);(在建)地铁18号线后通段(广州东站--冼村)",
+            "x": "113.325625",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁18号线北延段;(在建)地铁18号线后通段",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074491",
+            "businfo_line_shields": "11号线外环",
+            "businfo_line_types": "2",
+            "y": "23.152156",
+            "businfo_line_alias": "(在建)11号线外环",
+            "businfo_stationids": "900000074491008",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "150.800188",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS11892866",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "664386",
+            "bus_alias": "E",
+            "businfo_line_names": "(在建)地铁11号线外环(赤沙--赤沙)",
+            "x": "113.325729",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023032",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.151077",
+            "businfo_line_alias": "3号线北延段",
+            "businfo_stationids": "440100023032004",
+            "businfo_ui_colors": "FFA500",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "67.339599",
+            "businfo_expect_dates": "",
+            "poiid": "BS10047475",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "709701",
+            "bus_alias": "F",
+            "businfo_line_names": "地铁3号线(北延段)(体育西路--机场北(2号航站楼))",
+            "x": "113.324493",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线(北延段)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023031",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.151077",
+            "businfo_line_alias": "3号线北延段",
+            "businfo_stationids": "440100023031013",
+            "businfo_ui_colors": "FFA500",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-112.961488",
+            "businfo_expect_dates": "",
+            "poiid": "BS10047476",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "709701",
+            "bus_alias": "G",
+            "businfo_line_names": "地铁3号线(北延段)(机场北(2号航站楼)--体育西路)",
+            "x": "113.324493",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线(北延段)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023050",
+            "businfo_line_shields": "1号线",
+            "businfo_line_types": "2",
+            "y": "23.150202",
+            "businfo_line_alias": "1号线",
+            "businfo_stationids": "440100023050017",
+            "businfo_ui_colors": "FCD600",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "160.705372",
+            "businfo_expect_dates": "",
+            "poiid": "BS11111290",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "751535",
+            "bus_alias": "H",
+            "businfo_line_names": "地铁1号线(西塱--广州东站)",
+            "x": "113.324606",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁1号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.324493",
+        "review_total": "155",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10024357",
+        "name": "广州东站(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440100023031|440100023032|440100023050|440100023049|900000164416;900000172017|900000172012;900000164415|900000074491|900000074492",
+          "display_x": "113.324493",
+          "display_y": "23.151077",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS10047476|BS10047475|BS11111290|BS11111291|BS13436635|BS13436636|BS11892866|BS11892867",
+          "businfo_line_alias": "3号线北延段|3号线北延段|1号线|1号线|(在建)18号线后通段;(在建)18号线北延段|(在建)18号线北延段;(在建)18号线后通段|(在建)11号线外环|(在建)11号线内环",
+          "businfo_ui_colors": "FFA500|FFA500|FCD600|FCD600|AAAAAA;AAAAAA|AAAAAA;AAAAAA|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-112.961488|67.339599|160.705372|-19.294628|88.903626|-91.096374|150.800188|-21.073969",
+          "businfo_line_names": "地铁3号线(北延段)(机场北(2号航站楼)--体育西路)|地铁3号线(北延段)(体育西路--机场北(2号航站楼))|地铁1号线(西塱--广州东站)|地铁1号线(广州东站--西塱)|(在建)地铁18号线后通段(冼村--广州东站);(在建)地铁18号线北延段(广州东站--花城街)|(在建)地铁18号线北延段(花城街--广州东站);(在建)地铁18号线后通段(广州东站--冼村)|(在建)地铁11号线外环(赤沙--赤沙)|(在建)地铁11号线内环(赤沙--赤沙)",
+          "businfo_stationids": "440100023031013|440100023032004|440100023050017|440100023049002|900000164416002;900000172017001|900000172012008;900000164415001|900000074491008|900000074492025",
+          "businfo_line_types": "2|2|2|2|2;2|2;2|2|2",
+          "businfo_road_ids": "709701|709701|751535|751535|47659|47659|664386|664386",
+          "businfo_station_status": "1|1|1|1|3;3|3;3|3|3",
+          "businfo_meshs": "F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043",
+          "xs": "113.324493|113.324493|113.324606|113.324606|113.325625|113.325625|113.325729|113.325729",
+          "ys": "23.151077|23.151077|23.150202|23.150202|23.149614|23.149614|23.152156|23.152156",
+          "businfo_line_keys": "地铁3号线(北延段)|地铁3号线(北延段)|地铁1号线|地铁1号线|(在建)地铁18号线后通段;(在建)地铁18号线北延段|(在建)地铁18号线北延段;(在建)地铁18号线后通段|(在建)地铁11号线外环|(在建)地铁11号线内环",
+          "businfo_expect_dates": " | | | |预计2024年开通;预计2026年底开通|预计2026年底开通;预计2024年开通|预计2024年年底开通|预计2024年年底开通",
+          "businfo_realbus": "0|0|0|0|0;0|0;0|0|0"
+        },
+        "adcode": "440106",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10024357/comment/6cc0b3e86d5eceba5e2ebd758d731118_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.149123+++23.151895+++23.150208+++23.150032+++23.150350+++23.152251+++23.150388+++23.150214+++23.150408",
+            "poiids": "BX10017665+++BX10017669+++BX10017670+++BX10017664+++BX10020913+++BX10017663+++BX10020912+++BX10017666+++BX10017668",
+            "name": "parent_other_rel",
+            "pxs": "113.326054+++113.325354+++113.324177+++113.324676+++113.322782+++113.324703+++113.323132+++113.325078+++113.324523",
+            "childtype": "107+++107+++107+++107+++107+++107+++107+++107+++107",
+            "poiname": "广州东站地铁站F口+++广州东站地铁站J口+++广州东站地铁站I入口+++广州东站地铁站G口+++广州东站地铁站B1口+++广州东站地铁站H口+++广州东站地铁站B2口+++广州东站地铁站E口+++广州东站地铁站D口",
+            "address": "1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段",
+            "shortname": "F口+++J口+++I入口+++G口+++B1口+++H口+++B2口+++E口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "广州东站(地铁站)",
+        "cpdata": "",
+        "latitude": "23.151077",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

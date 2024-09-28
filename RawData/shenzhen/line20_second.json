@@ -1,0 +1,3967 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440300",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁20号线二期",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727444369.93",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440300",
+        "target_city": "4403",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.757236900,22.757189700,113.987050100,22.517517300",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440300||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "4847675363526035417_sc-00|ia-po|sy-no|si-po|ci-440300|tg-or",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.705000;出入口=0.175000;房产=0.060000\u0006交通出行|地铁站=0.695000;出入口|地铁站出入口=0.171000;房产|住宅区=0.050000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁20号线二期",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.705000;出入口=0.175000;房产=0.060000\u0006交通出行|地铁站=0.695000;出入口|地铁站出入口=0.171000;房产|住宅区=0.050000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "深圳市",
+        "result_adcode": "440300"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁20号线二期",
+    "message": "Successful.",
+    "total": "60",
+    "busline_list": [
+      {
+        "front_name": "白石洲",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.967048,113.966187,113.965022,113.964563,113.964147,113.959201,113.955132,113.953842,113.944945,113.941536,113.940423,113.939319,113.938223,113.937133,113.93605,113.93497,113.933894,113.932819,113.931745,113.93067,113.929593,113.928513,113.927428,113.926337,113.925239,113.924132,113.923016,113.921151,113.920143,113.918722,113.917587,113.916607,113.915676,113.914745,113.91353,113.913241,113.912985,113.912747,113.912515,113.912271,113.912003,113.911695,113.911333,113.910903,113.910389,113.909778,113.909054,113.908203,113.907211,113.906062,113.904743,113.903238,113.889751,113.882626,113.877712,113.876081,113.875263,113.874466,113.873788,113.872662,113.871459,113.870092,113.868967,113.867296,113.866013,113.86403,113.862526,113.861089,113.860213,113.859453,113.85939,113.858819,113.85832,113.857962,113.855682,113.853499,113.853108,113.852652,113.852021,113.850932,113.849745,113.848324,113.844386,113.842341,113.841765,113.84121,113.840657,113.840088,113.839484,113.839219,113.838997,113.83858,113.838225,113.83757,113.836702,113.835238,113.833855,113.831893,113.829931,113.82736,113.825125,113.822608,113.822258,113.820284,113.819176,113.817941,113.816598,113.81517,113.813678,113.812143,113.810585,113.809026,113.807488,113.805991,113.804556,113.803205,113.801959,113.800838,113.799865,113.79906,113.798428",
+        "id": "900000208421",
+        "terminal_name": "机场北",
+        "terminal_spell": "ji chang bei",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁20号线二期",
+        "start_time": "",
+        "front_spell": "bai shi zhou",
+        "busline_event": "",
+        "ys": "22.539604,22.539921,22.540272,22.540377,22.540403,22.540403,22.540236,22.540236,22.539806,22.539647,22.539615,22.539591,22.539577,22.539572,22.539574,22.539585,22.539604,22.539629,22.539662,22.539701,22.539746,22.539797,22.539854,22.539915,22.539981,22.540052,22.540126,22.540258,22.540456,22.540849,22.541461,22.542375,22.543492,22.545025,22.54658,22.547087,22.547596,22.548113,22.548641,22.549186,22.549753,22.550346,22.550971,22.551631,22.552332,22.553079,22.553877,22.554729,22.555642,22.55662,22.557667,22.558789,22.571682,22.578524,22.583878,22.585784,22.586578,22.587729,22.588879,22.591073,22.592941,22.595065,22.596876,22.599374,22.601298,22.603544,22.604834,22.606541,22.608077,22.6095,22.609626,22.610797,22.611954,22.61296,22.616173,22.619068,22.619444,22.619662,22.619646,22.619359,22.619099,22.618795,22.617677,22.617276,22.617241,22.617298,22.617473,22.617794,22.618285,22.61861,22.618934,22.620215,22.621691,22.624043,22.626464,22.628903,22.630946,22.632791,22.634689,22.638345,22.64244,22.647,22.647447,22.649501,22.649827,22.649959,22.649931,22.649775,22.649526,22.649217,22.648882,22.648555,22.64827,22.648059,22.647958,22.647998,22.648215,22.648642,22.649312,22.65026,22.651507",
+        "total_price": "0",
+        "name": "地铁20号线二期(白石洲--机场北)",
+        "auto": "",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "白石洲",
+            "station_num": "1",
+            "poiid1": "BS10481391",
+            "start_time": "",
+            "spell": "bai shi zhou",
+            "time_desc_json": "",
+            "station_id": "900000208421001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.967048;22.539604",
+            "poiid2_xy": "113.967048;22.539604",
+            "poiid2": "BV10244044"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "高新园",
+            "station_num": "2",
+            "poiid1": "BS10492818",
+            "start_time": "",
+            "spell": "gao xin yuan",
+            "time_desc_json": "",
+            "station_id": "900000208421002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.953842;22.540236",
+            "poiid2_xy": "113.953842;22.540236",
+            "poiid2": "BV10249975"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "深大",
+            "station_num": "3",
+            "poiid1": "BS09513674",
+            "start_time": "",
+            "spell": "shen da",
+            "time_desc_json": "",
+            "station_id": "900000208421003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.944945;22.539806",
+            "poiid2_xy": "113.944173;22.538667",
+            "poiid2": "BV10249974"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "南头古城",
+            "station_num": "4",
+            "poiid1": "BS09513676",
+            "start_time": "",
+            "spell": "nan tou gu cheng",
+            "time_desc_json": "",
+            "station_id": "900000208421004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.923016;22.540126",
+            "poiid2_xy": "113.924170;22.537490",
+            "poiid2": "BV10996671"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "中山公园西",
+            "station_num": "5",
+            "poiid1": "BS09513678",
+            "start_time": "",
+            "spell": "zhong shan gong yuan xi",
+            "time_desc_json": "",
+            "station_id": "900000208421005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.914745;22.545025",
+            "poiid2_xy": "113.914745;22.545025",
+            "poiid2": "BV09203794"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "新安老城",
+            "station_num": "6",
+            "poiid1": "BS09513672",
+            "start_time": "",
+            "spell": "xin an lao cheng",
+            "time_desc_json": "",
+            "station_id": "900000208421006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.903238;22.558789",
+            "poiid2_xy": "113.903238;22.558789",
+            "poiid2": "BV09203793"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "上川一路",
+            "station_num": "7",
+            "poiid1": "BS09513669",
+            "start_time": "",
+            "spell": "shang chuan yi lu",
+            "time_desc_json": "",
+            "station_id": "900000208421007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.889751;22.571682",
+            "poiid2_xy": "113.889751;22.571682",
+            "poiid2": "BV09203792"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "西乡公园",
+            "station_num": "8",
+            "poiid1": "BS09290581",
+            "start_time": "",
+            "spell": "xi xiang gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000208421008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.882626;22.578524",
+            "poiid2_xy": "113.882626;22.578524",
+            "poiid2": "BV09115359"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "航城",
+            "station_num": "9",
+            "poiid1": "BS09513679",
+            "start_time": "",
+            "spell": "hang cheng",
+            "time_desc_json": "",
+            "station_id": "900000208421009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.85939;22.609626",
+            "poiid2_xy": "113.857962;22.612960",
+            "poiid2": "BV09203795"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "航城医院",
+            "station_num": "10",
+            "poiid1": "BS09513667",
+            "start_time": "",
+            "spell": "hang cheng yi yuan",
+            "time_desc_json": "",
+            "station_id": "900000208421010",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.844386;22.617677",
+            "poiid2_xy": "113.844386;22.617677",
+            "poiid2": "BV09203791"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "机场东",
+            "station_num": "11",
+            "poiid1": "BS10491180",
+            "start_time": "",
+            "spell": "ji chang dong",
+            "time_desc_json": "",
+            "station_id": "900000208421011",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.822608;22.647",
+            "poiid2_xy": "113.822634;22.647001",
+            "poiid2": "BV10249071"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "机场北",
+            "station_num": "12",
+            "poiid1": "BS13486439",
+            "start_time": "",
+            "spell": "ji chang bei",
+            "time_desc_json": "",
+            "station_id": "900000208421012",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.798428;22.651507",
+            "poiid2_xy": "113.798296;22.651433",
+            "poiid2": "BV10680166"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.798428;22.539572;113.967048;22.651507",
+        "air": "",
+        "length": "24.139000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "机场北",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.798428,113.79906,113.799865,113.800838,113.801959,113.803205,113.804556,113.805991,113.807488,113.809026,113.810585,113.812143,113.813678,113.81517,113.816598,113.817941,113.819176,113.820284,113.822258,113.822608,113.825125,113.82736,113.829931,113.831893,113.833855,113.835238,113.836702,113.83757,113.838225,113.83858,113.838997,113.839219,113.839484,113.840088,113.840657,113.84121,113.841765,113.842341,113.844386,113.848324,113.849745,113.850932,113.852021,113.852652,113.853108,113.853499,113.855682,113.857962,113.85832,113.858819,113.85939,113.859453,113.860213,113.861089,113.862526,113.86403,113.866013,113.867296,113.868967,113.870092,113.871459,113.872662,113.873788,113.874466,113.875263,113.876081,113.877712,113.882626,113.889751,113.903238,113.904743,113.906062,113.907211,113.908203,113.909054,113.909778,113.910389,113.910903,113.911333,113.911695,113.912003,113.912271,113.912515,113.912747,113.912985,113.913241,113.91353,113.914745,113.915676,113.916607,113.917587,113.918722,113.920143,113.921151,113.923016,113.924132,113.925239,113.926337,113.927428,113.928513,113.929593,113.93067,113.931745,113.932819,113.933894,113.93497,113.93605,113.937133,113.938223,113.939319,113.940423,113.941536,113.944945,113.953842,113.955132,113.959201,113.964147,113.964563,113.965022,113.966187,113.967048",
+        "id": "900000208420",
+        "terminal_name": "白石洲",
+        "terminal_spell": "bai shi zhou",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁20号线二期",
+        "start_time": "",
+        "front_spell": "ji chang bei",
+        "busline_event": "",
+        "ys": "22.651507,22.65026,22.649312,22.648642,22.648215,22.647998,22.647958,22.648059,22.64827,22.648555,22.648882,22.649217,22.649526,22.649775,22.649931,22.649959,22.649827,22.649501,22.647447,22.647,22.64244,22.638345,22.634689,22.632791,22.630946,22.628903,22.626464,22.624043,22.621691,22.620215,22.618934,22.61861,22.618285,22.617794,22.617473,22.617298,22.617241,22.617276,22.617677,22.618795,22.619099,22.619359,22.619646,22.619662,22.619444,22.619068,22.616173,22.61296,22.611954,22.610797,22.609626,22.6095,22.608077,22.606541,22.604834,22.603544,22.601298,22.599374,22.596876,22.595065,22.592941,22.591073,22.588879,22.587729,22.586578,22.585784,22.583878,22.578524,22.571682,22.558789,22.557667,22.55662,22.555642,22.554729,22.553877,22.553079,22.552332,22.551631,22.550971,22.550346,22.549753,22.549186,22.548641,22.548113,22.547596,22.547087,22.54658,22.545025,22.543492,22.542375,22.541461,22.540849,22.540456,22.540258,22.540126,22.540052,22.539981,22.539915,22.539854,22.539797,22.539746,22.539701,22.539662,22.539629,22.539604,22.539585,22.539574,22.539572,22.539577,22.539591,22.539615,22.539647,22.539806,22.540236,22.540236,22.540403,22.540403,22.540377,22.540272,22.539921,22.539604",
+        "total_price": "0",
+        "name": "地铁20号线二期(机场北--白石洲)",
+        "auto": "",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "机场北",
+            "station_num": "1",
+            "poiid1": "BS13486440",
+            "start_time": "",
+            "spell": "ji chang bei",
+            "time_desc_json": "",
+            "station_id": "900000208420001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.798428;22.651507",
+            "poiid2_xy": "113.798296;22.651433",
+            "poiid2": "BV10680166"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "机场东",
+            "station_num": "2",
+            "poiid1": "BS10491179",
+            "start_time": "",
+            "spell": "ji chang dong",
+            "time_desc_json": "",
+            "station_id": "900000208420002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.822608;22.647",
+            "poiid2_xy": "113.822634;22.647001",
+            "poiid2": "BV10249071"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "航城医院",
+            "station_num": "3",
+            "poiid1": "BS09513668",
+            "start_time": "",
+            "spell": "hang cheng yi yuan",
+            "time_desc_json": "",
+            "station_id": "900000208420003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.844386;22.617677",
+            "poiid2_xy": "113.844386;22.617677",
+            "poiid2": "BV09203791"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "航城",
+            "station_num": "4",
+            "poiid1": "BS09513680",
+            "start_time": "",
+            "spell": "hang cheng",
+            "time_desc_json": "",
+            "station_id": "900000208420004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.85939;22.609626",
+            "poiid2_xy": "113.857962;22.612960",
+            "poiid2": "BV09203795"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "西乡公园",
+            "station_num": "5",
+            "poiid1": "BS09290582",
+            "start_time": "",
+            "spell": "xi xiang gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000208420005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.882626;22.578524",
+            "poiid2_xy": "113.882626;22.578524",
+            "poiid2": "BV09115359"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "上川一路",
+            "station_num": "6",
+            "poiid1": "BS09513670",
+            "start_time": "",
+            "spell": "shang chuan yi lu",
+            "time_desc_json": "",
+            "station_id": "900000208420006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.889751;22.571682",
+            "poiid2_xy": "113.889751;22.571682",
+            "poiid2": "BV09203792"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "新安老城",
+            "station_num": "7",
+            "poiid1": "BS09513671",
+            "start_time": "",
+            "spell": "xin an lao cheng",
+            "time_desc_json": "",
+            "station_id": "900000208420007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.903238;22.558789",
+            "poiid2_xy": "113.903238;22.558789",
+            "poiid2": "BV09203793"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "中山公园西",
+            "station_num": "8",
+            "poiid1": "BS09513677",
+            "start_time": "",
+            "spell": "zhong shan gong yuan xi",
+            "time_desc_json": "",
+            "station_id": "900000208420008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.914745;22.545025",
+            "poiid2_xy": "113.914745;22.545025",
+            "poiid2": "BV09203794"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "南头古城",
+            "station_num": "9",
+            "poiid1": "BS09513675",
+            "start_time": "",
+            "spell": "nan tou gu cheng",
+            "time_desc_json": "",
+            "station_id": "900000208420009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.923016;22.540126",
+            "poiid2_xy": "113.924170;22.537490",
+            "poiid2": "BV10996671"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "深大",
+            "station_num": "10",
+            "poiid1": "BS09513673",
+            "start_time": "",
+            "spell": "shen da",
+            "time_desc_json": "",
+            "station_id": "900000208420010",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.944945;22.539806",
+            "poiid2_xy": "113.944173;22.538667",
+            "poiid2": "BV10249974"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "高新园",
+            "station_num": "11",
+            "poiid1": "BS10492817",
+            "start_time": "",
+            "spell": "gao xin yuan",
+            "time_desc_json": "",
+            "station_id": "900000208420011",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.953842;22.540236",
+            "poiid2_xy": "113.953842;22.540236",
+            "poiid2": "BV10249975"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "白石洲",
+            "station_num": "12",
+            "poiid1": "BS10481390",
+            "start_time": "",
+            "spell": "bai shi zhou",
+            "time_desc_json": "",
+            "station_id": "900000208420012",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.967048;22.539604",
+            "poiid2_xy": "113.967048;22.539604",
+            "poiid2": "BV10244044"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.798428;22.539572;113.967048;22.651507",
+        "air": "",
+        "length": "24.139000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.776388;22.537490;113.967048;22.737217",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期;(在建)29号线;1号线/罗宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024063;900000208420",
+            "businfo_line_shields": "1号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.539604",
+            "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期",
+            "businfo_stationids": "440300024063016;900000208420012",
+            "businfo_ui_colors": "00AB4F;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-20.212523",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS10481390",
+            "poiid2": "BV10244044",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白石洲(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "623587",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁1号线(罗宝线)(机场东--罗湖);(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.967048",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000216967",
+            "businfo_line_shields": "29号线",
+            "businfo_line_types": "2",
+            "y": "22.539190",
+            "businfo_line_alias": "(在建)29号线",
+            "businfo_stationids": "900000216967008",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-111.445461",
+            "businfo_expect_dates": "",
+            "poiid": "BS09750791",
+            "poiid2": "BV10244044",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白石洲(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "623587",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁29号线(兴东--红树湾南)",
+            "x": "113.968153",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁29号线",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000216966",
+            "businfo_line_shields": "29号线",
+            "businfo_line_types": "2",
+            "y": "22.539190",
+            "businfo_line_alias": "(在建)29号线",
+            "businfo_stationids": "900000216966002",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "76.697606",
+            "businfo_expect_dates": "",
+            "poiid": "BS09750897",
+            "poiid2": "BV10244044",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白石洲(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "623587",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁29号线(红树湾南--兴东)",
+            "x": "113.968153",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁29号线",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024064;900000208421",
+            "businfo_line_shields": "1号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.539604",
+            "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期",
+            "businfo_stationids": "440300024064017;900000208421001",
+            "businfo_ui_colors": "00AB4F;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "159.776678",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS10481391",
+            "poiid2": "BV10244044",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白石洲(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "623587",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁1号线(罗宝线)(罗湖--机场东);(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.967048",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.967048",
+        "review_total": "58",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10244044",
+        "name": "白石洲(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024063;900000208420|440300024064;900000208421|900000216967|900000216966",
+          "display_x": "113.967048",
+          "display_y": "22.539604",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS10481390|BS10481391|BS09750791|BS09750897",
+          "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期|1号线/罗宝线;(在建)20号线二期|(在建)29号线|(在建)29号线",
+          "businfo_ui_colors": "00AB4F;|00AB4F;| | ",
+          "businfo_alias": "",
+          "businfo_angles": "-20.212523|159.776678|-111.445461|76.697606",
+          "businfo_line_names": "地铁1号线(罗宝线)(机场东--罗湖);(在建)地铁20号线二期(机场北--白石洲)|地铁1号线(罗宝线)(罗湖--机场东);(在建)地铁20号线二期(白石洲--机场北)|(在建)地铁29号线(兴东--红树湾南)|(在建)地铁29号线(红树湾南--兴东)",
+          "businfo_stationids": "440300024063016;900000208420012|440300024064017;900000208421001|900000216967008|900000216966002",
+          "businfo_line_types": "2;2|2;2|2|2",
+          "businfo_road_ids": "623587|623587|623587|623587",
+          "businfo_station_status": "1;3|1;3|3|3",
+          "businfo_meshs": "F49F018048|F49F018048|F49F018048|F49F018048",
+          "xs": "113.967048|113.967048|113.968153|113.968153",
+          "ys": "22.539604|22.539604|22.539190|22.539190",
+          "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期|地铁1号线(罗宝线);(在建)地铁20号线二期|(在建)地铁29号线|(在建)地铁29号线",
+          "businfo_expect_dates": ";预计2028年开通|;预计2028年开通| | ",
+          "businfo_realbus": "0;0|0;0|0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10244044/comment/4551233e48408f2178269b8e1ab16e90_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.539824+++22.538931+++22.540245+++22.539368",
+            "poiids": "BX10018541+++BX10018539+++BX10018540+++BX10018542",
+            "name": "parent_other_rel",
+            "pxs": "113.967899+++113.967687+++113.966540+++113.966366",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "白石洲地铁站A口+++白石洲地铁站D口+++白石洲地铁站B口+++白石洲地铁站C口",
+            "address": "1号线/罗宝线+++1号线/罗宝线+++1号线/罗宝线+++1号线/罗宝线",
+            "shortname": "A口+++D口+++B口+++C口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "白石洲(地铁站)",
+        "cpdata": "",
+        "latitude": "22.539604",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期;12号线/南宝线;1号线/罗宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024063;900000208420",
+            "businfo_line_shields": "1号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.647001",
+            "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期",
+            "businfo_stationids": "440300024063002;900000208420002",
+            "businfo_ui_colors": "00AB4F;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-56.313842",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS10491179",
+            "poiid2": "BV10249071",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场东(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "611563",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁1号线(罗宝线)(机场东--罗湖);(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.822634",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094862",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "22.647203",
+            "businfo_line_alias": "12号线/南宝线",
+            "businfo_stationids": "900000094862010",
+            "businfo_ui_colors": "A49ABD",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-60.877198",
+            "businfo_expect_dates": "",
+            "poiid": "BS13593617",
+            "poiid2": "BV10249071",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场东(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "611563",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东)",
+            "x": "113.822224",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁12号线(南宝线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094863",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "22.647203",
+            "businfo_line_alias": "12号线/南宝线",
+            "businfo_stationids": "900000094863024",
+            "businfo_ui_colors": "A49ABD",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "119.470897",
+            "businfo_expect_dates": "",
+            "poiid": "BS13593618",
+            "poiid2": "BV10249071",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场东(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "611563",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁12号线(南宝线)(左炮台东--海上田园东)",
+            "x": "113.822224",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁12号线(南宝线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024064;900000208421",
+            "businfo_line_shields": "1号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.647001",
+            "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期",
+            "businfo_stationids": "440300024064031;900000208421011",
+            "businfo_ui_colors": "00AB4F;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "119.104497",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS10491180",
+            "poiid2": "BV10249071",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场东(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "611563",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁1号线(罗宝线)(罗湖--机场东);(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.822634",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.822634",
+        "review_total": "41",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10249071",
+        "name": "机场东(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000094862|900000094863|440300024064;900000208421|440300024063;900000208420",
+          "display_x": "113.822634",
+          "display_y": "22.647001",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS13593617|BS13593618|BS10491180|BS10491179",
+          "businfo_line_alias": "12号线/南宝线|12号线/南宝线|1号线/罗宝线;(在建)20号线二期|1号线/罗宝线;(在建)20号线二期",
+          "businfo_ui_colors": "A49ABD|A49ABD|00AB4F;|00AB4F;",
+          "businfo_alias": "",
+          "businfo_angles": "-60.877198|119.470897|119.104497|-56.313842",
+          "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东)|地铁12号线(南宝线)(左炮台东--海上田园东)|地铁1号线(罗宝线)(罗湖--机场东);(在建)地铁20号线二期(白石洲--机场北)|地铁1号线(罗宝线)(机场东--罗湖);(在建)地铁20号线二期(机场北--白石洲)",
+          "businfo_stationids": "900000094862010|900000094863024|440300024064031;900000208421011|440300024063002;900000208420002",
+          "businfo_line_types": "2|2|2;2|2;2",
+          "businfo_road_ids": "611563|611563|611563|611563",
+          "businfo_station_status": "1|1|1;3|1;3",
+          "businfo_meshs": "F49F017047|F49F017047|F49F017047|F49F017047",
+          "xs": "113.822224|113.822224|113.822634|113.822634",
+          "ys": "22.647203|22.647203|22.647001|22.647001",
+          "businfo_line_keys": "地铁12号线(南宝线)|地铁12号线(南宝线)|地铁1号线(罗宝线);(在建)地铁20号线二期|地铁1号线(罗宝线);(在建)地铁20号线二期",
+          "businfo_expect_dates": " | |;预计2028年开通|;预计2028年开通",
+          "businfo_realbus": "0|0|0;0|0;0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10249071/headerImg/0970720ee9971ee3fb7ef86a19e0db54_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.646513+++22.647182+++22.648595+++22.645673",
+            "poiids": "BX10021936+++BX10018512+++BX09901504+++BX09901503",
+            "name": "parent_other_rel",
+            "pxs": "113.822754+++113.822704+++113.821636+++113.823051",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "机场东地铁站A出口+++机场东地铁站B口+++机场东地铁站D口+++机场东地铁站E口",
+            "address": "1号线/罗宝线+++1号线/罗宝线+++12号线/南宝线+++12号线/南宝线",
+            "shortname": "A出口+++B口+++D口+++E口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "机场东(地铁站)",
+        "cpdata": "",
+        "latitude": "22.647001",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "113.791127,22.669899,113.797813,22.659301",
+        "longitude": "113.794776",
+        "review_total": "0",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0IBPDIOXD",
+        "name": "深圳地铁20号线机场北车辆段",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.659615",
+            "longitude": "113.797658"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.659674",
+            "poiids": "B0H2HCJ5LK",
+            "name": "parent_other_rel",
+            "pxs": "113.797628",
+            "childtype": "31",
+            "poiname": "深圳地铁20号线机场北车辆段(东南门)",
+            "address": "深圳地铁20号线机场北车辆段",
+            "shortname": "东南门",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "value": "113.797639,22.65984_113.797431,22.659707_113.796772,22.659379_113.796473,22.659301_113.796144,22.659852_113.795104,22.661938_113.794595,22.662765_113.793315,22.665155_113.79252,22.666623_113.791127,22.669221_113.792258,22.669753_113.792581,22.669225_113.793925,22.669899_113.795845,22.66636_113.795907,22.665101_113.797813,22.661658_113.7978,22.661055_113.797579,22.661046_113.797639,22.65984",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "深圳地铁20号线机场北车辆段",
+        "cpdata": "",
+        "latitude": "22.665022",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.612960",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208420004",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-54.639834",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513680",
+            "poiid2": "BV09203795",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "航城(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "617428",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.857962",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.612960",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208421009",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "109.588855",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513679",
+            "poiid2": "BV09203795",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "航城(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "617428",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.857962",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.857962",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09203795",
+        "name": "航城(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208420|900000208421",
+          "display_x": "113.857962",
+          "display_y": "22.612960",
+          "businfo_ids": "BS09513680|BS09513679",
+          "businfo_line_alias": "(在建)20号线二期|(在建)20号线二期",
+          "businfo_ui_colors": " | ",
+          "businfo_alias": "",
+          "businfo_angles": "-54.639834|109.588855",
+          "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)|(在建)地铁20号线二期(白石洲--机场北)",
+          "businfo_stationids": "900000208420004|900000208421009",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "617428|617428",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F017047|F49F017047",
+          "xs": "113.857962|113.857962",
+          "ys": "22.612960|22.612960",
+          "businfo_line_keys": "(在建)地铁20号线二期|(在建)地铁20号线二期",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "航城(地铁站)",
+        "cpdata": "",
+        "latitude": "22.612960",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "991400",
+        "areacode": "0755",
+        "address": "深圳地铁20号线机场北车辆段",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.797628",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H2HCJ5LK",
+        "name": "深圳地铁20号线机场北车辆段(东南门)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "991400",
+        "disp_name": "深圳地铁20号线机场北车辆段(东南门)",
+        "cpdata": "",
+        "latitude": "22.659674",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.617677",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208420003",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "11.094252",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513668",
+            "poiid2": "BV09203791",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "航城医院(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "20213",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.844386",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.617677",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208421010",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-164.150731",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513667",
+            "poiid2": "BV09203791",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "航城医院(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "20213",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.844386",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.844386",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09203791",
+        "name": "航城医院(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208421|900000208420",
+          "display_x": "113.844386",
+          "display_y": "22.617677",
+          "businfo_ids": "BS09513667|BS09513668",
+          "businfo_line_alias": "(在建)20号线二期|(在建)20号线二期",
+          "businfo_ui_colors": " | ",
+          "businfo_alias": "",
+          "businfo_angles": "-164.150731|11.094252",
+          "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)|(在建)地铁20号线二期(机场北--白石洲)",
+          "businfo_stationids": "900000208421010|900000208420003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "20213|20213",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F017047|F49F017047",
+          "xs": "113.844386|113.844386",
+          "ys": "22.617677|22.617677",
+          "businfo_line_keys": "(在建)地铁20号线二期|(在建)地铁20号线二期",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "航城医院(地铁站)",
+        "cpdata": "",
+        "latitude": "22.617677",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "东华制造园C栋",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.840990",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0KB179QI8",
+        "name": "中交(广州建设)有限公司深圳地铁20号线二期七工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.610777",
+            "longitude": "113.840937"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://s-pic.oss-cn-beijing.aliyuncs.com/desensitize/images/publish/2a0375cdfb70ad17a2b5b20a456669f2.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中交(广州建设)有限公司深圳地铁20号线二期七工区项目部",
+        "cpdata": "",
+        "latitude": "22.610690",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期;11号线/机场线;20号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024056",
+            "businfo_line_shields": "11号线",
+            "businfo_line_types": "2",
+            "y": "22.651433",
+            "businfo_line_alias": "11号线/机场线",
+            "businfo_stationids": "440300024056026",
+            "businfo_ui_colors": "741D51",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "119.262740",
+            "businfo_expect_dates": "",
+            "poiid": "BS11564463",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头)",
+            "x": "113.798296",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁11号线(机场线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075925;900000208421",
+            "businfo_line_shields": "20号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.651513",
+            "businfo_line_alias": "20号线;(在建)20号线二期",
+            "businfo_stationids": "900000075925002;900000208421012",
+            "businfo_ui_colors": "84C3D0;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "118.125498",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS13486439",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁20号线(机场北--会展城);(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.798446",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁20号线;(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075926;900000208420",
+            "businfo_line_shields": "20号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.651513",
+            "businfo_line_alias": "20号线;(在建)20号线二期",
+            "businfo_stationids": "900000075926005;900000208420001",
+            "businfo_ui_colors": "84C3D0;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-61.874502",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS13486440",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁20号线(会展城--机场北);(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.798446",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁20号线;(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024057",
+            "businfo_line_shields": "11号线",
+            "businfo_line_types": "2",
+            "y": "22.651433",
+            "businfo_line_alias": "11号线/机场线",
+            "businfo_stationids": "440300024057026",
+            "businfo_ui_colors": "741D51",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-61.290514",
+            "businfo_expect_dates": "",
+            "poiid": "BS11564464",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁11号线(机场线)(碧头--岗厦北)",
+            "x": "113.798296",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁11号线(机场线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.798296",
+        "review_total": "17",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10680166",
+        "name": "机场北(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075926;900000208420|900000075925;900000208421|440300024056|440300024057",
+          "display_x": "113.798296",
+          "display_y": "22.651433",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS13486440|BS13486439|BS11564463|BS11564464",
+          "businfo_line_alias": "20号线;(在建)20号线二期|20号线;(在建)20号线二期|11号线/机场线|11号线/机场线",
+          "businfo_ui_colors": "84C3D0;|84C3D0;|741D51|741D51",
+          "businfo_alias": "",
+          "businfo_angles": "-61.874502|118.125498|119.262740|-61.290514",
+          "businfo_line_names": "地铁20号线(会展城--机场北);(在建)地铁20号线二期(机场北--白石洲)|地铁20号线(机场北--会展城);(在建)地铁20号线二期(白石洲--机场北)|地铁11号线(机场线)(岗厦北--碧头)|地铁11号线(机场线)(碧头--岗厦北)",
+          "businfo_stationids": "900000075926005;900000208420001|900000075925002;900000208421012|440300024056026|440300024057026",
+          "businfo_line_types": "2;2|2;2|2|2",
+          "businfo_road_ids": "649510|649510|649510|649510",
+          "businfo_station_status": "1;3|1;3|1|1",
+          "businfo_meshs": "F49F017047|F49F017047|F49F017047|F49F017047",
+          "xs": "113.798446|113.798446|113.798296|113.798296",
+          "ys": "22.651513|22.651513|22.651433|22.651433",
+          "businfo_line_keys": "地铁20号线;(在建)地铁20号线二期|地铁20号线;(在建)地铁20号线二期|地铁11号线(机场线)|地铁11号线(机场线)",
+          "businfo_expect_dates": ";预计2028年开通|;预计2028年开通| | ",
+          "businfo_realbus": "0;0|0;0|0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10680166/headerImg/6b2e4f4d5b1ae223388b8639b28862d8_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.652064+++22.650495+++22.652207+++22.650714+++22.650827",
+            "poiids": "BX09906243+++BX09906241+++BX09906242+++BX09906239+++BX09906240",
+            "name": "parent_other_rel",
+            "pxs": "113.797864+++113.799346+++113.798259+++113.798606+++113.798152",
+            "childtype": "107+++107+++107+++107+++107",
+            "poiname": "机场北地铁站A口+++机场北地铁站D口+++机场北地铁站E口+++机场北地铁站B口+++机场北地铁站C口",
+            "address": "11号线/机场线+++20号线+++20号线+++11号线/机场线+++11号线/机场线",
+            "shortname": "A口+++D口+++E口+++B口+++C口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "机场北(地铁站)",
+        "cpdata": "",
+        "latitude": "22.651433",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420;900000195551",
+            "businfo_line_shields": "20号线二期;15号线内环",
+            "businfo_line_types": "2;2",
+            "y": "22.578524",
+            "businfo_line_alias": "(在建)20号线二期;(在建)15号线",
+            "businfo_stationids": "900000208420005;900000195551008",
+            "businfo_ui_colors": ";AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-9.689153",
+            "businfo_expect_dates": "预计2028年开通;预计2028年开通",
+            "poiid": "BS09290582",
+            "poiid2": "BV09115359",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西乡公园(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "31279",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲);(在建)地铁15号线内环(前保--前保)",
+            "x": "113.882626",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁20号线二期;(在建)地铁15号线内环",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421;900000195552",
+            "businfo_line_shields": "20号线二期;15号线外环",
+            "businfo_line_types": "2;2",
+            "y": "22.578524",
+            "businfo_line_alias": "(在建)20号线二期;(在建)15号线",
+            "businfo_stationids": "900000208421008;900000195552018",
+            "businfo_ui_colors": ";AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-2.502261",
+            "businfo_expect_dates": "预计2028年开通;预计2028年开通",
+            "poiid": "BS09290581",
+            "poiid2": "BV09115359",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西乡公园(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "31279",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北);(在建)地铁15号线外环(前保--前保)",
+            "x": "113.882626",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁20号线二期;(在建)地铁15号线外环",
+            "businfo_station_status": "3;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.882626",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115359",
+        "name": "西乡公园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208420;900000195551|900000208421;900000195552",
+          "display_x": "113.882626",
+          "display_y": "22.578524",
+          "businfo_ids": "BS09290582|BS09290581",
+          "businfo_line_alias": "(在建)20号线二期;(在建)15号线|(在建)20号线二期;(在建)15号线",
+          "businfo_ui_colors": ";AAAAAA|;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-9.689153|-2.502261",
+          "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲);(在建)地铁15号线内环(前保--前保)|(在建)地铁20号线二期(白石洲--机场北);(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000208420005;900000195551008|900000208421008;900000195552018",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "31279|31279",
+          "businfo_station_status": "3;3|3;3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.882626|113.882626",
+          "ys": "22.578524|22.578524",
+          "businfo_line_keys": "(在建)地铁20号线二期;(在建)地铁15号线内环|(在建)地铁20号线二期;(在建)地铁15号线外环",
+          "businfo_expect_dates": "预计2028年开通;预计2028年开通|预计2028年开通;预计2028年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "西乡公园(地铁站)",
+        "cpdata": "",
+        "latitude": "22.578524",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.571682",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208421007",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "136.289914",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513669",
+            "poiid2": "BV09203792",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "上川一路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "686540",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.889751",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.571682",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208420006",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-43.839229",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513670",
+            "poiid2": "BV09203792",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "上川一路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "686540",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.889751",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.889751",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09203792",
+        "name": "上川一路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208420|900000208421",
+          "display_x": "113.889751",
+          "display_y": "22.571682",
+          "businfo_ids": "BS09513670|BS09513669",
+          "businfo_line_alias": "(在建)20号线二期|(在建)20号线二期",
+          "businfo_ui_colors": " | ",
+          "businfo_alias": "",
+          "businfo_angles": "-43.839229|136.289914",
+          "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)|(在建)地铁20号线二期(白石洲--机场北)",
+          "businfo_stationids": "900000208420006|900000208421007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "686540|686540",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.889751|113.889751",
+          "ys": "22.571682|22.571682",
+          "businfo_line_keys": "(在建)地铁20号线二期|(在建)地铁20号线二期",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/2f4d3022883e2ea7b716974315d69797",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "上川一路(地铁站)",
+        "cpdata": "",
+        "latitude": "22.571682",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.558789",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208420007",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-43.710086",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513671",
+            "poiid2": "BV09203793",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新安老城(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24162",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.903238",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.558789",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208421006",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "143.294920",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513672",
+            "poiid2": "BV09203793",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新安老城(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24162",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.903238",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.903238",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09203793",
+        "name": "新安老城(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208421|900000208420",
+          "display_x": "113.903238",
+          "display_y": "22.558789",
+          "businfo_ids": "BS09513672|BS09513671",
+          "businfo_line_alias": "(在建)20号线二期|(在建)20号线二期",
+          "businfo_ui_colors": " | ",
+          "businfo_alias": "",
+          "businfo_angles": "143.294920|-43.710086",
+          "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)|(在建)地铁20号线二期(机场北--白石洲)",
+          "businfo_stationids": "900000208421006|900000208420007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "24162|24162",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.903238|113.903238",
+          "ys": "22.558789|22.558789",
+          "businfo_line_keys": "(在建)地铁20号线二期|(在建)地铁20号线二期",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "新安老城(地铁站)",
+        "cpdata": "",
+        "latitude": "22.558789",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期;12号线/南宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094862",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "22.537490",
+            "businfo_line_alias": "12号线/南宝线",
+            "businfo_stationids": "900000094862024",
+            "businfo_ui_colors": "A49ABD",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-84.906565",
+            "businfo_expect_dates": "",
+            "poiid": "BS12197355",
+            "poiid2": "BV10996671",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "南头古城(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "703818",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东)",
+            "x": "113.924170",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁12号线(南宝线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094863",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "22.537490",
+            "businfo_line_alias": "12号线/南宝线",
+            "businfo_stationids": "900000094863010",
+            "businfo_ui_colors": "A49ABD",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "95.079608",
+            "businfo_expect_dates": "",
+            "poiid": "BS12197354",
+            "poiid2": "BV10996671",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "南头古城(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "703818",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁12号线(南宝线)(左炮台东--海上田园东)",
+            "x": "113.924170",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁12号线(南宝线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.540126",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208420009",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-4.048500",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513675",
+            "poiid2": "BV10996671",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "南头古城(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24836",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.923016",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.540126",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208421004",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "176.206371",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513676",
+            "poiid2": "BV10996671",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "南头古城(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24836",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.923016",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.924170",
+        "review_total": "36",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10996671",
+        "name": "南头古城(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208420|900000208421|900000094862|900000094863",
+          "display_x": "113.924170",
+          "display_y": "22.537490",
+          "businfo_ids": "BS09513675|BS09513676|BS12197355|BS12197354",
+          "businfo_line_alias": "(在建)20号线二期|(在建)20号线二期|12号线/南宝线|12号线/南宝线",
+          "businfo_ui_colors": " | |A49ABD|A49ABD",
+          "businfo_alias": "",
+          "businfo_angles": "-4.048500|176.206371|-84.906565|95.079608",
+          "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)|(在建)地铁20号线二期(白石洲--机场北)|地铁12号线(南宝线)(海上田园东--左炮台东)|地铁12号线(南宝线)(左炮台东--海上田园东)",
+          "businfo_stationids": "900000208420009|900000208421004|900000094862024|900000094863010",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "24836|24836|703818|703818",
+          "businfo_station_status": "3|3|1|1",
+          "businfo_meshs": "F49F018048|F49F018048|F49F018048|F49F018048",
+          "xs": "113.923016|113.923016|113.924170|113.924170",
+          "ys": "22.540126|22.540126|22.537490|22.537490",
+          "businfo_line_keys": "(在建)地铁20号线二期|(在建)地铁20号线二期|地铁12号线(南宝线)|地铁12号线(南宝线)",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通| | ",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10996671/comment/20127387dab939fc09ca816cc6b7a68b_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.540464+++22.538899+++22.538870+++22.536811+++22.537138+++22.535826+++22.535515",
+            "poiids": "BX09906464+++BX09906461+++BX09906465+++BX09912133+++BX09906463+++BX09906460+++BX09912132",
+            "name": "parent_other_rel",
+            "pxs": "113.922848+++113.924320+++113.923771+++113.924034+++113.923687+++113.924007+++113.923875",
+            "childtype": "107+++107+++107+++107+++107+++107+++107",
+            "poiname": "南头古城地铁站C口+++南头古城地铁站A口+++南头古城地铁站D口+++南头古城地铁站E2口+++南头古城地铁站E1口+++南头古城地铁站E3口+++南头古城地铁站E4口",
+            "address": "12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线",
+            "shortname": "C口+++A口+++D口+++E2口+++E1口+++E3口+++E4口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "南头古城(地铁站)",
+        "cpdata": "",
+        "latitude": "22.537490",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "河东工业路1号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.888233",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0KDHUIMLR",
+        "name": "中交(广州)建设有限公司深圳地铁20号线二期工程四工区项目",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.571958",
+            "longitude": "113.888278"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中交(广州)建设有限公司深圳地铁20号线二期工程四工区项目",
+        "cpdata": "",
+        "latitude": "22.571927",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.545025",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208421005",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "121.270558",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513678",
+            "poiid2": "BV09203794",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中山公园西(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "19768",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.914745",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420",
+            "businfo_line_shields": "20号线二期",
+            "businfo_line_types": "2",
+            "y": "22.545025",
+            "businfo_line_alias": "(在建)20号线二期",
+            "businfo_stationids": "900000208420008",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-51.997693",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09513677",
+            "poiid2": "BV09203794",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中山公园西(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "19768",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.914745",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁20号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.914745",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09203794",
+        "name": "中山公园西(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208421|900000208420",
+          "display_x": "113.914745",
+          "display_y": "22.545025",
+          "businfo_ids": "BS09513678|BS09513677",
+          "businfo_line_alias": "(在建)20号线二期|(在建)20号线二期",
+          "businfo_ui_colors": " | ",
+          "businfo_alias": "",
+          "businfo_angles": "121.270558|-51.997693",
+          "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北)|(在建)地铁20号线二期(机场北--白石洲)",
+          "businfo_stationids": "900000208421005|900000208420008",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "19768|19768",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.914745|113.914745",
+          "ys": "22.545025|22.545025",
+          "businfo_line_keys": "(在建)地铁20号线二期|(在建)地铁20号线二期",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "中山公园西(地铁站)",
+        "cpdata": "",
+        "latitude": "22.545025",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "甲子塘大道与光明大道交叉口北20米",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.910850",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0GKC7TQ67",
+        "name": "中建地下空间深圳地铁13号线二期(北延)五工区",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.737019",
+            "longitude": "113.910918"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/a97dc810e9efd251151267ad9e7e5971",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中建地下空间深圳地铁13号线二期(北延)五工区",
+        "cpdata": "",
+        "latitude": "22.737217",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "南山大道2060号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.914817",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0K1C77TXL",
+        "name": "中交一公局集团深圳地铁20号线二期工程施工总承包土建三工区",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.542375",
+            "longitude": "113.914762"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中交一公局集团深圳地铁20号线二期工程施工总承包土建三工区",
+        "cpdata": "",
+        "latitude": "22.542364",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期;1号线/罗宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024063;900000208420",
+            "businfo_line_shields": "1号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.540236",
+            "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期",
+            "businfo_stationids": "440300024063015;900000208420011",
+            "businfo_ui_colors": "00AB4F;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "1.383502",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS10492817",
+            "poiid2": "BV10249975",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "高新园(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "25152",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁1号线(罗宝线)(机场东--罗湖);(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.953842",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024064;900000208421",
+            "businfo_line_shields": "1号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.540236",
+            "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期",
+            "businfo_stationids": "440300024064018;900000208421002",
+            "businfo_ui_colors": "00AB4F;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "180.000000",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS10492818",
+            "poiid2": "BV10249975",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "高新园(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "25152",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁1号线(罗宝线)(罗湖--机场东);(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.953842",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.953842",
+        "review_total": "67",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10249975",
+        "name": "高新园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024064;900000208421|440300024063;900000208420",
+          "display_x": "113.953842",
+          "display_y": "22.540236",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS10492818|BS10492817",
+          "businfo_line_alias": "1号线/罗宝线;(在建)20号线二期|1号线/罗宝线;(在建)20号线二期",
+          "businfo_ui_colors": "00AB4F;|00AB4F;",
+          "businfo_alias": "",
+          "businfo_angles": "180.000000|1.383502",
+          "businfo_line_names": "地铁1号线(罗宝线)(罗湖--机场东);(在建)地铁20号线二期(白石洲--机场北)|地铁1号线(罗宝线)(机场东--罗湖);(在建)地铁20号线二期(机场北--白石洲)",
+          "businfo_stationids": "440300024064018;900000208421002|440300024063015;900000208420011",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "25152|25152",
+          "businfo_station_status": "1;3|1;3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.953842|113.953842",
+          "ys": "22.540236|22.540236",
+          "businfo_line_keys": "地铁1号线(罗宝线);(在建)地铁20号线二期|地铁1号线(罗宝线);(在建)地铁20号线二期",
+          "businfo_expect_dates": ";预计2028年开通|;预计2028年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10249975/comment/28cd866d4911ca59780895d3f7e10310_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.540697+++22.540732+++22.539873+++22.539836",
+            "poiids": "BX10018562+++BX10018563+++BX10018560+++BX10018561",
+            "name": "parent_other_rel",
+            "pxs": "113.954595+++113.952848+++113.954713+++113.953035",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "高新园地铁站A口+++高新园地铁站B口+++高新园地铁站D口+++高新园地铁站C口",
+            "address": "1号线/罗宝线+++1号线/罗宝线+++1号线/罗宝线+++1号线/罗宝线",
+            "shortname": "A口+++B口+++D口+++C口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "高新园(地铁站)",
+        "cpdata": "",
+        "latitude": "22.540236",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "12号线/南宝线;20号线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.777453",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10034590",
+        "name": "国展地铁站C2口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075925;900000075926;900000094862;900000094863",
+          "businfo_landmark_poiids": "B0G0XC0C4N;BV11470973;BV11635618;BV11641090;B02F37VAM7;B0HAUUTLNI",
+          "businfo_line_alias": "20号线;20号线;12号线/南宝线;12号线/南宝线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "900000075925004;900000075926003;900000094862004;900000094863030",
+          "eys": "22.69668",
+          "businfo_ui_colors": "84C3D0;84C3D0;A49ABD;A49ABD",
+          "businfo_exitids": "90000007592500402;90000007592600301;90000009486200405;90000009486303003",
+          "poiid1s": "BT10034589",
+          "exs": "113.777453",
+          "businfo_station_name": "国展",
+          "businfo_line_names": "地铁20号线(机场北--会展城);地铁20号线(会展城--机场北);地铁12号线(南宝线)(海上田园东--左炮台东);地铁12号线(南宝线)(左炮台东--海上田园东)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁20号线;地铁20号线;地铁12号线(南宝线);地铁12号线(南宝线)",
+          "businfo_station_name_en": "International Exhibition",
+          "businfo_station_poiid2": "BV10996669"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "国展地铁站C2口",
+        "cpdata": "",
+        "latitude": "22.696680",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "12号线/南宝线;20号线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.776388",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10034193",
+        "name": "国展北地铁站C2口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075925;900000075926;900000094862;900000094863",
+          "businfo_landmark_poiids": "B0G2VAKMBY;B0G0XNVW79;B0HBXUR922;B0HG6DEKZ7;B0HB2SXB70;B0HBXUR9N7",
+          "businfo_line_alias": "20号线;20号线;12号线/南宝线;12号线/南宝线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "900000075925005;900000075926002;900000094862003;900000094863031",
+          "eys": "22.703588",
+          "businfo_ui_colors": "84C3D0;84C3D0;A49ABD;A49ABD",
+          "businfo_exitids": "90000007592500502;90000007592600202;90000009486200303;90000009486303104",
+          "poiid1s": "BT10034192",
+          "exs": "113.776388",
+          "businfo_station_name": "国展北",
+          "businfo_line_names": "地铁20号线(机场北--会展城);地铁20号线(会展城--机场北);地铁12号线(南宝线)(海上田园东--左炮台东);地铁12号线(南宝线)(左炮台东--海上田园东)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁20号线;地铁20号线;地铁12号线(南宝线);地铁12号线(南宝线)",
+          "businfo_station_name_en": "Nation Zhanbei",
+          "businfo_station_poiid2": "BV10996657"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "国展北地铁站C2口",
+        "cpdata": "",
+        "latitude": "22.703588",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "恒基国际会展中心B栋3楼",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.791947",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0G35ZVLI0",
+        "name": "中国铁建电气化局深圳地铁20号线一期项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.688715",
+            "longitude": "113.791949"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/405f97102d91d51b98193c4de607dcd3",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中国铁建电气化局深圳地铁20号线一期项目经理部",
+        "cpdata": "",
+        "latitude": "22.688804",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}
