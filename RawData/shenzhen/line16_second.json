@@ -1,0 +1,3473 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440300",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁16号线二期",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727444303.0",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440300",
+        "target_city": "4403",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "114.192548500,22.756447800,114.377054500,22.603882200",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440300||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "2722311021779363458_sc-00|ia-po|sy-no|si-po|ci-440300|tg-or",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.646000;出入口=0.263000;房产=0.041000\u0006交通出行|地铁站=0.611000;出入口|地铁站出入口=0.255000;交通出行|公交站=0.031000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁16号线二期",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.646000;出入口=0.263000;房产=0.041000\u0006交通出行|地铁站=0.611000;出入口|地铁站出入口=0.255000;交通出行|公交站=0.031000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "深圳市",
+        "result_adcode": "440300"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁16号线二期",
+    "message": "Successful.",
+    "total": "99",
+    "busline_list": [
+      {
+        "front_name": "大运",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "114.22766,114.227485,114.227431,114.227394,114.227364,114.227362,114.227378,114.227383,114.227359,114.227336,114.227316,114.227266,114.22715,114.227052,114.2268,114.226714,114.22673,114.226896,114.227695,114.228516,114.229916,114.230152,114.230317,114.231442,114.231935,114.232102,114.232158,114.232169,114.232029,114.231793,114.231858,114.232051,114.232762,114.235043,114.235877,114.236088,114.23626,114.236308,114.238046,114.238069,114.238125,114.238128,114.237994,114.237801,114.237645,114.237205,114.236095,114.234799,114.233026,114.231674,114.230762,114.22844,114.222086,114.221904,114.220394,114.219032,114.218407,114.218139,114.217801,114.217672,114.217605,114.217618,114.217742,114.217902,114.218187,114.21845,114.218777,114.219698,114.224332",
+        "id": "900000167165",
+        "terminal_name": "西坑",
+        "terminal_spell": "xi keng",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁16号线二期",
+        "start_time": "",
+        "front_spell": "da yun",
+        "busline_event": "",
+        "ys": "22.685798,22.685159,22.684808,22.684481,22.684016,22.683556,22.682962,22.681848,22.680789,22.680408,22.680144,22.679773,22.679188,22.678787,22.677812,22.677391,22.677248,22.676966,22.676114,22.675476,22.674422,22.674248,22.6741,22.673203,22.672904,22.672753,22.672587,22.672194,22.669271,22.665568,22.661727,22.660935,22.659672,22.656586,22.654963,22.654483,22.65402,22.653827,22.644745,22.644566,22.643878,22.643222,22.642835,22.642593,22.642469,22.642301,22.641949,22.641521,22.640863,22.640254,22.639828,22.638674,22.635625,22.635568,22.63483,22.634228,22.634033,22.633939,22.633763,22.633535,22.633278,22.632741,22.632065,22.631471,22.630681,22.63002,22.629233,22.626882,22.616596",
+        "total_price": "0",
+        "name": "地铁16号线二期(大运--西坑)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "大运",
+            "station_num": "1",
+            "poiid1": "BS13542357",
+            "start_time": "",
+            "spell": "da yun",
+            "time_desc_json": "",
+            "station_id": "900000167165001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.22766;22.685798",
+            "poiid2_xy": "114.228163;22.685720",
+            "poiid2": "BV10249953"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "金源",
+            "station_num": "2",
+            "poiid1": "BS09682383",
+            "start_time": "",
+            "spell": "jin yuan",
+            "time_desc_json": "",
+            "station_id": "900000167165002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.230152;22.674248",
+            "poiid2_xy": "114.230152;22.674248",
+            "poiid2": "BV09271718"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "吉溪",
+            "station_num": "3",
+            "poiid1": "BS09682381",
+            "start_time": "",
+            "spell": "ji xi",
+            "time_desc_json": "",
+            "station_id": "900000167165003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.232762;22.659672",
+            "poiid2_xy": "114.232762;22.659672",
+            "poiid2": "BV09271717"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "大安",
+            "station_num": "4",
+            "poiid1": "BS09682379",
+            "start_time": "",
+            "spell": "da an",
+            "time_desc_json": "",
+            "station_id": "900000167165004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.236088;22.654483",
+            "poiid2_xy": "114.236088;22.654483",
+            "poiid2": "BV09271716"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "园山",
+            "station_num": "5",
+            "poiid1": "BS13347486",
+            "start_time": "",
+            "spell": "yuan shan",
+            "time_desc_json": "",
+            "station_id": "900000167165005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.238046;22.644745",
+            "poiid2_xy": "114.238046;22.644745",
+            "poiid2": "BV11564242"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "大康",
+            "station_num": "6",
+            "poiid1": "BS09682385",
+            "start_time": "",
+            "spell": "da kang",
+            "time_desc_json": "",
+            "station_id": "900000167165006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.22844;22.638674",
+            "poiid2_xy": "114.228440;22.638674",
+            "poiid2": "BV09271719"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "福坑",
+            "station_num": "7",
+            "poiid1": "BS13347493",
+            "start_time": "",
+            "spell": "fu keng",
+            "time_desc_json": "",
+            "station_id": "900000167165007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.222086;22.635625",
+            "poiid2_xy": "114.222086;22.635625",
+            "poiid2": "BV11564246"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "安良",
+            "station_num": "8",
+            "poiid1": "BS13347482",
+            "start_time": "",
+            "spell": "an liang",
+            "time_desc_json": "",
+            "station_id": "900000167165008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.219698;22.626882",
+            "poiid2_xy": "114.219698;22.626882",
+            "poiid2": "BV11564240"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "西坑",
+            "station_num": "9",
+            "poiid1": "BS13347492",
+            "start_time": "",
+            "spell": "xi keng",
+            "time_desc_json": "",
+            "station_id": "900000167165009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.224332;22.616596",
+            "poiid2_xy": "114.224332;22.616596",
+            "poiid2": "BV11564245"
+          }
+        ],
+        "interval": "",
+        "bounds": "114.217605;22.616596;114.238128;22.685798",
+        "air": "",
+        "length": "9.540000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "西坑",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "114.224332,114.219698,114.218777,114.21845,114.218187,114.217902,114.217742,114.217618,114.217605,114.217672,114.217801,114.218139,114.218407,114.219032,114.220394,114.221904,114.222086,114.22844,114.230762,114.231674,114.233026,114.234799,114.236095,114.237205,114.237645,114.237801,114.237994,114.238128,114.238125,114.238069,114.238046,114.236308,114.23626,114.236088,114.235877,114.235043,114.232762,114.232051,114.231858,114.231793,114.232029,114.232169,114.232158,114.232102,114.231935,114.231442,114.230317,114.230152,114.229916,114.228516,114.227695,114.226896,114.22673,114.226714,114.2268,114.227052,114.22715,114.227266,114.227316,114.227336,114.227359,114.227383,114.227378,114.227362,114.227364,114.227394,114.227431,114.227485,114.22766",
+        "id": "900000167164",
+        "terminal_name": "大运",
+        "terminal_spell": "da yun",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁16号线二期",
+        "start_time": "",
+        "front_spell": "xi keng",
+        "busline_event": "",
+        "ys": "22.616596,22.626882,22.629233,22.63002,22.630681,22.631471,22.632065,22.632741,22.633278,22.633535,22.633763,22.633939,22.634033,22.634228,22.63483,22.635568,22.635625,22.638674,22.639828,22.640254,22.640863,22.641521,22.641949,22.642301,22.642469,22.642593,22.642835,22.643222,22.643878,22.644566,22.644745,22.653827,22.65402,22.654483,22.654963,22.656586,22.659672,22.660935,22.661727,22.665568,22.669271,22.672194,22.672587,22.672753,22.672904,22.673203,22.6741,22.674248,22.674422,22.675476,22.676114,22.676966,22.677248,22.677391,22.677812,22.678787,22.679188,22.679773,22.680144,22.680408,22.680789,22.681848,22.682962,22.683556,22.684016,22.684481,22.684808,22.685159,22.685798",
+        "total_price": "0",
+        "name": "地铁16号线二期(西坑--大运)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "西坑",
+            "station_num": "1",
+            "poiid1": "BS13347491",
+            "start_time": "",
+            "spell": "xi keng",
+            "time_desc_json": "",
+            "station_id": "900000167164001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.224332;22.616596",
+            "poiid2_xy": "114.224332;22.616596",
+            "poiid2": "BV11564245"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "安良",
+            "station_num": "2",
+            "poiid1": "BS13347481",
+            "start_time": "",
+            "spell": "an liang",
+            "time_desc_json": "",
+            "station_id": "900000167164002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.219698;22.626882",
+            "poiid2_xy": "114.219698;22.626882",
+            "poiid2": "BV11564240"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "福坑",
+            "station_num": "3",
+            "poiid1": "BS13347494",
+            "start_time": "",
+            "spell": "fu keng",
+            "time_desc_json": "",
+            "station_id": "900000167164003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.222086;22.635625",
+            "poiid2_xy": "114.222086;22.635625",
+            "poiid2": "BV11564246"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "大康",
+            "station_num": "4",
+            "poiid1": "BS09682384",
+            "start_time": "",
+            "spell": "da kang",
+            "time_desc_json": "",
+            "station_id": "900000167164004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.22844;22.638674",
+            "poiid2_xy": "114.228440;22.638674",
+            "poiid2": "BV09271719"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "园山",
+            "station_num": "5",
+            "poiid1": "BS13347485",
+            "start_time": "",
+            "spell": "yuan shan",
+            "time_desc_json": "",
+            "station_id": "900000167164005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.238046;22.644745",
+            "poiid2_xy": "114.238046;22.644745",
+            "poiid2": "BV11564242"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "大安",
+            "station_num": "6",
+            "poiid1": "BS09682378",
+            "start_time": "",
+            "spell": "da an",
+            "time_desc_json": "",
+            "station_id": "900000167164006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.236088;22.654483",
+            "poiid2_xy": "114.236088;22.654483",
+            "poiid2": "BV09271716"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "吉溪",
+            "station_num": "7",
+            "poiid1": "BS09682380",
+            "start_time": "",
+            "spell": "ji xi",
+            "time_desc_json": "",
+            "station_id": "900000167164007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.232762;22.659672",
+            "poiid2_xy": "114.232762;22.659672",
+            "poiid2": "BV09271717"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "金源",
+            "station_num": "8",
+            "poiid1": "BS09682382",
+            "start_time": "",
+            "spell": "jin yuan",
+            "time_desc_json": "",
+            "station_id": "900000167164008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.230152;22.674248",
+            "poiid2_xy": "114.230152;22.674248",
+            "poiid2": "BV09271718"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "大运",
+            "station_num": "9",
+            "poiid1": "BS13542356",
+            "start_time": "",
+            "spell": "da yun",
+            "time_desc_json": "",
+            "station_id": "900000167164009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.22766;22.685798",
+            "poiid2_xy": "114.228163;22.685720",
+            "poiid2": "BV10249953"
+          }
+        ],
+        "interval": "",
+        "bounds": "114.217605;22.616596;114.238128;22.685798",
+        "air": "",
+        "length": "9.540000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "114.207924;22.616596;114.361679;22.743734",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.616596",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165009",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-65.747709",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347492",
+            "poiid2": "BV11564245",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西坑(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "647348",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.224332",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.616596",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164001",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "114.252291",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347491",
+            "poiid2": "BV11564245",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西坑(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "647348",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.224332",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.224332",
+        "review_total": "0",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11564245",
+        "name": "西坑(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167164|900000167165",
+          "display_x": "114.224332",
+          "display_y": "22.616596",
+          "businfo_ids": "BS13347491|BS13347492",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "114.252291|-65.747709",
+          "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)|(在建)地铁16号线二期(大运--西坑)",
+          "businfo_stationids": "900000167164001|900000167165009",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "647348|647348",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.224332|114.224332",
+          "ys": "22.616596|22.616596",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "西坑(地铁站)",
+        "cpdata": "",
+        "latitude": "22.616596",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "17758395852",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "八斗路16号院",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.243778",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0JRNZ8LQ8",
+        "name": "中铁建设集团有限公司深圳地铁16号线二期工程项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.647700",
+            "longitude": "114.243711"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/B0JRNZ8LQ8/headerImg/2ba37ddd4384a7f706e0598f0f6ab005_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁建设集团有限公司深圳地铁16号线二期工程项目经理部",
+        "cpdata": "",
+        "latitude": "22.647682",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.674248",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-36.400911",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682383",
+            "poiid2": "BV09271718",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "金源(地铁站)",
+            "businfo_mesh": "F50F016002",
+            "businfo_road_id": "663857",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.230152",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.674248",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164008",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "138.108857",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682382",
+            "poiid2": "BV09271718",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "金源(地铁站)",
+            "businfo_mesh": "F50F016002",
+            "businfo_road_id": "663857",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.230152",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.230152",
+        "review_total": "0",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09271718",
+        "name": "金源(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167165|900000167164",
+          "display_x": "114.230152",
+          "display_y": "22.674248",
+          "businfo_ids": "BS09682383|BS09682382",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-36.400911|138.108857",
+          "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)|(在建)地铁16号线二期(西坑--大运)",
+          "businfo_stationids": "900000167165002|900000167164008",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "663857|663857",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F016002|F50F016002",
+          "xs": "114.230152|114.230152",
+          "ys": "22.674248|22.674248",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "金源(地铁站)",
+        "cpdata": "",
+        "latitude": "22.674248",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.644745",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164005",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "95.206346",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347485",
+            "poiid2": "BV11564242",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "园山(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "635365",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.238046",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.644745",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165005",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-79.166428",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347486",
+            "poiid2": "BV11564242",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "园山(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "635365",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.238046",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.238046",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11564242",
+        "name": "园山(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167164|900000167165",
+          "display_x": "114.238046",
+          "display_y": "22.644745",
+          "businfo_ids": "BS13347485|BS13347486",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "95.206346|-79.166428",
+          "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)|(在建)地铁16号线二期(大运--西坑)",
+          "businfo_stationids": "900000167164005|900000167165005",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "635365|635365",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.238046|114.238046",
+          "ys": "22.644745|22.644745",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "园山(地铁站)",
+        "cpdata": "",
+        "latitude": "22.644745",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.654483",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164006",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "110.379542",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682378",
+            "poiid2": "BV09271716",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大安(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "642671",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.236088",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.654483",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165004",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-66.270510",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682379",
+            "poiid2": "BV09271716",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大安(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "642671",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.236088",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.236088",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09271716",
+        "name": "大安(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167165|900000167164",
+          "display_x": "114.236088",
+          "display_y": "22.654483",
+          "businfo_ids": "BS09682379|BS09682378",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-66.270510|110.379542",
+          "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)|(在建)地铁16号线二期(西坑--大运)",
+          "businfo_stationids": "900000167165004|900000167164006",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "642671|642671",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.236088|114.236088",
+          "ys": "22.654483|22.654483",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "大安(地铁站)",
+        "cpdata": "",
+        "latitude": "22.654483",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "飞扬路与清辉路交叉口西北80米",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.207924",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HG5RAI1R",
+        "name": "中铁建南方公司深圳地铁16号线二期工程指挥部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.710443",
+            "longitude": "114.208034"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁建南方公司深圳地铁16号线二期工程指挥部",
+        "cpdata": "",
+        "latitude": "22.710498",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.626882",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165008",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-68.607327",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347482",
+            "poiid2": "BV11564240",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "安良(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "688815",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.219698",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.626882",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "114.252291",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347481",
+            "poiid2": "BV11564240",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "安良(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "688815",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.219698",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.219698",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11564240",
+        "name": "安良(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167164|900000167165",
+          "display_x": "114.219698",
+          "display_y": "22.626882",
+          "businfo_ids": "BS13347481|BS13347482",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "114.252291|-68.607327",
+          "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)|(在建)地铁16号线二期(大运--西坑)",
+          "businfo_stationids": "900000167164002|900000167165008",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "688815|688815",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.219698|114.219698",
+          "ys": "22.626882|22.626882",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "安良(地铁站)",
+        "cpdata": "",
+        "latitude": "22.626882",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.638674",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165006",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-153.573296",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682385",
+            "poiid2": "BV09271719",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大康(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "689628",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.228440",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.638674",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164004",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "25.634263",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682384",
+            "poiid2": "BV09271719",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大康(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "689628",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.228440",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.228440",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09271719",
+        "name": "大康(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167164|900000167165",
+          "display_x": "114.228440",
+          "display_y": "22.638674",
+          "businfo_ids": "BS09682384|BS09682385",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "25.634263|-153.573296",
+          "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)|(在建)地铁16号线二期(大运--西坑)",
+          "businfo_stationids": "900000167164004|900000167165006",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "689628|689628",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.228440|114.228440",
+          "ys": "22.638674|22.638674",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "大康(地铁站)",
+        "cpdata": "",
+        "latitude": "22.638674",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "070000",
+        "areacode": "0755",
+        "address": "安良路183号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.219670",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0JKRU1YQB",
+        "name": "中铁二十五局深圳地铁16号线二期三工区爱心驿站",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/bd2a53b538430090744e94f168ec41c2&type=pic",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "070000",
+        "disp_name": "中铁二十五局深圳地铁16号线二期三工区爱心驿站",
+        "cpdata": "",
+        "latitude": "22.628842",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "园山街道梧岗路64号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.228594",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HGAU059K",
+        "name": "中铁二十四局集团深圳地铁16号线二期工程项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.617261",
+            "longitude": "114.228459"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://s-pic.oss-cn-beijing.aliyuncs.com/desensitize/deep/images/publish/264b7e0e0b7b148a1cda3ff5bbbd7dfd.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁二十四局集团深圳地铁16号线二期工程项目部",
+        "cpdata": "",
+        "latitude": "22.617142",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "园山街道安良社区安兴路7号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.219901",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HGFZ6W6D",
+        "name": "中铁十七局集团有限公司深圳地铁16号线二期工程二工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.633451",
+            "longitude": "114.2198"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁十七局集团有限公司深圳地铁16号线二期工程二工区项目部",
+        "cpdata": "",
+        "latitude": "22.633496",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "民强路81号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.361679",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H2GSUAT0",
+        "name": "中铁二十二局深圳地铁16号线项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.683802",
+            "longitude": "114.361561"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440310",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/e7a535d66e7958e48001c679189a66fb",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁二十二局深圳地铁16号线项目部",
+        "cpdata": "",
+        "latitude": "22.683925",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期;14号线/东部快线;16号线/龙坪线;3号线/龙岗线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024060",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "22.685720",
+            "businfo_line_alias": "3号线/龙岗线",
+            "businfo_stationids": "440300024060007",
+            "businfo_ui_colors": "01A2E2",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-97.901606",
+            "businfo_expect_dates": "",
+            "poiid": "BS10492773",
+            "poiid2": "BV10249953",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大运(地铁站)",
+            "businfo_mesh": "F50F016002",
+            "businfo_road_id": "717715",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁3号线(龙岗线)(双龙--福保)",
+            "x": "114.228163",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线(龙岗线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024061",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "22.685720",
+            "businfo_line_alias": "3号线/龙岗线",
+            "businfo_stationids": "440300024061026",
+            "businfo_ui_colors": "01A2E2",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "82.038249",
+            "businfo_expect_dates": "",
+            "poiid": "BS10492774",
+            "poiid2": "BV10249953",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大运(地铁站)",
+            "businfo_mesh": "F50F016002",
+            "businfo_road_id": "717715",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁3号线(龙岗线)(福保--双龙)",
+            "x": "114.228163",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线(龙岗线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000095033;900000095072;900000167165",
+            "businfo_line_shields": "14号线;16号线;16号线二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.685798",
+            "businfo_line_alias": "14号线/东部快线;16号线/龙坪线;(在建)16号线二期",
+            "businfo_stationids": "900000095033009;900000095072024;900000167165001",
+            "businfo_ui_colors": "DAC17D;1C24A4;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-100.192843",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS13542357",
+            "poiid2": "BV10249953",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大运(地铁站)",
+            "businfo_mesh": "F50F016002",
+            "businfo_road_id": "721507",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁14号线(东部快线)(沙田--岗厦北);地铁16号线(龙坪线)(田心--大运);(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.227660",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁14号线(东部快线);地铁16号线(龙坪线);(在建)地铁16号线二期",
+            "businfo_station_status": "1;1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000095035;900000095071;900000167164",
+            "businfo_line_shields": "14号线;16号线;16号线二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.685798",
+            "businfo_line_alias": "14号线/东部快线;16号线/龙坪线;(在建)16号线二期",
+            "businfo_stationids": "900000095035009;900000095071001;900000167164009",
+            "businfo_ui_colors": "DAC17D;1C24A4;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "79.850431",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS13542356",
+            "poiid2": "BV10249953",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "大运(地铁站)",
+            "businfo_mesh": "F50F016002",
+            "businfo_road_id": "721507",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁14号线(东部快线)(岗厦北--沙田);地铁16号线(龙坪线)(大运--田心);(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.227660",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁14号线(东部快线);地铁16号线(龙坪线);(在建)地铁16号线二期",
+            "businfo_station_status": "1;1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.228163",
+        "review_total": "171",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10249953",
+        "name": "大运(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024060|440300024061|900000095033;900000095072;900000167165|900000095035;900000095071;900000167164",
+          "display_x": "114.228163",
+          "display_y": "22.685720",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS10492773|BS10492774|BS13542357|BS13542356",
+          "businfo_line_alias": "3号线/龙岗线|3号线/龙岗线|14号线/东部快线;16号线/龙坪线;(在建)16号线二期|14号线/东部快线;16号线/龙坪线;(在建)16号线二期",
+          "businfo_ui_colors": "01A2E2|01A2E2|DAC17D;1C24A4;AAAAAA|DAC17D;1C24A4;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-97.901606|82.038249|-100.192843|79.850431",
+          "businfo_line_names": "地铁3号线(龙岗线)(双龙--福保)|地铁3号线(龙岗线)(福保--双龙)|地铁14号线(东部快线)(沙田--岗厦北);地铁16号线(龙坪线)(田心--大运);(在建)地铁16号线二期(大运--西坑)|地铁14号线(东部快线)(岗厦北--沙田);地铁16号线(龙坪线)(大运--田心);(在建)地铁16号线二期(西坑--大运)",
+          "businfo_stationids": "440300024060007|440300024061026|900000095033009;900000095072024;900000167165001|900000095035009;900000095071001;900000167164009",
+          "businfo_line_types": "2|2|2;2;2|2;2;2",
+          "businfo_road_ids": "717715|717715|721507|721507",
+          "businfo_station_status": "1|1|1;1;3|1;1;3",
+          "businfo_meshs": "F50F016002|F50F016002|F50F016002|F50F016002",
+          "xs": "114.228163|114.228163|114.227660|114.227660",
+          "ys": "22.685720|22.685720|22.685798|22.685798",
+          "businfo_line_keys": "地铁3号线(龙岗线)|地铁3号线(龙岗线)|地铁14号线(东部快线);地铁16号线(龙坪线);(在建)地铁16号线二期|地铁14号线(东部快线);地铁16号线(龙坪线);(在建)地铁16号线二期",
+          "businfo_expect_dates": " | |;;预计2025年开通|;;预计2025年开通",
+          "businfo_realbus": "0|0|0;0;0|0;0;0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/888a8db96c25168a9b30c1d62081c4ff",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.686321+++22.685886+++22.688377+++22.686436+++22.687396+++22.683791+++22.685152+++22.686215+++22.685271+++22.685797",
+            "poiids": "BX09906677+++BX09906681+++BX09906684+++BX09906683+++BX09906689+++BX09906675+++BX09906672+++BX09906682+++BX09906676+++BX09906680",
+            "name": "parent_other_rel",
+            "pxs": "114.228003+++114.228585+++114.227956+++114.227826+++114.227952+++114.228211+++114.228444+++114.228629+++114.227798+++114.226900",
+            "childtype": "107+++107+++107+++107+++107+++107+++107+++107+++107+++107",
+            "poiname": "大运地铁站13号口+++大运地铁站10A口+++大运地铁站12号口+++大运地铁站3号口+++大运地铁站11号口+++大运地铁站8号口+++大运地铁站1号口+++大运地铁站2号口+++大运地铁站14A口+++大运地铁站14C口",
+            "address": "14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线+++14号线/东部快线;16号线/龙坪线;3号线/龙岗线",
+            "shortname": "13号口+++10A口+++12号口+++3号口+++11号口+++8号口+++1号口+++2号口+++14A口+++14C口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "大运(地铁站)",
+        "cpdata": "",
+        "latitude": "22.685720",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "油甘园路37号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.226266",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HGZ7224Y",
+        "name": "中铁十四局集团有限公司深圳地铁16号线二期工程四工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.628284",
+            "longitude": "114.226129"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/a9f9abe9cc04585f9e6eb087d61bce9b",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁十四局集团有限公司深圳地铁16号线二期工程四工区项目部",
+        "cpdata": "",
+        "latitude": "22.628554",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.659672",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164007",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "126.469756",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682380",
+            "poiid2": "BV09271717",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "吉溪(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "648488",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.232762",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.659672",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-60.622866",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09682381",
+            "poiid2": "BV09271717",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "吉溪(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "648488",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.232762",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.232762",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09271717",
+        "name": "吉溪(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167164|900000167165",
+          "display_x": "114.232762",
+          "display_y": "22.659672",
+          "businfo_ids": "BS09682380|BS09682381",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "126.469756|-60.622866",
+          "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)|(在建)地铁16号线二期(大运--西坑)",
+          "businfo_stationids": "900000167164007|900000167165003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "648488|648488",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.232762|114.232762",
+          "ys": "22.659672|22.659672",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "吉溪(地铁站)",
+        "cpdata": "",
+        "latitude": "22.659672",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)16号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167165",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.635625",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167165007",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-154.365737",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347493",
+            "poiid2": "BV11564246",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "福坑(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "675099",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁16号线二期(大运--西坑)",
+            "x": "114.222086",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000167164",
+            "businfo_line_shields": "16号线二期",
+            "businfo_line_types": "2",
+            "y": "22.635625",
+            "businfo_line_alias": "(在建)16号线二期",
+            "businfo_stationids": "900000167164003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "25.166868",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13347494",
+            "poiid2": "BV11564246",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "福坑(地铁站)",
+            "businfo_mesh": "F50F017002",
+            "businfo_road_id": "675099",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)",
+            "x": "114.222086",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁16号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.222086",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11564246",
+        "name": "福坑(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000167164|900000167165",
+          "display_x": "114.222086",
+          "display_y": "22.635625",
+          "businfo_ids": "BS13347494|BS13347493",
+          "businfo_line_alias": "(在建)16号线二期|(在建)16号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "25.166868|-154.365737",
+          "businfo_line_names": "(在建)地铁16号线二期(西坑--大运)|(在建)地铁16号线二期(大运--西坑)",
+          "businfo_stationids": "900000167164003|900000167165007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "675099|675099",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F017002|F50F017002",
+          "xs": "114.222086|114.222086",
+          "ys": "22.635625|22.635625",
+          "businfo_line_keys": "(在建)地铁16号线二期|(在建)地铁16号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "福坑(地铁站)",
+        "cpdata": "",
+        "latitude": "22.635625",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170000",
+        "areacode": "0755",
+        "address": "园山街道大康社区龙村龙兴路29号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.230514",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H6RH86OP",
+        "name": "中铁二十五局集团有限公司深圳地铁16号线二期工程三工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.638003",
+            "longitude": "114.230666"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/00a3010b03f4f90e6ee1cd1b10dbdf7d",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170000",
+        "disp_name": "中铁二十五局集团有限公司深圳地铁16号线二期工程三工区项目部",
+        "cpdata": "",
+        "latitude": "22.638123",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150000",
+        "areacode": "0755",
+        "address": "径牛尾路",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.221615",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0KAA7CYKV",
+        "name": "深圳地铁16号线龙城公园停车场",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150000",
+        "disp_name": "深圳地铁16号线龙城公园停车场",
+        "cpdata": "",
+        "latitude": "22.707721",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "园湖路1号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.239924",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H6LZF0VR",
+        "name": "中铁十八局集团深圳地铁16号2期项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.675111",
+            "longitude": "114.240024"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/ee60935b0ddbd635bc82febd8cf92a8e",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.675109",
+            "poiids": "B0K6YU4FMH",
+            "name": "parent_other_rel",
+            "pxs": "114.240009",
+            "childtype": "31",
+            "poiname": "中铁十八局集团深圳地铁16号2期项目部(东门)",
+            "address": "园湖路1号中铁十八局集团深圳地铁16号2期项目部",
+            "shortname": "东门",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁十八局集团深圳地铁16号2期项目部",
+        "cpdata": "",
+        "latitude": "22.674965",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "120000",
+        "areacode": "0755",
+        "address": "陂头肚路老屋区1栋28号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.253662",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0FFJ5N61G",
+        "name": "朗坤集团深圳地铁16号线员工宿舍",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.743702",
+            "longitude": "114.253624"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "120000",
+        "disp_name": "朗坤集团深圳地铁16号线员工宿舍",
+        "cpdata": "",
+        "latitude": "22.743734",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

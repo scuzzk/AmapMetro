@@ -1,0 +1,4490 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440300",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁15号线内环",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727445215.06",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440300",
+        "target_city": "4403",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.842147300,22.592405800,114.078183700,22.488284200",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"110000||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "sc-00|is-po|si-po|ci-100000|tg-merge",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "公司企业=0.398000;美食=0.265000;交通出行=0.132000\u0006公司企业|公司=0.398000;美食|快餐=0.244000;交通出行|地铁站=0.056000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁15号线内环",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "公司企业=0.398000;美食=0.265000;交通出行=0.132000\u0006公司企业|公司=0.398000;美食|快餐=0.244000;交通出行|地铁站=0.056000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "深圳市",
+        "result_adcode": "440300"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁15号线内环",
+    "message": "Successful.",
+    "total": "46",
+    "busline_list": [
+      {
+        "front_name": "前保",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.876137,113.876048,113.87596,113.875873,113.875787,113.875701,113.875616,113.875531,113.875447,113.875363,113.87528,113.875198,113.875115,113.875033,113.874952,113.874871,113.874789,113.874709,113.874467,113.874102,113.873731,113.873357,113.87298,113.872602,113.872223,113.871847,113.871473,113.871103,113.870738,113.87038,113.87003,113.869689,113.869358,113.869039,113.868734,113.868443,113.867669,113.864971,113.862396,113.862482,113.863233,113.863212,113.86289,113.861817,113.861223,113.860826,113.860858,113.861105,113.862156,113.864575,113.87066,113.873813,113.876131,113.877536,113.882626,113.889401,113.890329,113.890906,113.89299,113.897389,113.89814,113.89873,113.899288,113.900232,113.902571,113.903681,113.910578,113.915436,113.916223,113.916984,113.917757,113.918765,113.920053,113.921394,113.922917,113.925026,113.927861,113.929588,113.930704,113.93197,113.933011,113.933998,113.935017,113.935779,113.936708,113.937727,113.938365,113.938976,113.941563,113.942089,113.942486,113.942765,113.943022,113.943215,113.943366,113.943452,113.943532,113.943518,113.943475,113.943295,113.943137,113.942622,113.94201,113.941334,113.940326,113.939757,113.939371,113.939189,113.939103,113.939151,113.939176,113.939026,113.93879,113.938318,113.93761,113.937175,113.93681,113.93605,113.935727,113.935674,113.935685,113.935662,113.935726,113.935984,113.936799,113.937936,113.938473,113.938859,113.938494,113.937894,113.937495,113.936529,113.93567,113.934965,113.934445,113.93372,113.93334,113.933071,113.932787,113.93268,113.932594,113.932484,113.932446,113.932446,113.932425,113.93236,113.932085,113.932461,113.932386,113.932182,113.931721,113.931291,113.930519,113.929564,113.927676,113.925026,113.924543,113.924017,113.923266,113.921742,113.9181,113.916641,113.910461,113.909517,113.908509,113.906771,113.904539,113.902286,113.900548,113.898984,113.896854,113.896414,113.895888,113.895673,113.895357,113.894949,113.892589,113.890657,113.889594,113.888467,113.887738,113.886193,113.885163,113.88376,113.88239,113.882054,113.881523,113.880997,113.8806,113.880252,113.878444,113.876137",
+        "id": "900000195551",
+        "terminal_name": "前保",
+        "terminal_spell": "qian bao",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁15号线内环",
+        "start_time": "",
+        "front_spell": "qian bao",
+        "busline_event": "",
+        "ys": "22.508442,22.508698,22.508954,22.509211,22.509468,22.509726,22.509984,22.510242,22.5105,22.510759,22.511018,22.511277,22.511537,22.511796,22.512056,22.512315,22.512575,22.512834,22.513613,22.514497,22.51533,22.51612,22.516872,22.517592,22.518284,22.518956,22.519612,22.520258,22.520901,22.521545,22.522197,22.522862,22.523546,22.524254,22.524993,22.525768,22.528366,22.53661,22.544498,22.545548,22.548739,22.549214,22.549987,22.553403,22.555433,22.556613,22.557148,22.557653,22.558951,22.561376,22.568923,22.573174,22.575017,22.575809,22.578524,22.583978,22.584639,22.584855,22.585558,22.587143,22.587291,22.587272,22.586925,22.585736,22.582616,22.581591,22.574524,22.569764,22.569136,22.56869,22.568531,22.568422,22.568482,22.568779,22.569373,22.57079,22.572726,22.573499,22.573816,22.574024,22.574093,22.574044,22.573875,22.573528,22.573045,22.57252,22.572381,22.572347,22.572304,22.572205,22.572006,22.571709,22.571303,22.570768,22.570164,22.569054,22.565158,22.564384,22.564033,22.563503,22.563077,22.562413,22.561967,22.561581,22.561224,22.560897,22.560452,22.560065,22.55958,22.556803,22.553574,22.553178,22.552881,22.552584,22.552009,22.551211,22.549527,22.546248,22.544915,22.5444,22.543875,22.539632,22.538832,22.538118,22.537365,22.536255,22.534729,22.532807,22.531003,22.529497,22.528877,22.527604,22.526008,22.524578,22.523389,22.521813,22.520981,22.51999,22.518875,22.518315,22.516724,22.514884,22.513623,22.511145,22.509936,22.508746,22.504899,22.502147,22.501701,22.501324,22.500888,22.500591,22.500254,22.499837,22.499609,22.499411,22.499441,22.49957,22.499817,22.500339,22.501536,22.502151,22.504073,22.504351,22.50443,22.504331,22.504272,22.504232,22.504351,22.504644,22.505843,22.506116,22.506344,22.506359,22.506285,22.505967,22.503618,22.501696,22.50077,22.499561,22.498788,22.497777,22.4974,22.496961,22.496613,22.49657,22.496621,22.496764,22.496987,22.497323,22.501565,22.508442",
+        "total_price": "0",
+        "name": "地铁15号线内环(前保--前保)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "前保",
+            "station_num": "1",
+            "poiid1": "BS09290586",
+            "start_time": "",
+            "spell": "qian bao",
+            "time_desc_json": "",
+            "station_id": "900000195551001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.876137;22.508442",
+            "poiid2_xy": "113.876137;22.508442",
+            "poiid2": "BV09115361"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "听海路",
+            "station_num": "2",
+            "poiid1": "BS09290569",
+            "start_time": "",
+            "spell": "ting hai lu",
+            "time_desc_json": "",
+            "station_id": "900000195551002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.874467;22.513613",
+            "poiid2_xy": "113.874467;22.513613",
+            "poiid2": "BV09115354"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "铲湾南",
+            "station_num": "3",
+            "poiid1": "BS09290584",
+            "start_time": "",
+            "spell": "chan wan nan",
+            "time_desc_json": "",
+            "station_id": "900000195551003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.867669;22.528366",
+            "poiid2_xy": "113.867669;22.528366",
+            "poiid2": "BV09115360"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "铲湾中",
+            "station_num": "4",
+            "poiid1": "BS09290594",
+            "start_time": "",
+            "spell": "chan wan zhong",
+            "time_desc_json": "",
+            "station_id": "900000195551004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.864971;22.53661",
+            "poiid2_xy": "113.864971;22.536610",
+            "poiid2": "BV09115364"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "铲湾北",
+            "station_num": "5",
+            "poiid1": "BS09291464",
+            "start_time": "",
+            "spell": "chan wan bei",
+            "time_desc_json": "",
+            "station_id": "900000195551005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.861817;22.553403",
+            "poiid2_xy": "113.861817;22.553403",
+            "poiid2": "BV09115661"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "海城",
+            "station_num": "6",
+            "poiid1": "BS09290590",
+            "start_time": "",
+            "spell": "hai cheng",
+            "time_desc_json": "",
+            "station_id": "900000195551006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.864575;22.561376",
+            "poiid2_xy": "113.864575;22.561376",
+            "poiid2": "BV09115362"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "坪洲",
+            "station_num": "7",
+            "poiid1": "BS09290559",
+            "start_time": "",
+            "spell": "ping zhou",
+            "time_desc_json": "",
+            "station_id": "900000195551007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.87066;22.568923",
+            "poiid2_xy": "113.870711;22.568908",
+            "poiid2": "BV10249969"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "西乡公园",
+            "station_num": "8",
+            "poiid1": "BS09290582",
+            "start_time": "",
+            "spell": "xi xiang gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000195551008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.882626;22.578524",
+            "poiid2_xy": "113.882626;22.578524",
+            "poiid2": "BV09115359"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "流塘",
+            "station_num": "9",
+            "poiid1": "BS09290588",
+            "start_time": "",
+            "spell": "liu tang",
+            "time_desc_json": "",
+            "station_id": "900000195551009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.889401;22.583978",
+            "poiid2_xy": "113.889292;22.583729",
+            "poiid2": "BV10996673"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "宝安公园",
+            "station_num": "10",
+            "poiid1": "BS09290565",
+            "start_time": "",
+            "spell": "bao an gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000195551010",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.903681;22.581591",
+            "poiid2_xy": "113.903681;22.581591",
+            "poiid2": "BV09115352"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440306",
+            "navi_poiid": "",
+            "name": "洪浪北",
+            "station_num": "11",
+            "poiid1": "BS10492757",
+            "start_time": "",
+            "spell": "hong lang bei",
+            "time_desc_json": "",
+            "station_id": "900000195551011",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.910578;22.574524",
+            "poiid2_xy": "113.910585;22.574543",
+            "poiid2": "BV10249945"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "同乐关",
+            "station_num": "12",
+            "poiid1": "BS09290563",
+            "start_time": "",
+            "spell": "tong le guan",
+            "time_desc_json": "",
+            "station_id": "900000195551012",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.925026;22.57079",
+            "poiid2_xy": "113.925026;22.570790",
+            "poiid2": "BV09115351"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "打石一路",
+            "station_num": "13",
+            "poiid1": "BS09290579",
+            "start_time": "",
+            "spell": "da shi yi lu",
+            "time_desc_json": "",
+            "station_id": "900000195551013",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.938976;22.572347",
+            "poiid2_xy": "113.938976;22.572347",
+            "poiid2": "BV09115358"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "西丽高铁站",
+            "station_num": "14",
+            "poiid1": "BS09750899",
+            "start_time": "",
+            "spell": "xi li gao tie zhan",
+            "time_desc_json": "",
+            "station_id": "900000195551014",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.943532;22.565158",
+            "poiid2_xy": "113.943532;22.565158",
+            "poiid2": "BV10996635"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "朗山路",
+            "station_num": "15",
+            "poiid1": "BS09290592",
+            "start_time": "",
+            "spell": "lang shan lu",
+            "time_desc_json": "",
+            "station_id": "900000195551015",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.939151;22.556803",
+            "poiid2_xy": "113.939151;22.556803",
+            "poiid2": "BV09115363"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "玉泉路",
+            "station_num": "16",
+            "poiid1": "BS09290578",
+            "start_time": "",
+            "spell": "yu quan lu",
+            "time_desc_json": "",
+            "station_id": "900000195551016",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.93605;22.546248",
+            "poiid2_xy": "113.936050;22.546248",
+            "poiid2": "BV09115357"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "深大北",
+            "station_num": "17",
+            "poiid1": "BS09290561",
+            "start_time": "",
+            "spell": "shen da bei",
+            "time_desc_json": "",
+            "station_id": "900000195551017",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.935662;22.539632",
+            "poiid2_xy": "113.935662;22.539632",
+            "poiid2": "BV09115350"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "深大南",
+            "station_num": "18",
+            "poiid1": "BS12779956",
+            "start_time": "",
+            "spell": "shen da nan",
+            "time_desc_json": "",
+            "station_id": "900000195551018",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.93567;22.526008",
+            "poiid2_xy": "113.935675;22.526016",
+            "poiid2": "BV11291530"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "名海",
+            "station_num": "19",
+            "poiid1": "BS09290558",
+            "start_time": "",
+            "spell": "ming hai",
+            "time_desc_json": "",
+            "station_id": "900000195551019",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.932484;22.514884",
+            "poiid2_xy": "113.932484;22.514884",
+            "poiid2": "BV09115349"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "东滨路",
+            "station_num": "20",
+            "poiid1": "BS09290573",
+            "start_time": "",
+            "spell": "dong bin lu",
+            "time_desc_json": "",
+            "station_id": "900000195551020",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.932085;22.504899",
+            "poiid2_xy": "113.932085;22.504899",
+            "poiid2": "BV09115356"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "四海",
+            "station_num": "21",
+            "poiid1": "BS12197342",
+            "start_time": "",
+            "spell": "si hai",
+            "time_desc_json": "",
+            "station_id": "900000195551021",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.921742;22.500339",
+            "poiid2_xy": "113.921742;22.500336",
+            "poiid2": "BV10996665"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "月亮湾公园",
+            "station_num": "22",
+            "poiid1": "BS09290567",
+            "start_time": "",
+            "spell": "yue liang wan gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000195551022",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.898984;22.504644",
+            "poiid2_xy": "113.898984;22.504644",
+            "poiid2": "BV09115353"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "铁路公园",
+            "station_num": "23",
+            "poiid1": "BS09390787",
+            "start_time": "",
+            "spell": "tie lu gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000195551023",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.890657;22.501696",
+            "poiid2_xy": "113.889969;22.502908",
+            "poiid2": "BV10868018"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "西部物流",
+            "station_num": "24",
+            "poiid1": "BS09290571",
+            "start_time": "",
+            "spell": "xi bu wu liu",
+            "time_desc_json": "",
+            "station_id": "900000195551024",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.88376;22.496961",
+            "poiid2_xy": "113.883760;22.496961",
+            "poiid2": "BV09115355"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440305",
+            "navi_poiid": "",
+            "name": "前保",
+            "station_num": "25",
+            "poiid1": "BS09290586",
+            "start_time": "",
+            "spell": "qian bao",
+            "time_desc_json": "",
+            "station_id": "900000195551025",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.876137;22.508442",
+            "poiid2_xy": "113.876137;22.508442",
+            "poiid2": "BV09115361"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.860826;22.496570;113.943532;22.587291",
+        "air": "",
+        "length": "32.370000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.861817;22.496961;114.058514;22.583729",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "1",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.496961",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "14.252527",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290572",
+            "poiid2": "BV09115355",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西部物流(地铁站)",
+            "businfo_mesh": "F49F019048",
+            "businfo_road_id": "621532",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.883760",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.496961",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551024",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-162.625050",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290571",
+            "poiid2": "BV09115355",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西部物流(地铁站)",
+            "businfo_mesh": "F49F019048",
+            "businfo_road_id": "621532",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.883760",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.883760",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115355",
+        "name": "西部物流(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195551|900000195552",
+          "display_x": "113.883760",
+          "display_y": "22.496961",
+          "businfo_ids": "BS09290571|BS09290572",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-162.625050|14.252527",
+          "businfo_line_names": "(在建)地铁15号线内环(前保--前保)|(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000195551024|900000195552002",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "621532|621532",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F019048|F49F019048",
+          "xs": "113.883760|113.883760",
+          "ys": "22.496961|22.496961",
+          "businfo_line_keys": "(在建)地铁15号线内环|(在建)地铁15号线外环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "西部物流(地铁站)",
+        "cpdata": "",
+        "latitude": "22.496961",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "11号线/机场线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.058514",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906717",
+        "name": "福田地铁站15号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024056002;440300024057013",
+          "eys": "22.540574",
+          "businfo_ui_colors": "741D51;741D51",
+          "businfo_exitids": "44030002405600201;44030002405701309",
+          "poiid1s": "BT09906745",
+          "exs": "114.058514",
+          "businfo_station_name": "福田",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线)",
+          "businfo_station_name_en": "futian",
+          "businfo_station_poiid2": "BV10249929"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "福田地铁站15号口",
+        "cpdata": "",
+        "latitude": "22.540574",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "海云路28号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.941443",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0K6BUC239",
+        "name": "深圳地铁15号线项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.52457",
+            "longitude": "113.941332"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "深圳地铁15号线项目部",
+        "cpdata": "",
+        "latitude": "22.524569",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;12号线/南宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.583978",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551009",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "38.834706",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290588",
+            "poiid2": "BV10996673",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "流塘(地铁站)",
+            "businfo_mesh": "F49F017048",
+            "businfo_road_id": "4451",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.889401",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.583978",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552017",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-144.538319",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290587",
+            "poiid2": "BV10996673",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "流塘(地铁站)",
+            "businfo_mesh": "F49F017048",
+            "businfo_road_id": "4451",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.889401",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094863",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "22.583729",
+            "businfo_line_alias": "12号线/南宝线",
+            "businfo_stationids": "900000094863016",
+            "businfo_ui_colors": "A49ABD",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "135.369279",
+            "businfo_expect_dates": "",
+            "poiid": "BS12197358",
+            "poiid2": "BV10996673",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "流塘(地铁站)",
+            "businfo_mesh": "F49F017048",
+            "businfo_road_id": "651692",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁12号线(南宝线)(左炮台东--海上田园东)",
+            "x": "113.889292",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁12号线(南宝线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094862",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "22.583729",
+            "businfo_line_alias": "12号线/南宝线",
+            "businfo_stationids": "900000094862018",
+            "businfo_ui_colors": "A49ABD",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-45.000000",
+            "businfo_expect_dates": "",
+            "poiid": "BS12197359",
+            "poiid2": "BV10996673",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "流塘(地铁站)",
+            "businfo_mesh": "F49F017048",
+            "businfo_road_id": "651692",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东)",
+            "x": "113.889292",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁12号线(南宝线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.889292",
+        "review_total": "30",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10996673",
+        "name": "流塘(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000094862|900000094863|900000195551|900000195552",
+          "display_x": "113.889292",
+          "display_y": "22.583729",
+          "businfo_ids": "BS12197359|BS12197358|BS09290588|BS09290587",
+          "businfo_line_alias": "12号线/南宝线|12号线/南宝线|(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "A49ABD|A49ABD|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-45.000000|135.369279|38.834706|-144.538319",
+          "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东)|地铁12号线(南宝线)(左炮台东--海上田园东)|(在建)地铁15号线内环(前保--前保)|(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000094862018|900000094863016|900000195551009|900000195552017",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "651692|651692|4451|4451",
+          "businfo_station_status": "1|1|3|3",
+          "businfo_meshs": "F49F017048|F49F017048|F49F017048|F49F017048",
+          "xs": "113.889292|113.889292|113.889401|113.889401",
+          "ys": "22.583729|22.583729|22.583978|22.583978",
+          "businfo_line_keys": "地铁12号线(南宝线)|地铁12号线(南宝线)|(在建)地铁15号线内环|(在建)地铁15号线外环",
+          "businfo_expect_dates": " | |预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/0eff276c3a9bc3899b744fcd98b6cd6d",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.582673+++22.583449+++22.584582+++22.584500+++22.583578+++22.584299+++22.582789",
+            "poiids": "BX09901225+++BX09901227+++BX09901228+++BX09901229+++BX09901454+++BX09901226+++BX09902429",
+            "name": "parent_other_rel",
+            "pxs": "113.890053+++113.889885+++113.888805+++113.888175+++113.888680+++113.889467+++113.889984",
+            "childtype": "107+++107+++107+++107+++107+++107+++107",
+            "poiname": "流塘地铁站G1口+++流塘地铁站A口+++流塘地铁站B2口+++流塘地铁站C口+++流塘地铁站D口+++流塘地铁站B1口+++流塘地铁站G2口",
+            "address": "12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线",
+            "shortname": "G1口+++A口+++B2口+++C口+++D口+++B1口+++G2口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "流塘(地铁站)",
+        "cpdata": "",
+        "latitude": "22.583729",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.572347",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551013",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-3.185024",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290579",
+            "poiid2": "BV09115358",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "打石一路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "25804",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.938976",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.572347",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552013",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "179.047742",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290580",
+            "poiid2": "BV09115358",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "打石一路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "25804",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.938976",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.938976",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115358",
+        "name": "打石一路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.938976",
+          "display_y": "22.572347",
+          "businfo_ids": "BS09290580|BS09290579",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "179.047742|-3.185024",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552013|900000195551013",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "25804|25804",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.938976|113.938976",
+          "ys": "22.572347|22.572347",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "打石一路(地铁站)",
+        "cpdata": "",
+        "latitude": "22.572347",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.570790",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552014",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-145.671127",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290564",
+            "poiid2": "BV09115351",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "同乐关(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "748340",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.925026",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.570790",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551012",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "33.896459",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290563",
+            "poiid2": "BV09115351",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "同乐关(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "748340",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.925026",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.925026",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115351",
+        "name": "同乐关(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.925026",
+          "display_y": "22.570790",
+          "businfo_ids": "BS09290564|BS09290563",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-145.671127|33.896459",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552014|900000195551012",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "748340|748340",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.925026|113.925026",
+          "ys": "22.570790|22.570790",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "同乐关(地铁站)",
+        "cpdata": "",
+        "latitude": "22.570790",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.553403",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552021",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-73.689952",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09291463",
+            "poiid2": "BV09115661",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "铲湾北(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "608928",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.861817",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.553403",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551005",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "107.438029",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09291464",
+            "poiid2": "BV09115661",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "铲湾北(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "608928",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.861817",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.861817",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115661",
+        "name": "铲湾北(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195551|900000195552",
+          "display_x": "113.861817",
+          "display_y": "22.553403",
+          "businfo_ids": "BS09291464|BS09291463",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "107.438029|-73.689952",
+          "businfo_line_names": "(在建)地铁15号线内环(前保--前保)|(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000195551005|900000195552021",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "608928|608928",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018047|F49F018047",
+          "xs": "113.861817|113.861817",
+          "ys": "22.553403|22.553403",
+          "businfo_line_keys": "(在建)地铁15号线内环|(在建)地铁15号线外环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "铲湾北(地铁站)",
+        "cpdata": "",
+        "latitude": "22.553403",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551;900000195551",
+            "businfo_line_shields": "15号线内环;15号线内环",
+            "businfo_line_types": "2;2",
+            "y": "22.508442",
+            "businfo_line_alias": "(在建)15号线;(在建)15号线",
+            "businfo_stationids": "900000195551001;900000195551025",
+            "businfo_ui_colors": "AAAAAA;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "109.170327",
+            "businfo_expect_dates": "预计2028年开通;预计2028年开通",
+            "poiid": "BS09290586",
+            "poiid2": "BV09115361",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "前保(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "628799",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保);(在建)地铁15号线内环(前保--前保)",
+            "x": "113.876137",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁15号线内环;(在建)地铁15号线内环",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552;900000195552",
+            "businfo_line_shields": "15号线外环;15号线外环",
+            "businfo_line_types": "2;2",
+            "y": "22.508442",
+            "businfo_line_alias": "(在建)15号线;(在建)15号线",
+            "businfo_stationids": "900000195552001;900000195552025",
+            "businfo_ui_colors": "AAAAAA;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-71.455146",
+            "businfo_expect_dates": "预计2028年开通;预计2028年开通",
+            "poiid": "BS09290585",
+            "poiid2": "BV09115361",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "前保(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "628799",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保);(在建)地铁15号线外环(前保--前保)",
+            "x": "113.876137",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁15号线外环;(在建)地铁15号线外环",
+            "businfo_station_status": "3;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.876137",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115361",
+        "name": "前保(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195551;900000195551|900000195552;900000195552",
+          "display_x": "113.876137",
+          "display_y": "22.508442",
+          "businfo_ids": "BS09290586|BS09290585",
+          "businfo_line_alias": "(在建)15号线;(在建)15号线|(在建)15号线;(在建)15号线",
+          "businfo_ui_colors": "AAAAAA;AAAAAA|AAAAAA;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "109.170327|-71.455146",
+          "businfo_line_names": "(在建)地铁15号线内环(前保--前保);(在建)地铁15号线内环(前保--前保)|(在建)地铁15号线外环(前保--前保);(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000195551001;900000195551025|900000195552001;900000195552025",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "628799|628799",
+          "businfo_station_status": "3;3|3;3",
+          "businfo_meshs": "F49F018047|F49F018047",
+          "xs": "113.876137|113.876137",
+          "ys": "22.508442|22.508442",
+          "businfo_line_keys": "(在建)地铁15号线内环;(在建)地铁15号线内环|(在建)地铁15号线外环;(在建)地铁15号线外环",
+          "businfo_expect_dates": "预计2028年开通;预计2028年开通|预计2028年开通;预计2028年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "前保(地铁站)",
+        "cpdata": "",
+        "latitude": "22.508442",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;1号线/罗宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024063",
+            "businfo_line_shields": "1号线",
+            "businfo_line_types": "2",
+            "y": "22.568908",
+            "businfo_line_alias": "1号线/罗宝线",
+            "businfo_stationids": "440300024063006",
+            "businfo_ui_colors": "00AB4F",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-39.411868",
+            "businfo_expect_dates": "",
+            "poiid": "BS10492806",
+            "poiid2": "BV10249969",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "坪洲(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "3482",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁1号线(罗宝线)(机场东--罗湖)",
+            "x": "113.870711",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁1号线(罗宝线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.568923",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552019",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-126.564618",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290560",
+            "poiid2": "BV10249969",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "坪洲(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "3484",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.870660",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.568923",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551007",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "51.121440",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290559",
+            "poiid2": "BV10249969",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "坪洲(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "3484",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.870660",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024064",
+            "businfo_line_shields": "1号线",
+            "businfo_line_types": "2",
+            "y": "22.568908",
+            "businfo_line_alias": "1号线/罗宝线",
+            "businfo_stationids": "440300024064027",
+            "businfo_ui_colors": "00AB4F",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "140.535427",
+            "businfo_expect_dates": "",
+            "poiid": "BS10492805",
+            "poiid2": "BV10249969",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "坪洲(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "3482",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁1号线(罗宝线)(罗湖--机场东)",
+            "x": "113.870711",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁1号线(罗宝线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.870711",
+        "review_total": "114",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10249969",
+        "name": "坪洲(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551|440300024064|440300024063",
+          "display_x": "113.870711",
+          "display_y": "22.568908",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS09290560|BS09290559|BS10492805|BS10492806",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线|1号线/罗宝线|1号线/罗宝线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA|00AB4F|00AB4F",
+          "businfo_alias": "",
+          "businfo_angles": "-126.564618|51.121440|140.535427|-39.411868",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)|地铁1号线(罗宝线)(罗湖--机场东)|地铁1号线(罗宝线)(机场东--罗湖)",
+          "businfo_stationids": "900000195552019|900000195551007|440300024064027|440300024063006",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "3484|3484|3482|3482",
+          "businfo_station_status": "3|3|1|1",
+          "businfo_meshs": "F49F018047|F49F018047|F49F018047|F49F018047",
+          "xs": "113.870660|113.870660|113.870711|113.870711",
+          "ys": "22.568923|22.568923|22.568908|22.568908",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环|地铁1号线(罗宝线)|地铁1号线(罗宝线)",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通| | ",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10249969/comment/a417f8cb5f99a826c81d531a1c72d109_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.568676+++22.569446+++22.569219+++22.568371",
+            "poiids": "BX10018485+++BX10018486+++BX10018488+++BX10018487",
+            "name": "parent_other_rel",
+            "pxs": "113.871395+++113.870396+++113.869999+++113.871066",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "坪洲地铁站A口+++坪洲地铁站B口+++坪洲地铁站C口+++坪洲地铁站D口",
+            "address": "1号线/罗宝线+++1号线/罗宝线+++1号线/罗宝线+++1号线/罗宝线",
+            "shortname": "A口+++B口+++C口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "坪洲(地铁站)",
+        "cpdata": "",
+        "latitude": "22.568908",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.561376",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551006",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "45.070969",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290590",
+            "poiid2": "BV09115362",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "海城(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "3794",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.864575",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.561376",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552020",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-128.878560",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290589",
+            "poiid2": "BV09115362",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "海城(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "3794",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.864575",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.864575",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115362",
+        "name": "海城(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.864575",
+          "display_y": "22.561376",
+          "businfo_ids": "BS09290589|BS09290590",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-128.878560|45.070969",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552020|900000195551006",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "3794|3794",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018047|F49F018047",
+          "xs": "113.864575|113.864575",
+          "ys": "22.561376|22.561376",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "海城(地铁站)",
+        "cpdata": "",
+        "latitude": "22.561376",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.539632",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552009",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "94.573921",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290562",
+            "poiid2": "BV09115350",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "深大北(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24877",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.935662",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.539632",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551017",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-90.310580",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290561",
+            "poiid2": "BV09115350",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "深大北(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24877",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.935662",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.935662",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115350",
+        "name": "深大北(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.935662",
+          "display_y": "22.539632",
+          "businfo_ids": "BS09290562|BS09290561",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "94.573921|-90.310580",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552009|900000195551017",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "24877|24877",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.935662|113.935662",
+          "ys": "22.539632|22.539632",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "深大北(地铁站)",
+        "cpdata": "",
+        "latitude": "22.539632",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.546248",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551016",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-103.049479",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290578",
+            "poiid2": "BV09115357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "玉泉路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "735973",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.936050",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.546248",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552010",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "76.379156",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290577",
+            "poiid2": "BV09115357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "玉泉路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "735973",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.936050",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.936050",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115357",
+        "name": "玉泉路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.936050",
+          "display_y": "22.546248",
+          "businfo_ids": "BS09290577|BS09290578",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "76.379156|-103.049479",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552010|900000195551016",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "735973|735973",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.936050|113.936050",
+          "ys": "22.546248|22.546248",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "玉泉路(地铁站)",
+        "cpdata": "",
+        "latitude": "22.546248",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;12号线/南宝线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094862;900000195551",
+            "businfo_line_shields": "12号线;15号线内环",
+            "businfo_line_types": "2;2",
+            "y": "22.500336",
+            "businfo_line_alias": "12号线/南宝线;(在建)15号线",
+            "businfo_stationids": "900000094862029;900000195551021",
+            "businfo_ui_colors": "A49ABD;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "25.939227",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS12197342",
+            "poiid2": "BV10996665",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "四海(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "644306",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东);(在建)地铁15号线内环(前保--前保)",
+            "x": "113.921742",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁12号线(南宝线);(在建)地铁15号线内环",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000094863;900000195552",
+            "businfo_line_shields": "12号线;15号线外环",
+            "businfo_line_types": "2;2",
+            "y": "22.500336",
+            "businfo_line_alias": "12号线/南宝线;(在建)15号线",
+            "businfo_stationids": "900000094863005;900000195552005",
+            "businfo_ui_colors": "A49ABD;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "25.622084",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS12197343",
+            "poiid2": "BV10996665",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "四海(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "644306",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁12号线(南宝线)(左炮台东--海上田园东);(在建)地铁15号线外环(前保--前保)",
+            "x": "113.921742",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁12号线(南宝线);(在建)地铁15号线外环",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.921742",
+        "review_total": "20",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10996665",
+        "name": "四海(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000094862;900000195551|900000094863;900000195552",
+          "display_x": "113.921742",
+          "display_y": "22.500336",
+          "businfo_ids": "BS12197342|BS12197343",
+          "businfo_line_alias": "12号线/南宝线;(在建)15号线|12号线/南宝线;(在建)15号线",
+          "businfo_ui_colors": "A49ABD;AAAAAA|A49ABD;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "25.939227|25.622084",
+          "businfo_line_names": "地铁12号线(南宝线)(海上田园东--左炮台东);(在建)地铁15号线内环(前保--前保)|地铁12号线(南宝线)(左炮台东--海上田园东);(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000094862029;900000195551021|900000094863005;900000195552005",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "644306|644306",
+          "businfo_station_status": "1;3|1;3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.921742|113.921742",
+          "ys": "22.500336|22.500336",
+          "businfo_line_keys": "地铁12号线(南宝线);(在建)地铁15号线内环|地铁12号线(南宝线);(在建)地铁15号线外环",
+          "businfo_expect_dates": ";预计2028年开通|;预计2028年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10996665/comment/5ac435a82d94a7652cb14109e7fbe9c1_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.499340+++22.501315+++22.501038+++22.500500+++22.499582",
+            "poiids": "BX09901079+++BX09901078+++BX09901077+++BX09901075+++BX09901076",
+            "name": "parent_other_rel",
+            "pxs": "113.921847+++113.921844+++113.922424+++113.921586+++113.921370",
+            "childtype": "107+++107+++107+++107+++107",
+            "poiname": "四海地铁站A口+++四海地铁站E口+++四海地铁站D口+++四海地铁站F口+++四海地铁站J口",
+            "address": "12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线+++12号线/南宝线",
+            "shortname": "A口+++E口+++D口+++F口+++J口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "四海(地铁站)",
+        "cpdata": "",
+        "latitude": "22.500336",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;(在建)20号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208420;900000195551",
+            "businfo_line_shields": "20号线二期;15号线内环",
+            "businfo_line_types": "2;2",
+            "y": "22.578524",
+            "businfo_line_alias": "(在建)20号线二期;(在建)15号线",
+            "businfo_stationids": "900000208420005;900000195551008",
+            "businfo_ui_colors": ";AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-9.689153",
+            "businfo_expect_dates": "预计2028年开通;预计2028年开通",
+            "poiid": "BS09290582",
+            "poiid2": "BV09115359",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西乡公园(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "31279",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲);(在建)地铁15号线内环(前保--前保)",
+            "x": "113.882626",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁20号线二期;(在建)地铁15号线内环",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000208421;900000195552",
+            "businfo_line_shields": "20号线二期;15号线外环",
+            "businfo_line_types": "2;2",
+            "y": "22.578524",
+            "businfo_line_alias": "(在建)20号线二期;(在建)15号线",
+            "businfo_stationids": "900000208421008;900000195552018",
+            "businfo_ui_colors": ";AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-2.502261",
+            "businfo_expect_dates": "预计2028年开通;预计2028年开通",
+            "poiid": "BS09290581",
+            "poiid2": "BV09115359",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西乡公园(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "31279",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁20号线二期(白石洲--机场北);(在建)地铁15号线外环(前保--前保)",
+            "x": "113.882626",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁20号线二期;(在建)地铁15号线外环",
+            "businfo_station_status": "3;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.882626",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115359",
+        "name": "西乡公园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000208420;900000195551|900000208421;900000195552",
+          "display_x": "113.882626",
+          "display_y": "22.578524",
+          "businfo_ids": "BS09290582|BS09290581",
+          "businfo_line_alias": "(在建)20号线二期;(在建)15号线|(在建)20号线二期;(在建)15号线",
+          "businfo_ui_colors": ";AAAAAA|;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-9.689153|-2.502261",
+          "businfo_line_names": "(在建)地铁20号线二期(机场北--白石洲);(在建)地铁15号线内环(前保--前保)|(在建)地铁20号线二期(白石洲--机场北);(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "900000208420005;900000195551008|900000208421008;900000195552018",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "31279|31279",
+          "businfo_station_status": "3;3|3;3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.882626|113.882626",
+          "ys": "22.578524|22.578524",
+          "businfo_line_keys": "(在建)地铁20号线二期;(在建)地铁15号线内环|(在建)地铁20号线二期;(在建)地铁15号线外环",
+          "businfo_expect_dates": "预计2028年开通;预计2028年开通|预计2028年开通;预计2028年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "西乡公园(地铁站)",
+        "cpdata": "",
+        "latitude": "22.578524",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;5号线/环中线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024059",
+            "businfo_line_shields": "5号线",
+            "businfo_line_types": "2",
+            "y": "22.574543",
+            "businfo_line_alias": "5号线/环中线",
+            "businfo_stationids": "440300024059008",
+            "businfo_ui_colors": "96499A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "40.955514",
+            "businfo_expect_dates": "",
+            "poiid": "BS09290576",
+            "poiid2": "BV10249945",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "洪浪北(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "1030",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁5号线(环中线)(赤湾--黄贝岭)",
+            "x": "113.910585",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁5号线(环中线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024058",
+            "businfo_line_shields": "5号线",
+            "businfo_line_types": "2",
+            "y": "22.574543",
+            "businfo_line_alias": "5号线/环中线",
+            "businfo_stationids": "440300024058022",
+            "businfo_ui_colors": "96499A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-138.984953",
+            "businfo_expect_dates": "",
+            "poiid": "BS09290575",
+            "poiid2": "BV10249945",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "洪浪北(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "1030",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁5号线(环中线)(黄贝岭--赤湾)",
+            "x": "113.910585",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁5号线(环中线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.574524",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551011",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-45.697494",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS10492757",
+            "poiid2": "BV10249945",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "洪浪北(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24692",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.910578",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.574524",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552015",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "135.583780",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS10492758",
+            "poiid2": "BV10249945",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "洪浪北(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "24692",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.910578",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.910585",
+        "review_total": "60",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10249945",
+        "name": "洪浪北(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024058|440300024059|900000195551|900000195552",
+          "display_x": "113.910585",
+          "display_y": "22.574543",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS09290575|BS09290576|BS10492757|BS10492758",
+          "businfo_line_alias": "5号线/环中线|5号线/环中线|(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "96499A|96499A|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-138.984953|40.955514|-45.697494|135.583780",
+          "businfo_line_names": "地铁5号线(环中线)(黄贝岭--赤湾)|地铁5号线(环中线)(赤湾--黄贝岭)|(在建)地铁15号线内环(前保--前保)|(在建)地铁15号线外环(前保--前保)",
+          "businfo_stationids": "440300024058022|440300024059008|900000195551011|900000195552015",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "1030|1030|24692|24692",
+          "businfo_station_status": "1|1|3|3",
+          "businfo_meshs": "F49F018048|F49F018048|F49F018048|F49F018048",
+          "xs": "113.910585|113.910585|113.910578|113.910578",
+          "ys": "22.574543|22.574543|22.574524|22.574524",
+          "businfo_line_keys": "地铁5号线(环中线)|地铁5号线(环中线)|(在建)地铁15号线内环|(在建)地铁15号线外环",
+          "businfo_expect_dates": " | |预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10249945/comment/e9298fc7b342d609d35edeaf0c3eac86_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.573954+++22.575113+++22.575030+++22.574215+++22.573939",
+            "poiids": "BX10018594+++BX10018593+++BX10018595+++BX10018592+++BX09904166",
+            "name": "parent_other_rel",
+            "pxs": "113.910170+++113.910455+++113.911434+++113.909933+++113.910444",
+            "childtype": "107+++107+++107+++107+++107",
+            "poiname": "洪浪北地铁站A口+++洪浪北地铁站C口+++洪浪北地铁站B口+++洪浪北地铁站D口+++洪浪北地铁站出入口",
+            "address": "5号线/环中线+++5号线/环中线+++5号线/环中线+++5号线/环中线+++5号线/环中线",
+            "shortname": "A口+++C口+++B口+++D口+++出入口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "洪浪北(地铁站)",
+        "cpdata": "",
+        "latitude": "22.574543",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)13号线一期北段/石岩线;(在建)15号线;(在建)27号线;(在建)29号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000219187",
+            "businfo_line_shields": "13号线一期北段",
+            "businfo_line_types": "2",
+            "y": "22.565423",
+            "businfo_line_alias": "(在建)13号线一期北段/石岩线",
+            "businfo_stationids": "900000219187008",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-89.853088",
+            "businfo_expect_dates": "预计2025年底开通",
+            "poiid": "BS12197265",
+            "poiid2": "BV10996635",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西丽高铁站(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "767278",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁13号线一期北段(石岩线)(上屋--高新中)",
+            "x": "113.945031",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁13号线一期北段(石岩线)",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000219186",
+            "businfo_line_shields": "13号线一期北段",
+            "businfo_line_types": "2",
+            "y": "22.565423",
+            "businfo_line_alias": "(在建)13号线一期北段/石岩线",
+            "businfo_stationids": "900000219186003",
+            "businfo_ui_colors": "",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "95.429207",
+            "businfo_expect_dates": "预计2025年底开通",
+            "poiid": "BS12197266",
+            "poiid2": "BV10996635",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西丽高铁站(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "767278",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁13号线一期北段(石岩线)(高新中--上屋)",
+            "x": "113.945031",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁13号线一期北段(石岩线)",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.565158",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551014",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-88.823661",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09750899",
+            "poiid2": "BV10996635",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西丽高铁站(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "641236",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.943532",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.565158",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552012",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "88.963755",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09749606",
+            "poiid2": "BV10996635",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西丽高铁站(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "641236",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.943532",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000216742;900000216967",
+            "businfo_line_shields": "27号线;29号线",
+            "businfo_line_types": "2;2",
+            "y": "22.565444",
+            "businfo_line_alias": "(在建)27号线;(在建)29号线",
+            "businfo_stationids": "900000216742018;900000216967003",
+            "businfo_ui_colors": ";",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-44.908148",
+            "businfo_expect_dates": ";",
+            "poiid": "BS09594343",
+            "poiid2": "BV10996635",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西丽高铁站(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "767278",
+            "bus_alias": "E",
+            "businfo_line_names": "(在建)地铁27号线(岗头西--松坪村);(在建)地铁29号线(兴东--红树湾南)",
+            "x": "113.945273",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁27号线;(在建)地铁29号线",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000216743;900000216966",
+            "businfo_line_shields": "27号线;29号线",
+            "businfo_line_types": "2;2",
+            "y": "22.565444",
+            "businfo_line_alias": "(在建)27号线;(在建)29号线",
+            "businfo_stationids": "900000216743002;900000216966007",
+            "businfo_ui_colors": ";",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-44.329654",
+            "businfo_expect_dates": ";",
+            "poiid": "BS09594342",
+            "poiid2": "BV10996635",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "西丽高铁站(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "767278",
+            "bus_alias": "F",
+            "businfo_line_names": "(在建)地铁27号线(松坪村--岗头西);(在建)地铁29号线(红树湾南--兴东)",
+            "x": "113.945273",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁27号线;(在建)地铁29号线",
+            "businfo_station_status": "3;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.943532",
+        "review_total": "0",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10996635",
+        "name": "西丽高铁站(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551|900000216742;900000216967|900000216743;900000216966|900000219187|900000219186",
+          "display_x": "113.943532",
+          "display_y": "22.565158",
+          "businfo_ids": "BS09749606|BS09750899|BS09594343|BS09594342|BS12197265|BS12197266",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线|(在建)27号线;(在建)29号线|(在建)27号线;(在建)29号线|(在建)13号线一期北段/石岩线|(在建)13号线一期北段/石岩线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA|;|;| | ",
+          "businfo_alias": "",
+          "businfo_angles": "88.963755|-88.823661|-44.908148|-44.329654|-89.853088|95.429207",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)|(在建)地铁27号线(岗头西--松坪村);(在建)地铁29号线(兴东--红树湾南)|(在建)地铁27号线(松坪村--岗头西);(在建)地铁29号线(红树湾南--兴东)|(在建)地铁13号线一期北段(石岩线)(上屋--高新中)|(在建)地铁13号线一期北段(石岩线)(高新中--上屋)",
+          "businfo_stationids": "900000195552012|900000195551014|900000216742018;900000216967003|900000216743002;900000216966007|900000219187008|900000219186003",
+          "businfo_line_types": "2|2|2;2|2;2|2|2",
+          "businfo_road_ids": "641236|641236|767278|767278|767278|767278",
+          "businfo_station_status": "3|3|3;3|3;3|3|3",
+          "businfo_meshs": "F49F018048|F49F018048|F49F018048|F49F018048|F49F018048|F49F018048",
+          "xs": "113.943532|113.943532|113.945273|113.945273|113.945031|113.945031",
+          "ys": "22.565158|22.565158|22.565444|22.565444|22.565423|22.565423",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环|(在建)地铁27号线;(在建)地铁29号线|(在建)地铁27号线;(在建)地铁29号线|(在建)地铁13号线一期北段(石岩线)|(在建)地铁13号线一期北段(石岩线)",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通|;|;|预计2025年底开通|预计2025年底开通",
+          "businfo_realbus": "0|0|0;0|0;0|0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "西丽高铁站(地铁站)",
+        "cpdata": "",
+        "latitude": "22.565158",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.581591",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551010",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-42.720107",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290565",
+            "poiid2": "BV09115352",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "宝安公园(地铁站)",
+            "businfo_mesh": "F49F017048",
+            "businfo_road_id": "1328",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.903681",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.581591",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552016",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "134.302506",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290566",
+            "poiid2": "BV09115352",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "宝安公园(地铁站)",
+            "businfo_mesh": "F49F017048",
+            "businfo_road_id": "1328",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.903681",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.903681",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115352",
+        "name": "宝安公园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.903681",
+          "display_y": "22.581591",
+          "businfo_ids": "BS09290566|BS09290565",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "134.302506|-42.720107",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552016|900000195551010",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "1328|1328",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F017048|F49F017048",
+          "xs": "113.903681|113.903681",
+          "ys": "22.581591|22.581591",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "宝安公园(地铁站)",
+        "cpdata": "",
+        "latitude": "22.581591",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线;9号线/梅林线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024054;900000195551",
+            "businfo_line_shields": "9号线;15号线内环",
+            "businfo_line_types": "2;2",
+            "y": "22.526016",
+            "businfo_line_alias": "9号线/梅林线;(在建)15号线",
+            "businfo_stationids": "440300024054034;900000195551018",
+            "businfo_ui_colors": "86656D;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-116.896837",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS12779956",
+            "poiid2": "BV11291530",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "深大南(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "770865",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁9号线(梅林线)(文锦--前湾);(在建)地铁15号线内环(前保--前保)",
+            "x": "113.935675",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁9号线(梅林线);(在建)地铁15号线内环",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024055;900000195552",
+            "businfo_line_shields": "9号线;15号线外环",
+            "businfo_line_types": "2;2",
+            "y": "22.526016",
+            "businfo_line_alias": "9号线/梅林线;(在建)15号线",
+            "businfo_stationids": "440300024055039;900000195552008",
+            "businfo_ui_colors": "86656D;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "64.155943",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS12779957",
+            "poiid2": "BV11291530",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "深大南(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "770865",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁9号线(梅林线)(前湾--文锦);(在建)地铁15号线外环(前保--前保)",
+            "x": "113.935675",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁9号线(梅林线);(在建)地铁15号线外环",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.935675",
+        "review_total": "14",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11291530",
+        "name": "深大南(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024055;900000195552|440300024054;900000195551",
+          "display_x": "113.935675",
+          "display_y": "22.526016",
+          "businfo_ids": "BS12779957|BS12779956",
+          "businfo_line_alias": "9号线/梅林线;(在建)15号线|9号线/梅林线;(在建)15号线",
+          "businfo_ui_colors": "86656D;AAAAAA|86656D;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "64.155943|-116.896837",
+          "businfo_line_names": "地铁9号线(梅林线)(前湾--文锦);(在建)地铁15号线外环(前保--前保)|地铁9号线(梅林线)(文锦--前湾);(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "440300024055039;900000195552008|440300024054034;900000195551018",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "770865|770865",
+          "businfo_station_status": "1;3|1;3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.935675|113.935675",
+          "ys": "22.526016|22.526016",
+          "businfo_line_keys": "地铁9号线(梅林线);(在建)地铁15号线外环|地铁9号线(梅林线);(在建)地铁15号线内环",
+          "businfo_expect_dates": ";预计2028年开通|;预计2028年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/16910e1a6eb20c31958c14bac189eb47",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.525190+++22.526494",
+            "poiids": "BX10027938+++BX10027937",
+            "name": "parent_other_rel",
+            "pxs": "113.936538+++113.936328",
+            "childtype": "107+++107",
+            "poiname": "深大南地铁站A口+++深大南地铁站B口",
+            "address": "9号线/梅林线+++9号线/梅林线",
+            "shortname": "A口+++B口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "深大南(地铁站)",
+        "cpdata": "",
+        "latitude": "22.526016",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.556803",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552011",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "90.443594",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290591",
+            "poiid2": "BV09115363",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "朗山路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "3294",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.939151",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.556803",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551015",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-89.009750",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290592",
+            "poiid2": "BV09115363",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "朗山路(地铁站)",
+            "businfo_mesh": "F49F018048",
+            "businfo_road_id": "3294",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.939151",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.939151",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115363",
+        "name": "朗山路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.939151",
+          "display_y": "22.556803",
+          "businfo_ids": "BS09290591|BS09290592",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "90.443594|-89.009750",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552011|900000195551015",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "3294|3294",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018048|F49F018048",
+          "xs": "113.939151|113.939151",
+          "ys": "22.556803|22.556803",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "朗山路(地铁站)",
+        "cpdata": "",
+        "latitude": "22.556803",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)15号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195551",
+            "businfo_line_shields": "15号线内环",
+            "businfo_line_types": "2",
+            "y": "22.536610",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195551004",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "108.121632",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290594",
+            "poiid2": "BV09115364",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "铲湾中(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "630188",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁15号线内环(前保--前保)",
+            "x": "113.864971",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000195552",
+            "businfo_line_shields": "15号线外环",
+            "businfo_line_types": "2",
+            "y": "22.536610",
+            "businfo_line_alias": "(在建)15号线",
+            "businfo_stationids": "900000195552022",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-71.920975",
+            "businfo_expect_dates": "预计2028年开通",
+            "poiid": "BS09290593",
+            "poiid2": "BV09115364",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "铲湾中(地铁站)",
+            "businfo_mesh": "F49F018047",
+            "businfo_road_id": "630188",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁15号线外环(前保--前保)",
+            "x": "113.864971",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁15号线外环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.864971",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09115364",
+        "name": "铲湾中(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000195552|900000195551",
+          "display_x": "113.864971",
+          "display_y": "22.536610",
+          "businfo_ids": "BS09290593|BS09290594",
+          "businfo_line_alias": "(在建)15号线|(在建)15号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-71.920975|108.121632",
+          "businfo_line_names": "(在建)地铁15号线外环(前保--前保)|(在建)地铁15号线内环(前保--前保)",
+          "businfo_stationids": "900000195552022|900000195551004",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "630188|630188",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018047|F49F018047",
+          "xs": "113.864971|113.864971",
+          "ys": "22.536610|22.536610",
+          "businfo_line_keys": "(在建)地铁15号线外环|(在建)地铁15号线内环",
+          "businfo_expect_dates": "预计2028年开通|预计2028年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "铲湾中(地铁站)",
+        "cpdata": "",
+        "latitude": "22.536610",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

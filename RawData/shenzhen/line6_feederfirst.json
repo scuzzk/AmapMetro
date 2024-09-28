@@ -1,0 +1,3523 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440300",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁6号线支线",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727443861.41",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440300",
+        "target_city": "4403",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.942393100,22.815120600,113.971887900,22.725305400",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440300||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "16130582333224752274_sc-00|ia-po|sy-no|si-po|ci-440300|tg-or",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.773000;出入口=0.224000\u0006交通出行|地铁站=0.773000;出入口|地铁站出入口=0.224000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁6号线支线",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.773000;出入口=0.224000\u0006交通出行|地铁站=0.773000;出入口|地铁站出入口=0.224000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "深圳市",
+        "result_adcode": "440300"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁6号线支线",
+    "message": "Successful.",
+    "total": "26",
+    "busline_list": [
+      {
+        "front_name": "深理工",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.968595,113.967049,113.966522,113.966233,113.965745,113.965219,113.964763,113.964226,113.963596,113.962826,113.962,113.96073,113.959296,113.957359,113.955816,113.953344,113.951107,113.949768,113.9495,113.949296,113.949076,113.948931,113.948821,113.948758,113.948708,113.948665,113.948633,113.948609,113.948593,113.948586,113.948587,113.948598,113.948634,113.949155,113.949275,113.949384,113.949379,113.949374,113.949358,113.949334,113.949295,113.949241,113.949167,113.94907,113.948969,113.948767,113.948457,113.948135,113.947711,113.945296,113.9449,113.944621,113.944432,113.944256,113.94418,113.944224,113.944251,113.944281,113.944299,113.944352,113.944403,113.94449,113.944513,113.944537,113.944562,113.944633,113.944797,113.944899,113.944977,113.945027,113.945052,113.945091,113.945121,113.945142,113.945153,113.945164,113.945174,113.94519,113.945198,113.945201,113.945245,113.945241",
+        "id": "440300024049",
+        "terminal_name": "光明",
+        "terminal_spell": "guang ming",
+        "basic_price": "2",
+        "type": "2",
+        "company": "",
+        "status": "1",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁6号线支线",
+        "start_time": "0627",
+        "front_spell": "shen li gong",
+        "busline_event": "",
+        "ys": "22.806378,22.804246,22.8035,22.803134,22.802665,22.802195,22.801834,22.801379,22.800892,22.800395,22.79992,22.799268,22.798682,22.797769,22.797149,22.796433,22.795779,22.795338,22.795229,22.795135,22.794992,22.794868,22.794735,22.79463,22.794519,22.794411,22.794275,22.794156,22.794008,22.793846,22.793698,22.793434,22.793105,22.788897,22.787814,22.78676,22.786622,22.786481,22.786323,22.786134,22.785964,22.785809,22.785633,22.785451,22.78525,22.7848,22.784326,22.783945,22.783623,22.781814,22.781454,22.781098,22.780801,22.780351,22.77996,22.779545,22.779278,22.779046,22.778765,22.778424,22.778251,22.777946,22.777812,22.777688,22.777559,22.777271,22.776714,22.776401,22.776165,22.775915,22.775713,22.775555,22.775377,22.775255,22.775201,22.77505,22.774879,22.774687,22.774407,22.774145,22.772873,22.771707",
+        "total_price": "3",
+        "name": "地铁6号线支线(深理工--光明)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "1",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "深理工",
+            "station_num": "1",
+            "poiid1": "BS12264891",
+            "start_time": "0627",
+            "spell": "shen li gong",
+            "time_desc_json": "",
+            "station_id": "440300024049005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "2330",
+            "navi_poiside": "",
+            "xy_coords": "113.968595;22.806378",
+            "poiid2_xy": "113.968595;22.806378",
+            "poiid2": "BV11029715"
+          },
+          {
+            "status": "1",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "中大",
+            "station_num": "2",
+            "poiid1": "BS12264889",
+            "start_time": "0629",
+            "spell": "zhong da",
+            "time_desc_json": "",
+            "station_id": "440300024049006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "2332",
+            "navi_poiside": "",
+            "xy_coords": "113.953344;22.796433",
+            "poiid2_xy": "113.953344;22.796433",
+            "poiid2": "BV11029714"
+          },
+          {
+            "status": "1",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "圳美",
+            "station_num": "3",
+            "poiid1": "BS12264894",
+            "start_time": "0631",
+            "spell": "zhen mei",
+            "time_desc_json": "",
+            "station_id": "440300024049007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "2334",
+            "navi_poiside": "",
+            "xy_coords": "113.949275;22.787814",
+            "poiid2_xy": "113.949275;22.787814",
+            "poiid2": "BV11029716"
+          },
+          {
+            "status": "1",
+            "trans_flag": "1",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "光明",
+            "station_num": "4",
+            "poiid1": "BS12983332",
+            "start_time": "",
+            "spell": "guang ming",
+            "time_desc_json": "",
+            "station_id": "440300024049008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.945241;22.771707",
+            "poiid2_xy": "113.945241;22.771707",
+            "poiid2": "BV10527871"
+          }
+        ],
+        "interval": "0012",
+        "bounds": "113.944180;22.771707;113.968595;22.806378",
+        "air": "1",
+        "length": "5.270000",
+        "end_time": "2330",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "光明",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.945241,113.945245,113.945201,113.945198,113.94519,113.945174,113.945164,113.945153,113.945142,113.945121,113.945091,113.945052,113.945027,113.944977,113.944899,113.944797,113.944633,113.944562,113.944537,113.944513,113.94449,113.944403,113.944352,113.944299,113.944281,113.944251,113.944224,113.94418,113.944256,113.944432,113.944621,113.9449,113.945296,113.947711,113.948135,113.948457,113.948767,113.948969,113.94907,113.949167,113.949241,113.949295,113.949334,113.949358,113.949374,113.949379,113.949384,113.949275,113.949155,113.948634,113.948598,113.948587,113.948586,113.948593,113.948609,113.948633,113.948665,113.948708,113.948758,113.948821,113.948931,113.949076,113.949296,113.9495,113.949768,113.951107,113.953344,113.955816,113.957359,113.959296,113.96073,113.962,113.962826,113.963596,113.964226,113.964763,113.965219,113.965745,113.966233,113.966522,113.967049,113.968595",
+        "id": "440300024048",
+        "terminal_name": "深理工",
+        "terminal_spell": "shen li gong",
+        "basic_price": "2",
+        "type": "2",
+        "company": "",
+        "status": "1",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁6号线支线",
+        "start_time": "0635",
+        "front_spell": "guang ming",
+        "busline_event": "",
+        "ys": "22.771707,22.772873,22.774145,22.774407,22.774687,22.774879,22.77505,22.775201,22.775255,22.775377,22.775555,22.775713,22.775915,22.776165,22.776401,22.776714,22.777271,22.777559,22.777688,22.777812,22.777946,22.778251,22.778424,22.778765,22.779046,22.779278,22.779545,22.77996,22.780351,22.780801,22.781098,22.781454,22.781814,22.783623,22.783945,22.784326,22.7848,22.78525,22.785451,22.785633,22.785809,22.785964,22.786134,22.786323,22.786481,22.786622,22.78676,22.787814,22.788897,22.793105,22.793434,22.793698,22.793846,22.794008,22.794156,22.794275,22.794411,22.794519,22.79463,22.794735,22.794868,22.794992,22.795135,22.795229,22.795338,22.795779,22.796433,22.797149,22.797769,22.798682,22.799268,22.79992,22.800395,22.800892,22.801379,22.801834,22.802195,22.802665,22.803134,22.8035,22.804246,22.806378",
+        "total_price": "3",
+        "name": "地铁6号线支线(光明--深理工)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "1",
+            "trans_flag": "1",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "光明",
+            "station_num": "1",
+            "poiid1": "BS12983331",
+            "start_time": "0635",
+            "spell": "guang ming",
+            "time_desc_json": "",
+            "station_id": "440300024048004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "2330",
+            "navi_poiside": "",
+            "xy_coords": "113.945241;22.771707",
+            "poiid2_xy": "113.945241;22.771707",
+            "poiid2": "BV10527871"
+          },
+          {
+            "status": "1",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "圳美",
+            "station_num": "2",
+            "poiid1": "BS12264893",
+            "start_time": "0628",
+            "spell": "zhen mei",
+            "time_desc_json": "",
+            "station_id": "440300024048003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "2332",
+            "navi_poiside": "",
+            "xy_coords": "113.949275;22.787814",
+            "poiid2_xy": "113.949275;22.787814",
+            "poiid2": "BV11029716"
+          },
+          {
+            "status": "1",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "中大",
+            "station_num": "3",
+            "poiid1": "BS12264890",
+            "start_time": "0631",
+            "spell": "zhong da",
+            "time_desc_json": "",
+            "station_id": "440300024048005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "2335",
+            "navi_poiside": "",
+            "xy_coords": "113.953344;22.796433",
+            "poiid2_xy": "113.953344;22.796433",
+            "poiid2": "BV11029714"
+          },
+          {
+            "status": "1",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "深理工",
+            "station_num": "4",
+            "poiid1": "BS12264892",
+            "start_time": "",
+            "spell": "shen li gong",
+            "time_desc_json": "",
+            "station_id": "440300024048006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.968595;22.806378",
+            "poiid2_xy": "113.968595;22.806378",
+            "poiid2": "BV11029715"
+          }
+        ],
+        "interval": "0012",
+        "bounds": "113.944180;22.771707;113.968595;22.806378",
+        "air": "1",
+        "length": "5.270000",
+        "end_time": "2330",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "光明城",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.95349,113.954116,113.954101,113.953919,113.953608,113.953043,113.952184,113.951498,113.950597,113.950039,113.949911,113.950225,113.950617,113.95088,113.950987,113.951039,113.951284,113.95122,113.950984,113.950254,113.947593,113.94725,113.946896,113.946177,113.945684,113.94548,113.945362,113.945255,113.945241",
+        "id": "900000171557",
+        "terminal_name": "光明",
+        "terminal_spell": "guang ming",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁6号线支线二期",
+        "start_time": "",
+        "front_spell": "guang ming cheng",
+        "busline_event": "",
+        "ys": "22.73279,22.740802,22.742597,22.74326,22.743715,22.744443,22.745235,22.745868,22.746699,22.747649,22.750132,22.751091,22.752739,22.754158,22.75584,22.758118,22.761316,22.761573,22.76186,22.762443,22.764185,22.764506,22.764951,22.765807,22.766623,22.767019,22.767469,22.768954,22.771707",
+        "total_price": "0",
+        "name": "地铁6号线支线二期(光明城--光明)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "光明城",
+            "station_num": "1",
+            "poiid1": "BS13425578",
+            "start_time": "",
+            "spell": "guang ming cheng",
+            "time_desc_json": "",
+            "station_id": "900000171557001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.95349;22.73279",
+            "poiid2_xy": "113.953490;22.732790",
+            "poiid2": "BV11496173"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "虹桥公园",
+            "station_num": "2",
+            "poiid1": "BS13425579",
+            "start_time": "",
+            "spell": "hong qiao gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000171557002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.949911;22.750132",
+            "poiid2_xy": "113.949911;22.750132",
+            "poiid2": "BV11601406"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "碧眼",
+            "station_num": "3",
+            "poiid1": "BS09680178",
+            "start_time": "",
+            "spell": "bi yan",
+            "time_desc_json": "",
+            "station_id": "900000171557003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.951039;22.758118",
+            "poiid2_xy": "113.951039;22.758118",
+            "poiid2": "BV09270692"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "光明",
+            "station_num": "4",
+            "poiid1": "BS12983331",
+            "start_time": "",
+            "spell": "guang ming",
+            "time_desc_json": "",
+            "station_id": "900000171557004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.945241;22.771707",
+            "poiid2_xy": "113.945241;22.771707",
+            "poiid2": "BV10527871"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.945241;22.732790;113.954116;22.771707",
+        "air": "",
+        "length": "4.750000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "光明",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "113.945241,113.945255,113.945362,113.94548,113.945684,113.946177,113.946896,113.94725,113.947593,113.950254,113.950984,113.95122,113.951284,113.951039,113.950987,113.95088,113.950617,113.950225,113.949911,113.950039,113.950597,113.951498,113.952184,113.953043,113.953608,113.953919,113.954101,113.954116,113.95349",
+        "id": "900000171556",
+        "terminal_name": "光明城",
+        "terminal_spell": "guang ming cheng",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁6号线支线二期",
+        "start_time": "",
+        "front_spell": "guang ming",
+        "busline_event": "",
+        "ys": "22.771707,22.768954,22.767469,22.767019,22.766623,22.765807,22.764951,22.764506,22.764185,22.762443,22.76186,22.761573,22.761316,22.758118,22.75584,22.754158,22.752739,22.751091,22.750132,22.747649,22.746699,22.745868,22.745235,22.744443,22.743715,22.74326,22.742597,22.740802,22.73279",
+        "total_price": "0",
+        "name": "地铁6号线支线二期(光明--光明城)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "光明",
+            "station_num": "1",
+            "poiid1": "BS12983332",
+            "start_time": "",
+            "spell": "guang ming",
+            "time_desc_json": "",
+            "station_id": "900000171556001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.945241;22.771707",
+            "poiid2_xy": "113.945241;22.771707",
+            "poiid2": "BV10527871"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "碧眼",
+            "station_num": "2",
+            "poiid1": "BS09680177",
+            "start_time": "",
+            "spell": "bi yan",
+            "time_desc_json": "",
+            "station_id": "900000171556002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.951039;22.758118",
+            "poiid2_xy": "113.951039;22.758118",
+            "poiid2": "BV09270692"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "虹桥公园",
+            "station_num": "3",
+            "poiid1": "BS13425582",
+            "start_time": "",
+            "spell": "hong qiao gong yuan",
+            "time_desc_json": "",
+            "station_id": "900000171556003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.949911;22.750132",
+            "poiid2_xy": "113.949911;22.750132",
+            "poiid2": "BV11601406"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440311",
+            "navi_poiid": "",
+            "name": "光明城",
+            "station_num": "4",
+            "poiid1": "BS13425581",
+            "start_time": "",
+            "spell": "guang ming cheng",
+            "time_desc_json": "",
+            "station_id": "900000171556004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.95349;22.73279",
+            "poiid2_xy": "113.953490;22.732790",
+            "poiid2": "BV11496173"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.945241;22.732790;113.954116;22.771707",
+        "air": "",
+        "length": "4.750000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.945241;22.732790;113.969430;22.807636",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "4",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)6号线支线二期;6号线/光明线;6号线支线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024046;440300024048;900000171557",
+            "businfo_line_shields": "6号线;6号线支;6号线支二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.771707",
+            "businfo_line_alias": "6号线/光明线;6号线支线;(在建)6号线支线二期",
+            "businfo_stationids": "440300024046029;440300024048004;900000171557004",
+            "businfo_ui_colors": "00AD8E;008187;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "90.102444",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS12983331",
+            "poiid2": "BV10527871",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "光明(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "667481",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁6号线(光明线)(科学馆--松岗);地铁6号线支线(光明--深理工);(在建)地铁6号线支线二期(光明城--光明)",
+            "x": "113.945241",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁6号线(光明线);地铁6号线支线;(在建)地铁6号线支线二期",
+            "businfo_station_status": "1;1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024047;440300024049;900000171556",
+            "businfo_line_shields": "6号线;6号线支;6号线支二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.771707",
+            "businfo_line_alias": "6号线/光明线;6号线支线;(在建)6号线支线二期",
+            "businfo_stationids": "440300024047027;440300024049008;900000171556001",
+            "businfo_ui_colors": "00AD8E;008187;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-90.017492",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS12983332",
+            "poiid2": "BV10527871",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "光明(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "667481",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁6号线(光明线)(松岗--科学馆);地铁6号线支线(深理工--光明);(在建)地铁6号线支线二期(光明--光明城)",
+            "x": "113.945241",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁6号线(光明线);地铁6号线支线;(在建)地铁6号线支线二期",
+            "businfo_station_status": "1;1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.945241",
+        "review_total": "22",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10527871",
+        "name": "光明(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024047;440300024049;900000171556|440300024046;440300024048;900000171557",
+          "display_x": "113.945241",
+          "display_y": "22.771707",
+          "businfo_ids": "BS12983332|BS12983331",
+          "businfo_line_alias": "6号线/光明线;6号线支线;(在建)6号线支线二期|6号线/光明线;6号线支线;(在建)6号线支线二期",
+          "businfo_ui_colors": "00AD8E;008187;AAAAAA|00AD8E;008187;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-90.017492|90.102444",
+          "businfo_line_names": "地铁6号线(光明线)(松岗--科学馆);地铁6号线支线(深理工--光明);(在建)地铁6号线支线二期(光明--光明城)|地铁6号线(光明线)(科学馆--松岗);地铁6号线支线(光明--深理工);(在建)地铁6号线支线二期(光明城--光明)",
+          "businfo_stationids": "440300024047027;440300024049008;900000171556001|440300024046029;440300024048004;900000171557004",
+          "businfo_line_types": "2;2;2|2;2;2",
+          "businfo_road_ids": "667481|667481",
+          "businfo_station_status": "1;1;3|1;1;3",
+          "businfo_meshs": "F49F015048|F49F015048",
+          "xs": "113.945241|113.945241",
+          "ys": "22.771707|22.771707",
+          "businfo_line_keys": "地铁6号线(光明线);地铁6号线支线;(在建)地铁6号线支线二期|地铁6号线(光明线);地铁6号线支线;(在建)地铁6号线支线二期",
+          "businfo_expect_dates": ";;预计2025年开通|;;预计2025年开通",
+          "businfo_realbus": "0;0;0|0;0;0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10527871/comment/880f9ec0c6f8513e36625e98ebf5cd4c_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.770943+++22.772711+++22.772723+++22.770928",
+            "poiids": "BX09901505+++BX10029446+++BX09901157+++BX10029447",
+            "name": "parent_other_rel",
+            "pxs": "113.945504+++113.944851+++113.945562+++113.944891",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "光明地铁站A口+++光明地铁站C口+++光明地铁站B口+++光明地铁站D口",
+            "address": "6号线支线+++6号线/光明线+++6号线支线+++6号线/光明线",
+            "shortname": "A口+++C口+++B口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "光明(地铁站)",
+        "cpdata": "",
+        "latitude": "22.771707",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "6号线支线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024048",
+            "businfo_line_shields": "6号线支",
+            "businfo_line_types": "2",
+            "y": "22.787814",
+            "businfo_line_alias": "6号线支线",
+            "businfo_stationids": "440300024048003",
+            "businfo_ui_colors": "008187",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "95.904286",
+            "businfo_expect_dates": "",
+            "poiid": "BS12264893",
+            "poiid2": "BV11029716",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "圳美(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "669157",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁6号线支线(光明--深理工)",
+            "x": "113.949275",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁6号线支线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024049",
+            "businfo_line_shields": "6号线支",
+            "businfo_line_types": "2",
+            "y": "22.787814",
+            "businfo_line_alias": "6号线支线",
+            "businfo_stationids": "440300024049007",
+            "businfo_ui_colors": "008187",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-83.677229",
+            "businfo_expect_dates": "",
+            "poiid": "BS12264894",
+            "poiid2": "BV11029716",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "圳美(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "669157",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁6号线支线(深理工--光明)",
+            "x": "113.949275",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁6号线支线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.949275",
+        "review_total": "13",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11029716",
+        "name": "圳美(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048|440300024049",
+          "display_x": "113.949275",
+          "display_y": "22.787814",
+          "businfo_ids": "BS12264893|BS12264894",
+          "businfo_line_alias": "6号线支线|6号线支线",
+          "businfo_ui_colors": "008187|008187",
+          "businfo_alias": "",
+          "businfo_angles": "95.904286|-83.677229",
+          "businfo_line_names": "地铁6号线支线(光明--深理工)|地铁6号线支线(深理工--光明)",
+          "businfo_stationids": "440300024048003|440300024049007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "669157|669157",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F015048|F49F015048",
+          "xs": "113.949275|113.949275",
+          "ys": "22.787814|22.787814",
+          "businfo_line_keys": "地铁6号线支线|地铁6号线支线",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://s-pic.oss-cn-beijing.aliyuncs.com/desensitize/images/publish/6db49097d1c16ab739b737c578cfde77.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.788804+++22.786768+++22.787550+++22.788933+++22.788656",
+            "poiids": "BX09901113+++BX09901112+++BX09901111+++BX09901114+++BX09901110",
+            "name": "parent_other_rel",
+            "pxs": "113.948945+++113.950103+++113.949122+++113.949883+++113.949915",
+            "childtype": "107+++107+++107+++107+++107",
+            "poiname": "圳美地铁站C口+++圳美地铁站A1口+++圳美地铁站D口+++圳美地铁站B2口+++圳美地铁站B1口",
+            "address": "6号线支线+++6号线支线+++6号线支线+++6号线支线+++6号线支线",
+            "shortname": "C口+++A1口+++D口+++B2口+++B1口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "圳美(地铁站)",
+        "cpdata": "",
+        "latitude": "22.787814",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "6号线支线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024049",
+            "businfo_line_shields": "6号线支",
+            "businfo_line_types": "2",
+            "y": "22.806378",
+            "businfo_line_alias": "6号线支线",
+            "businfo_stationids": "440300024049005",
+            "businfo_ui_colors": "008187",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-125.947396",
+            "businfo_expect_dates": "",
+            "poiid": "BS12264891",
+            "poiid2": "BV11029715",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "深理工(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "657905",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁6号线支线(深理工--光明)",
+            "x": "113.968595",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁6号线支线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024048",
+            "businfo_line_shields": "6号线支",
+            "businfo_line_types": "2",
+            "y": "22.806378",
+            "businfo_line_alias": "6号线支线",
+            "businfo_stationids": "440300024048006",
+            "businfo_ui_colors": "008187",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "54.052604",
+            "businfo_expect_dates": "",
+            "poiid": "BS12264892",
+            "poiid2": "BV11029715",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "深理工(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "657905",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁6号线支线(光明--深理工)",
+            "x": "113.968595",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁6号线支线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.968595",
+        "review_total": "39",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11029715",
+        "name": "深理工(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024049|440300024048",
+          "display_x": "113.968595",
+          "display_y": "22.806378",
+          "businfo_ids": "BS12264891|BS12264892",
+          "businfo_line_alias": "6号线支线|6号线支线",
+          "businfo_ui_colors": "008187|008187",
+          "businfo_alias": "",
+          "businfo_angles": "-125.947396|54.052604",
+          "businfo_line_names": "地铁6号线支线(深理工--光明)|地铁6号线支线(光明--深理工)",
+          "businfo_stationids": "440300024049005|440300024048006",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "657905|657905",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F015048|F49F015048",
+          "xs": "113.968595|113.968595",
+          "ys": "22.806378|22.806378",
+          "businfo_line_keys": "地铁6号线支线|地铁6号线支线",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV11029715/comment/64b7cc9cac2097144a7bf7aa8467d6f1_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.808417+++22.806702+++22.807636+++22.807235",
+            "poiids": "BX09901103+++BX09901105+++BX09901104+++BX09901102",
+            "name": "parent_other_rel",
+            "pxs": "113.969524+++113.969430+++113.968958+++113.969822",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "深理工地铁站C2口+++深理工地铁站A1口+++深理工地铁站C1口+++深理工地铁站A2口",
+            "address": "6号线支线+++6号线支线+++6号线支线+++6号线支线",
+            "shortname": "C2口+++A1口+++C1口+++A2口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "深理工(地铁站)",
+        "cpdata": "",
+        "latitude": "22.806378",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "6号线支线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024049",
+            "businfo_line_shields": "6号线支",
+            "businfo_line_types": "2",
+            "y": "22.796433",
+            "businfo_line_alias": "6号线支线",
+            "businfo_stationids": "440300024049006",
+            "businfo_ui_colors": "008187",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-163.846657",
+            "businfo_expect_dates": "",
+            "poiid": "BS12264889",
+            "poiid2": "BV11029714",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中大(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "625590",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁6号线支线(深理工--光明)",
+            "x": "113.953344",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁6号线支线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024048",
+            "businfo_line_shields": "6号线支",
+            "businfo_line_types": "2",
+            "y": "22.796433",
+            "businfo_line_alias": "6号线支线",
+            "businfo_stationids": "440300024048005",
+            "businfo_ui_colors": "008187",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "16.296589",
+            "businfo_expect_dates": "",
+            "poiid": "BS12264890",
+            "poiid2": "BV11029714",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中大(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "625590",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁6号线支线(光明--深理工)",
+            "x": "113.953344",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁6号线支线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.953344",
+        "review_total": "7",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11029714",
+        "name": "中大(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048|440300024049",
+          "display_x": "113.953344",
+          "display_y": "22.796433",
+          "businfo_ids": "BS12264890|BS12264889",
+          "businfo_line_alias": "6号线支线|6号线支线",
+          "businfo_ui_colors": "008187|008187",
+          "businfo_alias": "",
+          "businfo_angles": "16.296589|-163.846657",
+          "businfo_line_names": "地铁6号线支线(光明--深理工)|地铁6号线支线(深理工--光明)",
+          "businfo_stationids": "440300024048005|440300024049006",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "625590|625590",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F015048|F49F015048",
+          "xs": "113.953344|113.953344",
+          "ys": "22.796433|22.796433",
+          "businfo_line_keys": "地铁6号线支线|地铁6号线支线",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV11029714/headerImg/b655b29d039199d9fd94105d132cff57_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.797381+++22.796272+++22.796285+++22.796791+++22.795751+++22.797020+++22.796080",
+            "poiids": "BX09900952+++BX09901119+++BX09901118+++BX09901117+++BX09900951+++BX09901115+++BX09901116",
+            "name": "parent_other_rel",
+            "pxs": "113.954687+++113.954052+++113.955297+++113.952584+++113.951594+++113.953364+++113.953127",
+            "childtype": "107+++107+++107+++107+++107+++107+++107",
+            "poiname": "中大地铁站C口+++中大地铁站A口+++中大地铁站B口+++中大地铁站E口+++中大地铁站F口+++中大地铁站D口+++中大地铁站G口",
+            "address": "6号线支线+++6号线支线+++6号线支线+++6号线支线+++6号线支线+++6号线支线+++6号线支线",
+            "shortname": "C口+++A口+++B口+++E口+++F口+++D口+++G口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "中大(地铁站)",
+        "cpdata": "",
+        "latitude": "22.796433",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)6号线支线二期;(在建)地铁13号线二期北延",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000160063",
+            "businfo_line_shields": "13号线二期北延",
+            "businfo_line_types": "2",
+            "y": "22.731954",
+            "businfo_line_alias": "(在建)地铁13号线二期北延",
+            "businfo_stationids": "900000160063010",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-93.290002",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13208599",
+            "poiid2": "BV11496173",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "光明城(地铁站)",
+            "businfo_mesh": "F49F016048",
+            "businfo_road_id": "649937",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁13号线二期北延(李松蓢--上屋)",
+            "x": "113.953518",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁13号线二期北延",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000160060",
+            "businfo_line_shields": "13号线二期北延",
+            "businfo_line_types": "2",
+            "y": "22.731954",
+            "businfo_line_alias": "(在建)地铁13号线二期北延",
+            "businfo_stationids": "900000160060003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "85.288716",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13208598",
+            "poiid2": "BV11496173",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "光明城(地铁站)",
+            "businfo_mesh": "F49F016048",
+            "businfo_road_id": "649937",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁13号线二期北延(上屋--李松蓢)",
+            "x": "113.953518",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁13号线二期北延",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000171556",
+            "businfo_line_shields": "6号线支二期",
+            "businfo_line_types": "2",
+            "y": "22.732790",
+            "businfo_line_alias": "(在建)6号线支线二期",
+            "businfo_stationids": "900000171556004",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-94.467603",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13425581",
+            "poiid2": "BV11496173",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "光明城(地铁站)",
+            "businfo_mesh": "F49F016048",
+            "businfo_road_id": "696117",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁6号线支线二期(光明--光明城)",
+            "x": "113.953490",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁6号线支线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000171557",
+            "businfo_line_shields": "6号线支二期",
+            "businfo_line_types": "2",
+            "y": "22.732790",
+            "businfo_line_alias": "(在建)6号线支线二期",
+            "businfo_stationids": "900000171557001",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "85.532397",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13425578",
+            "poiid2": "BV11496173",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "光明城(地铁站)",
+            "businfo_mesh": "F49F016048",
+            "businfo_road_id": "696117",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁6号线支线二期(光明城--光明)",
+            "x": "113.953490",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁6号线支线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.953490",
+        "review_total": "2",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11496173",
+        "name": "光明城(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000171556|900000171557|900000160063|900000160060",
+          "display_x": "113.953490",
+          "display_y": "22.732790",
+          "businfo_ids": "BS13425581|BS13425578|BS13208599|BS13208598",
+          "businfo_line_alias": "(在建)6号线支线二期|(在建)6号线支线二期|(在建)地铁13号线二期北延|(在建)地铁13号线二期北延",
+          "businfo_ui_colors": "AAAAAA|AAAAAA|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-94.467603|85.532397|-93.290002|85.288716",
+          "businfo_line_names": "(在建)地铁6号线支线二期(光明--光明城)|(在建)地铁6号线支线二期(光明城--光明)|(在建)地铁13号线二期北延(李松蓢--上屋)|(在建)地铁13号线二期北延(上屋--李松蓢)",
+          "businfo_stationids": "900000171556004|900000171557001|900000160063010|900000160060003",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "696117|696117|649937|649937",
+          "businfo_station_status": "3|3|3|3",
+          "businfo_meshs": "F49F016048|F49F016048|F49F016048|F49F016048",
+          "xs": "113.953490|113.953490|113.953518|113.953518",
+          "ys": "22.732790|22.732790|22.731954|22.731954",
+          "businfo_line_keys": "(在建)地铁6号线支线二期|(在建)地铁6号线支线二期|(在建)地铁13号线二期北延|(在建)地铁13号线二期北延",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通|预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "光明城(地铁站)",
+        "cpdata": "",
+        "latitude": "22.732790",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "13914611119",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "环荔路与荔美南街交叉口东北40米",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.956933",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0FFLEXY6V",
+        "name": "深圳地铁6号支线工程6521标项目监理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.79303",
+            "longitude": "113.956984"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "深圳地铁6号支线工程6521标项目监理部",
+        "cpdata": "",
+        "latitude": "22.793141",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)6号线支线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000171556",
+            "businfo_line_shields": "6号线支二期",
+            "businfo_line_types": "2",
+            "y": "22.750132",
+            "businfo_line_alias": "(在建)6号线支线二期",
+            "businfo_stationids": "900000171556003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-108.129709",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13425582",
+            "poiid2": "BV11601406",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "虹桥公园(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "657658",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁6号线支线二期(光明--光明城)",
+            "x": "113.949911",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁6号线支线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000171557",
+            "businfo_line_shields": "6号线支二期",
+            "businfo_line_types": "2",
+            "y": "22.750132",
+            "businfo_line_alias": "(在建)6号线支线二期",
+            "businfo_stationids": "900000171557002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "92.951016",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13425579",
+            "poiid2": "BV11601406",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "虹桥公园(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "657658",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁6号线支线二期(光明城--光明)",
+            "x": "113.949911",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁6号线支线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.949911",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11601406",
+        "name": "虹桥公园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000171556|900000171557",
+          "display_x": "113.949911",
+          "display_y": "22.750132",
+          "businfo_ids": "BS13425582|BS13425579",
+          "businfo_line_alias": "(在建)6号线支线二期|(在建)6号线支线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-108.129709|92.951016",
+          "businfo_line_names": "(在建)地铁6号线支线二期(光明--光明城)|(在建)地铁6号线支线二期(光明城--光明)",
+          "businfo_stationids": "900000171556003|900000171557002",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "657658|657658",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F015048|F49F015048",
+          "xs": "113.949911|113.949911",
+          "ys": "22.750132|22.750132",
+          "businfo_line_keys": "(在建)地铁6号线支线二期|(在建)地铁6号线支线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "虹桥公园(地铁站)",
+        "cpdata": "",
+        "latitude": "22.750132",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)6号线支线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000171557",
+            "businfo_line_shields": "6号线支二期",
+            "businfo_line_types": "2",
+            "y": "22.758118",
+            "businfo_line_alias": "(在建)6号线支线二期",
+            "businfo_stationids": "900000171557003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "88.692334",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09680178",
+            "poiid2": "BV09270692",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "碧眼(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "667159",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁6号线支线二期(光明城--光明)",
+            "x": "113.951039",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁6号线支线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000171556",
+            "businfo_line_shields": "6号线支二期",
+            "businfo_line_types": "2",
+            "y": "22.758118",
+            "businfo_line_alias": "(在建)6号线支线二期",
+            "businfo_stationids": "900000171556002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-94.380894",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09680177",
+            "poiid2": "BV09270692",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "碧眼(地铁站)",
+            "businfo_mesh": "F49F015048",
+            "businfo_road_id": "667159",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁6号线支线二期(光明--光明城)",
+            "x": "113.951039",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁6号线支线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.951039",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09270692",
+        "name": "碧眼(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000171556|900000171557",
+          "display_x": "113.951039",
+          "display_y": "22.758118",
+          "businfo_ids": "BS09680177|BS09680178",
+          "businfo_line_alias": "(在建)6号线支线二期|(在建)6号线支线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-94.380894|88.692334",
+          "businfo_line_names": "(在建)地铁6号线支线二期(光明--光明城)|(在建)地铁6号线支线二期(光明城--光明)",
+          "businfo_stationids": "900000171556002|900000171557003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "667159|667159",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F015048|F49F015048",
+          "xs": "113.951039|113.951039",
+          "ys": "22.758118|22.758118",
+          "businfo_line_keys": "(在建)地铁6号线支线二期|(在建)地铁6号线支线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "碧眼(地铁站)",
+        "cpdata": "",
+        "latitude": "22.758118",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.945562",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901157",
+        "name": "光明地铁站B口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "eys": "22.772723",
+          "businfo_station_name_en": "Guangming",
+          "businfo_stationids": "440300024048004;440300024049008",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800401;44030002404900801",
+          "poiid1s": "BT09901185",
+          "exs": "113.945562",
+          "businfo_station_name": "光明",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV10527871"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "光明地铁站B口",
+        "cpdata": "",
+        "latitude": "22.772723",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.948945",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901113",
+        "name": "圳美地铁站C口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "eys": "22.788804",
+          "businfo_station_name_en": "Zhenmei",
+          "businfo_stationids": "440300024048003;440300024049007",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800302;44030002404900703",
+          "poiid1s": "BT09901141",
+          "exs": "113.948945",
+          "businfo_station_name": "圳美",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV11029716"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "圳美地铁站C口",
+        "cpdata": "",
+        "latitude": "22.788804",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.949915",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901110",
+        "name": "圳美地铁站B1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "eys": "22.788656",
+          "businfo_station_name_en": "Zhenmei",
+          "businfo_stationids": "440300024048003;440300024049007",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800303;44030002404900706",
+          "poiid1s": "BT09901138",
+          "exs": "113.949915",
+          "businfo_station_name": "圳美",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV11029716"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "圳美地铁站B1口",
+        "cpdata": "",
+        "latitude": "22.788656",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.945504",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901505",
+        "name": "光明地铁站A口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024048004;440300024049008",
+          "eys": "22.770943",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800402;44030002404900802",
+          "poiid1s": "BT09901533",
+          "exs": "113.945504",
+          "businfo_station_name": "光明",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_name_en": "Guangming",
+          "businfo_station_poiid2": "BV10527871"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "光明地铁站A口",
+        "cpdata": "",
+        "latitude": "22.770943",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.954687",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09900952",
+        "name": "中大地铁站C口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024048005;440300024049006",
+          "eys": "22.797381",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800501;44030002404900609",
+          "poiid1s": "BT09900980",
+          "exs": "113.954687",
+          "businfo_station_name": "中大",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_name_en": "Zhongda",
+          "businfo_station_poiid2": "BV11029714"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "中大地铁站C口",
+        "cpdata": "",
+        "latitude": "22.797381",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.952584",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901117",
+        "name": "中大地铁站E口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "3",
+          "eys": "22.796791",
+          "businfo_station_name_en": "Zhongda",
+          "businfo_stationids": "440300024048005;440300024049006",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800505;44030002404900605",
+          "poiid1s": "BT09901145",
+          "exs": "113.952584",
+          "businfo_station_name": "中大",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV11029714"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "中大地铁站E口",
+        "cpdata": "",
+        "latitude": "22.796791",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.955297",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901118",
+        "name": "中大地铁站B口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024048005;440300024049006",
+          "eys": "22.796285",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800506;44030002404900607",
+          "poiid1s": "BT09901146",
+          "exs": "113.955297",
+          "businfo_station_name": "中大",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_name_en": "Zhongda",
+          "businfo_station_poiid2": "BV11029714"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "中大地铁站B口",
+        "cpdata": "",
+        "latitude": "22.796285",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.969430",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901105",
+        "name": "深理工地铁站A1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "eys": "22.806702",
+          "businfo_station_name_en": "Shenligong",
+          "businfo_stationids": "440300024048006;440300024049005",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800604;44030002404900501",
+          "poiid1s": "BT09901133",
+          "exs": "113.96943",
+          "businfo_station_name": "深理工",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV11029715"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "深理工地铁站A1口",
+        "cpdata": "",
+        "latitude": "22.806702",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.968958",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901104",
+        "name": "深理工地铁站C1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024048006;440300024049005",
+          "eys": "22.807636",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800603;44030002404900502",
+          "poiid1s": "BT09901132",
+          "exs": "113.968958",
+          "businfo_station_name": "深理工",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_name_en": "Shenligong",
+          "businfo_station_poiid2": "BV11029715"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "深理工地铁站C1口",
+        "cpdata": "",
+        "latitude": "22.807636",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.949883",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901114",
+        "name": "圳美地铁站B2口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "eys": "22.788933",
+          "businfo_station_name_en": "Zhenmei",
+          "businfo_stationids": "440300024048003;440300024049007",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800305;44030002404900705",
+          "poiid1s": "BT09901142",
+          "exs": "113.949883",
+          "businfo_station_name": "圳美",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV11029716"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "圳美地铁站B2口",
+        "cpdata": "",
+        "latitude": "22.788933",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.951594",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09900951",
+        "name": "中大地铁站F口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "3",
+          "eys": "22.795751",
+          "businfo_station_name_en": "Zhongda",
+          "businfo_stationids": "440300024048005;440300024049006",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800507;44030002404900608",
+          "poiid1s": "BT09900979",
+          "exs": "113.951594",
+          "businfo_station_name": "中大",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_poiid2": "BV11029714"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "中大地铁站F口",
+        "cpdata": "",
+        "latitude": "22.795751",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "6号线支线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.950103",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09901112",
+        "name": "圳美地铁站A1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024048;440300024049",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "6号线支线;6号线支线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024048003;440300024049007",
+          "eys": "22.786768",
+          "businfo_ui_colors": "008187;008187",
+          "businfo_exitids": "44030002404800304;44030002404900704",
+          "poiid1s": "BT09901140",
+          "exs": "113.950103",
+          "businfo_station_name": "圳美",
+          "businfo_line_names": "地铁6号线支线(光明--深理工);地铁6号线支线(深理工--光明)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁6号线支线;地铁6号线支线",
+          "businfo_station_name_en": "Zhenmei",
+          "businfo_station_poiid2": "BV11029716"
+        },
+        "adcode": "440311",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "圳美地铁站A1口",
+        "cpdata": "",
+        "latitude": "22.786768",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

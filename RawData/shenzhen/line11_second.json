@@ -1,0 +1,3401 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440300",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁11号线二期",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727445063.56",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440300",
+        "target_city": "4403",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.767590400,22.795800600,114.136057600,22.513445400",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440300||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "18226605950991088310_sc-00|ia-po|sy-no|si-po|ci-440300|tg-or",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.695000;出入口=0.271000;房产=0.013000\u0006交通出行|地铁站=0.689000;出入口|地铁站出入口=0.269000;房产|住宅区=0.013000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁11号线二期",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.695000;出入口=0.271000;房产=0.013000\u0006交通出行|地铁站=0.689000;出入口|地铁站出入口=0.269000;房产|住宅区=0.013000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "深圳市",
+        "result_adcode": "440300"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁11号线二期",
+    "message": "Successful.",
+    "total": "98",
+    "busline_list": [
+      {
+        "front_name": "红岭南",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "114.105945,114.10225,114.100508,114.100315,114.097553,114.096389,114.095322,114.094463,114.093842,114.093595,114.093245,114.092108,114.091706,114.086836,114.083814,114.082734,114.081909,114.080692,114.080007,114.079485,114.078232,114.077733,114.077416,114.077046,114.075807,114.075549,114.075184,114.073283,114.072865,114.072073,114.070728,114.067511",
+        "id": "900000169719",
+        "terminal_name": "岗厦北",
+        "terminal_spell": "gang sha bei",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁11号线二期",
+        "start_time": "",
+        "front_spell": "hong ling nan",
+        "busline_event": "",
+        "ys": "22.538506,22.538495,22.538838,22.538854,22.538848,22.538833,22.538793,22.538793,22.538732,22.538681,22.538571,22.538233,22.538174,22.537983,22.537604,22.537506,22.537436,22.537316,22.53724,22.537217,22.537176,22.537191,22.537255,22.537384,22.538544,22.538733,22.538921,22.540003,22.540142,22.540279,22.540321,22.540318",
+        "total_price": "0",
+        "name": "地铁11号线二期(红岭南--岗厦北)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440303",
+            "navi_poiid": "",
+            "name": "红岭南",
+            "station_num": "1",
+            "poiid1": "BS13389126",
+            "start_time": "",
+            "spell": "hong ling nan",
+            "time_desc_json": "",
+            "station_id": "900000169719001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.105945;22.538506",
+            "poiid2_xy": "114.104749;22.539943",
+            "poiid2": "BV10738554"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440304",
+            "navi_poiid": "",
+            "name": "华强南",
+            "station_num": "2",
+            "poiid1": "BS13389127",
+            "start_time": "",
+            "spell": "hua qiang nan",
+            "time_desc_json": "",
+            "station_id": "900000169719002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.086836;22.537983",
+            "poiid2_xy": "114.086825;22.537214",
+            "poiid2": "BV10602476"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440304",
+            "navi_poiid": "",
+            "name": "中大八院",
+            "station_num": "3",
+            "poiid1": "BS13389125",
+            "start_time": "",
+            "spell": "zhong da ba yuan",
+            "time_desc_json": "",
+            "station_id": "900000169719003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.080692;22.537316",
+            "poiid2_xy": "114.080692;22.537316",
+            "poiid2": "BV11584229"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440304",
+            "navi_poiid": "",
+            "name": "岗厦北",
+            "station_num": "4",
+            "poiid1": "BS09145341",
+            "start_time": "",
+            "spell": "gang sha bei",
+            "time_desc_json": "",
+            "station_id": "900000169719004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.067511;22.540318",
+            "poiid2_xy": "114.067964;22.538320",
+            "poiid2": "BV10249998"
+          }
+        ],
+        "interval": "",
+        "bounds": "114.067511;22.537176;114.105945;22.540321",
+        "air": "",
+        "length": "4.07865",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "岗厦北",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "114.067511,114.070728,114.072073,114.072865,114.073283,114.075184,114.075549,114.075807,114.077046,114.077416,114.077733,114.078232,114.079485,114.080007,114.080692,114.081909,114.082734,114.083814,114.086836,114.091706,114.092108,114.093245,114.093595,114.093842,114.094463,114.095322,114.096389,114.097553,114.100315,114.100508,114.10225,114.105945",
+        "id": "900000169718",
+        "terminal_name": "红岭南",
+        "terminal_spell": "hong ling nan",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁11号线二期",
+        "start_time": "",
+        "front_spell": "gang sha bei",
+        "busline_event": "",
+        "ys": "22.540318,22.540321,22.540279,22.540142,22.540003,22.538921,22.538733,22.538544,22.537384,22.537255,22.537191,22.537176,22.537217,22.53724,22.537316,22.537436,22.537506,22.537604,22.537983,22.538174,22.538233,22.538571,22.538681,22.538732,22.538793,22.538793,22.538833,22.538848,22.538854,22.538838,22.538495,22.538506",
+        "total_price": "0",
+        "name": "地铁11号线二期(岗厦北--红岭南)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440304",
+            "navi_poiid": "",
+            "name": "岗厦北",
+            "station_num": "1",
+            "poiid1": "BS09145342",
+            "start_time": "",
+            "spell": "gang sha bei",
+            "time_desc_json": "",
+            "station_id": "900000169718002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.067511;22.540318",
+            "poiid2_xy": "114.067964;22.538320",
+            "poiid2": "BV10249998"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440304",
+            "navi_poiid": "",
+            "name": "中大八院",
+            "station_num": "2",
+            "poiid1": "BS13389134",
+            "start_time": "",
+            "spell": "zhong da ba yuan",
+            "time_desc_json": "",
+            "station_id": "900000169718003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.080692;22.537316",
+            "poiid2_xy": "114.080692;22.537316",
+            "poiid2": "BV11584229"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440304",
+            "navi_poiid": "",
+            "name": "华强南",
+            "station_num": "3",
+            "poiid1": "BS13389136",
+            "start_time": "",
+            "spell": "hua qiang nan",
+            "time_desc_json": "",
+            "station_id": "900000169718004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.086836;22.537983",
+            "poiid2_xy": "114.086825;22.537214",
+            "poiid2": "BV10602476"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440303",
+            "navi_poiid": "",
+            "name": "红岭南",
+            "station_num": "4",
+            "poiid1": "BS13389135",
+            "start_time": "",
+            "spell": "hong ling nan",
+            "time_desc_json": "",
+            "station_id": "900000169718005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.105945;22.538506",
+            "poiid2_xy": "114.104749;22.539943",
+            "poiid2": "BV10738554"
+          }
+        ],
+        "interval": "",
+        "bounds": "114.067511;22.537176;114.105945;22.540321",
+        "air": "",
+        "length": "4.07865",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.798296;22.536975;114.104749;22.772271",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)11号线二期;9号线/梅林线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024054",
+            "businfo_line_shields": "9号线",
+            "businfo_line_types": "2",
+            "y": "22.539943",
+            "businfo_line_alias": "9号线/梅林线",
+            "businfo_stationids": "440300024054004",
+            "businfo_ui_colors": "86656D",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "89.933915",
+            "businfo_expect_dates": "",
+            "poiid": "BS10903512",
+            "poiid2": "BV10738554",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "红岭南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "32210",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁9号线(梅林线)(文锦--前湾)",
+            "x": "114.104749",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁9号线(梅林线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000169719",
+            "businfo_line_shields": "11号线二期",
+            "businfo_line_types": "2",
+            "y": "22.538506",
+            "businfo_line_alias": "(在建)11号线二期",
+            "businfo_stationids": "900000169719001",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-179.829431",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13389126",
+            "poiid2": "BV10738554",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "红岭南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "616901",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁11号线二期(红岭南--岗厦北)",
+            "x": "114.105945",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000169718",
+            "businfo_line_shields": "11号线二期",
+            "businfo_line_types": "2",
+            "y": "22.538506",
+            "businfo_line_alias": "(在建)11号线二期",
+            "businfo_stationids": "900000169718005",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "0.170569",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13389135",
+            "poiid2": "BV10738554",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "红岭南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "616901",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁11号线二期(岗厦北--红岭南)",
+            "x": "114.105945",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024055",
+            "businfo_line_shields": "9号线",
+            "businfo_line_types": "2",
+            "y": "22.539943",
+            "businfo_line_alias": "9号线/梅林线",
+            "businfo_stationids": "440300024055016",
+            "businfo_ui_colors": "86656D",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-90.000000",
+            "businfo_expect_dates": "",
+            "poiid": "BS10903513",
+            "poiid2": "BV10738554",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "红岭南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "32210",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁9号线(梅林线)(前湾--文锦)",
+            "x": "114.104749",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁9号线(梅林线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.104749",
+        "review_total": "3",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10738554",
+        "name": "红岭南(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000169719|900000169718|440300024054|440300024055",
+          "display_x": "114.104749",
+          "display_y": "22.539943",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS13389126|BS13389135|BS10903512|BS10903513",
+          "businfo_line_alias": "(在建)11号线二期|(在建)11号线二期|9号线/梅林线|9号线/梅林线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA|86656D|86656D",
+          "businfo_alias": "",
+          "businfo_angles": "-179.829431|0.170569|89.933915|-90.000000",
+          "businfo_line_names": "(在建)地铁11号线二期(红岭南--岗厦北)|(在建)地铁11号线二期(岗厦北--红岭南)|地铁9号线(梅林线)(文锦--前湾)|地铁9号线(梅林线)(前湾--文锦)",
+          "businfo_stationids": "900000169719001|900000169718005|440300024054004|440300024055016",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "616901|616901|32210|32210",
+          "businfo_station_status": "3|3|1|1",
+          "businfo_meshs": "F50F018001|F50F018001|F50F018001|F50F018001",
+          "xs": "114.105945|114.105945|114.104749|114.104749",
+          "ys": "22.538506|22.538506|22.539943|22.539943",
+          "businfo_line_keys": "(在建)地铁11号线二期|(在建)地铁11号线二期|地铁9号线(梅林线)|地铁9号线(梅林线)",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通| | ",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440303",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.540595+++22.539050+++22.540533",
+            "poiids": "BX10021929+++BX10021877+++BX10021876",
+            "name": "parent_other_rel",
+            "pxs": "114.104457+++114.105033+++114.105352",
+            "childtype": "107+++107+++107",
+            "poiname": "红岭南地铁站A口+++红岭南地铁站C口+++红岭南地铁站D口",
+            "address": "9号线/梅林线+++9号线/梅林线+++9号线/梅林线",
+            "shortname": "A口+++C口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "红岭南(地铁站)",
+        "cpdata": "",
+        "latitude": "22.539943",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "华发南路(华强南地铁站A口步行490米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.089272",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0G2CC9OIG",
+        "name": "中铁二局深圳地铁11号线二期一工区项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.538485",
+            "longitude": "114.089314"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/47775c33fb11e97252828304075cca36",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁二局深圳地铁11号线二期一工区项目经理部",
+        "cpdata": "",
+        "latitude": "22.538489",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)11号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000169719",
+            "businfo_line_shields": "11号线二期",
+            "businfo_line_types": "2",
+            "y": "22.537316",
+            "businfo_line_alias": "(在建)11号线二期",
+            "businfo_stationids": "900000169719003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-174.368661",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13389125",
+            "poiid2": "BV11584229",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中大八院(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "646533",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁11号线二期(红岭南--岗厦北)",
+            "x": "114.080692",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000169718",
+            "businfo_line_shields": "11号线二期",
+            "businfo_line_types": "2",
+            "y": "22.537316",
+            "businfo_line_alias": "(在建)11号线二期",
+            "businfo_stationids": "900000169718003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "6.331011",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13389134",
+            "poiid2": "BV11584229",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "中大八院(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "646533",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁11号线二期(岗厦北--红岭南)",
+            "x": "114.080692",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.080692",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11584229",
+        "name": "中大八院(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000169718|900000169719",
+          "display_x": "114.080692",
+          "display_y": "22.537316",
+          "businfo_ids": "BS13389134|BS13389125",
+          "businfo_line_alias": "(在建)11号线二期|(在建)11号线二期",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "6.331011|-174.368661",
+          "businfo_line_names": "(在建)地铁11号线二期(岗厦北--红岭南)|(在建)地铁11号线二期(红岭南--岗厦北)",
+          "businfo_stationids": "900000169718003|900000169719003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "646533|646533",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F50F018001|F50F018001",
+          "xs": "114.080692|114.080692",
+          "ys": "22.537316|22.537316",
+          "businfo_line_keys": "(在建)地铁11号线二期|(在建)地铁11号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "中大八院(地铁站)",
+        "cpdata": "",
+        "latitude": "22.537316",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "福虹路5号中电福华大厦(华强路地铁站C口步行210米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.083512",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0JKZCSSYG",
+        "name": "中铁一局深圳地铁11号线二期常规二工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁一局深圳地铁11号线二期常规二工区项目部",
+        "cpdata": "",
+        "latitude": "22.538351",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)11号线二期;7号线/西丽线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000169719",
+            "businfo_line_shields": "11号线二期",
+            "businfo_line_types": "2",
+            "y": "22.537983",
+            "businfo_line_alias": "(在建)11号线二期",
+            "businfo_stationids": "900000169719002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-177.754027",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13389127",
+            "poiid2": "BV10602476",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "华强南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "863",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁11号线二期(红岭南--岗厦北)",
+            "x": "114.086836",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000169718",
+            "businfo_line_shields": "11号线二期",
+            "businfo_line_types": "2",
+            "y": "22.537983",
+            "businfo_line_alias": "(在建)11号线二期",
+            "businfo_stationids": "900000169718004",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "7.148350",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13389136",
+            "poiid2": "BV10602476",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "华强南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "863",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁11号线二期(岗厦北--红岭南)",
+            "x": "114.086836",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024051",
+            "businfo_line_shields": "7号线",
+            "businfo_line_types": "2",
+            "y": "22.537214",
+            "businfo_line_alias": "7号线/西丽线",
+            "businfo_stationids": "440300024051008",
+            "businfo_ui_colors": "2249A3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-89.566934",
+            "businfo_expect_dates": "",
+            "poiid": "BS11403637",
+            "poiid2": "BV10602476",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "华强南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "651871",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁7号线(西丽线)(太安--西丽湖)",
+            "x": "114.086825",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁7号线(西丽线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024050",
+            "businfo_line_shields": "7号线",
+            "businfo_line_types": "2",
+            "y": "22.537214",
+            "businfo_line_alias": "7号线/西丽线",
+            "businfo_stationids": "440300024050018",
+            "businfo_ui_colors": "2249A3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "89.311933",
+            "businfo_expect_dates": "",
+            "poiid": "BS11403636",
+            "poiid2": "BV10602476",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "华强南(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "651871",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁7号线(西丽线)(西丽湖--太安)",
+            "x": "114.086825",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁7号线(西丽线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.086825",
+        "review_total": "10",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10602476",
+        "name": "华强南(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024050|440300024051|900000169719|900000169718",
+          "display_x": "114.086825",
+          "display_y": "22.537214",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS11403636|BS11403637|BS13389127|BS13389136",
+          "businfo_line_alias": "7号线/西丽线|7号线/西丽线|(在建)11号线二期|(在建)11号线二期",
+          "businfo_ui_colors": "2249A3|2249A3|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "89.311933|-89.566934|-177.754027|7.148350",
+          "businfo_line_names": "地铁7号线(西丽线)(西丽湖--太安)|地铁7号线(西丽线)(太安--西丽湖)|(在建)地铁11号线二期(红岭南--岗厦北)|(在建)地铁11号线二期(岗厦北--红岭南)",
+          "businfo_stationids": "440300024050018|440300024051008|900000169719002|900000169718004",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "651871|651871|863|863",
+          "businfo_station_status": "1|1|3|3",
+          "businfo_meshs": "F50F018001|F50F018001|F50F018001|F50F018001",
+          "xs": "114.086825|114.086825|114.086836|114.086836",
+          "ys": "22.537214|22.537214|22.537983|22.537983",
+          "businfo_line_keys": "地铁7号线(西丽线)|地铁7号线(西丽线)|(在建)地铁11号线二期|(在建)地铁11号线二期",
+          "businfo_expect_dates": " | |预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10602476/comment/68640e3d64099ab04d970e80c425a703_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.536136+++22.537723+++22.538429+++22.536588",
+            "poiids": "BX09906313+++BX09906312+++BX09906311+++BX09906314",
+            "name": "parent_other_rel",
+            "pxs": "114.087086+++114.086594+++114.087015+++114.086618",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "华强南地铁站A口+++华强南地铁站C口+++华强南地铁站B口+++华强南地铁站D口",
+            "address": "7号线/西丽线+++7号线/西丽线+++7号线/西丽线+++7号线/西丽线",
+            "shortname": "A口+++C口+++B口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "华强南(地铁站)",
+        "cpdata": "",
+        "latitude": "22.537214",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "南园路182号(华强南地铁站B口步行360米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.089229",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0G3MC05QU",
+        "name": "中铁南方投资集团深圳地铁11号线二期项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.538381",
+            "longitude": "114.089314"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://aos-cdn-image.amap.com/sns/ugccomment/fdf211b1-77bc-422e-86db-42be4206d93c.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁南方投资集团深圳地铁11号线二期项目经理部",
+        "cpdata": "",
+        "latitude": "22.538490",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "福华路与福星路交叉口(华强路地铁站C口步行410米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.082915",
+        "review_total": "0",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0IGZC1QQM",
+        "name": "深圳地铁11线二期项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.537561",
+            "longitude": "114.082865"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://s-pic.oss-cn-beijing.aliyuncs.com/desensitize/images/publish/5489bb95c7ac7f5a83036c0b1f42198c.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "深圳地铁11线二期项目部",
+        "cpdata": "",
+        "latitude": "22.537621",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)11号线二期;10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024056;900000095033;900000169719",
+            "businfo_line_shields": "11号线;14号线;11号线二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.540318",
+            "businfo_line_alias": "11号线/机场线;14号线/东部快线;(在建)11号线二期",
+            "businfo_stationids": "440300024056027;900000095033017;900000169719004",
+            "businfo_ui_colors": "741D51;DAC17D;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-179.894400",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS09145341",
+            "poiid2": "BV10249998",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗厦北(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "759004",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁14号线(东部快线)(沙田--岗厦北);(在建)地铁11号线二期(红岭南--岗厦北)",
+            "x": "114.067511",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁11号线(机场线);地铁14号线(东部快线);(在建)地铁11号线二期",
+            "businfo_station_status": "1;1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000055265",
+            "businfo_line_shields": "10号线",
+            "businfo_line_types": "2",
+            "y": "22.538320",
+            "businfo_line_alias": "10号线/坂田线",
+            "businfo_stationids": "900000055265004",
+            "businfo_ui_colors": "EA6183",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "89.913013",
+            "businfo_expect_dates": "",
+            "poiid": "BS09090653",
+            "poiid2": "BV10249998",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗厦北(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "766797",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁10号线(坂田线)(福田口岸--双拥街)",
+            "x": "114.067964",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁10号线(坂田线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024076;900000211171",
+            "businfo_line_shields": "2号线;2号线",
+            "businfo_line_types": "2;2",
+            "y": "22.540783",
+            "businfo_line_alias": "2号线(8号线);2号线(8号线)",
+            "businfo_stationids": "440300024076024;900000211171006",
+            "businfo_ui_colors": "B35A1F;B35A1F",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "0.429710",
+            "businfo_expect_dates": ";",
+            "poiid": "BS13534360",
+            "poiid2": "BV10249998",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗厦北(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "769197",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+            "x": "114.069208",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁2号线(8号线);地铁2号线(8号线)晨曦特快",
+            "businfo_station_status": "1;1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024057;900000095035;900000169718",
+            "businfo_line_shields": "11号线;14号线;11号线二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.540318",
+            "businfo_line_alias": "11号线/机场线;14号线/东部快线;(在建)11号线二期",
+            "businfo_stationids": "440300024057027;900000095035001;900000169718002",
+            "businfo_ui_colors": "741D51;DAC17D;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "0.105600",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS09145342",
+            "poiid2": "BV10249998",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗厦北(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "759004",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁11号线(机场线)(碧头--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);(在建)地铁11号线二期(岗厦北--红岭南)",
+            "x": "114.067511",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁11号线(机场线);地铁14号线(东部快线);(在建)地铁11号线二期",
+            "businfo_station_status": "1;1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000055266",
+            "businfo_line_shields": "10号线",
+            "businfo_line_types": "2",
+            "y": "22.538320",
+            "businfo_line_alias": "10号线/坂田线",
+            "businfo_stationids": "900000055266020",
+            "businfo_ui_colors": "EA6183",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-90.000000",
+            "businfo_expect_dates": "",
+            "poiid": "BS09090654",
+            "poiid2": "BV10249998",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗厦北(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "766797",
+            "bus_alias": "E",
+            "businfo_line_names": "地铁10号线(坂田线)(双拥街--福田口岸)",
+            "x": "114.067964",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁10号线(坂田线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024077",
+            "businfo_line_shields": "2号线",
+            "businfo_line_types": "2",
+            "y": "22.540783",
+            "businfo_line_alias": "2号线(8号线)",
+            "businfo_stationids": "440300024077008",
+            "businfo_ui_colors": "B35A1F",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-179.847618",
+            "businfo_expect_dates": "",
+            "poiid": "BS13534359",
+            "poiid2": "BV10249998",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗厦北(地铁站)",
+            "businfo_mesh": "F50F018001",
+            "businfo_road_id": "769197",
+            "bus_alias": "F",
+            "businfo_line_names": "地铁2号线(8号线)(小梅沙--赤湾)",
+            "x": "114.069208",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁2号线(8号线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.067964",
+        "review_total": "245",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10249998",
+        "name": "岗厦北(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024076;900000211171|440300024077|440300024057;900000095035;900000169718|440300024056;900000095033;900000169719|900000055266|900000055265",
+          "display_x": "114.067964",
+          "display_y": "22.538320",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS13534360|BS13534359|BS09145342|BS09145341|BS09090654|BS09090653",
+          "businfo_line_alias": "2号线(8号线);2号线(8号线)|2号线(8号线)|11号线/机场线;14号线/东部快线;(在建)11号线二期|11号线/机场线;14号线/东部快线;(在建)11号线二期|10号线/坂田线|10号线/坂田线",
+          "businfo_ui_colors": "B35A1F;B35A1F|B35A1F|741D51;DAC17D;AAAAAA|741D51;DAC17D;AAAAAA|EA6183|EA6183",
+          "businfo_alias": "",
+          "businfo_angles": "0.429710|-179.847618|0.105600|-179.894400|-90.000000|89.913013",
+          "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)|地铁2号线(8号线)(小梅沙--赤湾)|地铁11号线(机场线)(碧头--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);(在建)地铁11号线二期(岗厦北--红岭南)|地铁11号线(机场线)(岗厦北--碧头);地铁14号线(东部快线)(沙田--岗厦北);(在建)地铁11号线二期(红岭南--岗厦北)|地铁10号线(坂田线)(双拥街--福田口岸)|地铁10号线(坂田线)(福田口岸--双拥街)",
+          "businfo_stationids": "440300024076024;900000211171006|440300024077008|440300024057027;900000095035001;900000169718002|440300024056027;900000095033017;900000169719004|900000055266020|900000055265004",
+          "businfo_line_types": "2;2|2|2;2;2|2;2;2|2|2",
+          "businfo_road_ids": "769197|769197|759004|759004|766797|766797",
+          "businfo_station_status": "1;1|1|1;1;3|1;1;3|1|1",
+          "businfo_meshs": "F50F018001|F50F018001|F50F018001|F50F018001|F50F018001|F50F018001",
+          "xs": "114.069208|114.069208|114.067511|114.067511|114.067964|114.067964",
+          "ys": "22.540783|22.540783|22.540318|22.540318|22.538320|22.538320",
+          "businfo_line_keys": "地铁2号线(8号线);地铁2号线(8号线)晨曦特快|地铁2号线(8号线)|地铁11号线(机场线);地铁14号线(东部快线);(在建)地铁11号线二期|地铁11号线(机场线);地铁14号线(东部快线);(在建)地铁11号线二期|地铁10号线(坂田线)|地铁10号线(坂田线)",
+          "businfo_expect_dates": ";| |;;预计2025年开通|;;预计2025年开通| | ",
+          "businfo_realbus": "0;0|0|0;0;0|0;0;0|0|0"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/7f629da145cf34fe459e4cd48fbf9cc1",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.540647+++22.540618+++22.539661+++22.539551+++22.539749+++22.539479+++22.540595+++22.540553+++22.537754+++22.540926",
+            "poiids": "BX09906303+++BX09906292+++BX09906295+++BX09906301+++BX09906307+++BX09906296+++BX09906291+++BX09906302+++BX09906299+++BX09906300",
+            "name": "parent_other_rel",
+            "pxs": "114.067155+++114.069895+++114.069033+++114.067234+++114.070890+++114.065893+++114.064220+++114.070478+++114.068351+++114.068622",
+            "childtype": "107+++107+++107+++107+++107+++107+++107+++107+++107+++107",
+            "poiname": "岗厦北地铁站1号口+++岗厦北地铁站16号口+++岗厦北地铁站12号口+++岗厦北地铁站7号口+++岗厦北地铁站14号口+++岗厦北地铁站6A口+++岗厦北地铁站3号口+++岗厦北地铁站15号口+++岗厦北地铁站11号口+++岗厦北地铁站18号口",
+            "address": "10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)+++10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)",
+            "shortname": "1号口+++16号口+++12号口+++7号口+++14号口+++6A口+++3号口+++15号口+++11号口+++18号口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "岗厦北(地铁站)",
+        "cpdata": "",
+        "latitude": "22.538320",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)20号线二期;11号线/机场线;20号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024056",
+            "businfo_line_shields": "11号线",
+            "businfo_line_types": "2",
+            "y": "22.651433",
+            "businfo_line_alias": "11号线/机场线",
+            "businfo_stationids": "440300024056026",
+            "businfo_ui_colors": "741D51",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "119.262740",
+            "businfo_expect_dates": "",
+            "poiid": "BS11564463",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头)",
+            "x": "113.798296",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁11号线(机场线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075925;900000208421",
+            "businfo_line_shields": "20号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.651513",
+            "businfo_line_alias": "20号线;(在建)20号线二期",
+            "businfo_stationids": "900000075925002;900000208421012",
+            "businfo_ui_colors": "84C3D0;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "118.125498",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS13486439",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁20号线(机场北--会展城);(在建)地铁20号线二期(白石洲--机场北)",
+            "x": "113.798446",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁20号线;(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075926;900000208420",
+            "businfo_line_shields": "20号线;20号线二期",
+            "businfo_line_types": "2;2",
+            "y": "22.651513",
+            "businfo_line_alias": "20号线;(在建)20号线二期",
+            "businfo_stationids": "900000075926005;900000208420001",
+            "businfo_ui_colors": "84C3D0;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-61.874502",
+            "businfo_expect_dates": ";预计2028年开通",
+            "poiid": "BS13486440",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁20号线(会展城--机场北);(在建)地铁20号线二期(机场北--白石洲)",
+            "x": "113.798446",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁20号线;(在建)地铁20号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024057",
+            "businfo_line_shields": "11号线",
+            "businfo_line_types": "2",
+            "y": "22.651433",
+            "businfo_line_alias": "11号线/机场线",
+            "businfo_stationids": "440300024057026",
+            "businfo_ui_colors": "741D51",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-61.290514",
+            "businfo_expect_dates": "",
+            "poiid": "BS11564464",
+            "poiid2": "BV10680166",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "机场北(地铁站)",
+            "businfo_mesh": "F49F017047",
+            "businfo_road_id": "649510",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁11号线(机场线)(碧头--岗厦北)",
+            "x": "113.798296",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁11号线(机场线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.798296",
+        "review_total": "17",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10680166",
+        "name": "机场北(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075926;900000208420|900000075925;900000208421|440300024056|440300024057",
+          "display_x": "113.798296",
+          "display_y": "22.651433",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS13486440|BS13486439|BS11564463|BS11564464",
+          "businfo_line_alias": "20号线;(在建)20号线二期|20号线;(在建)20号线二期|11号线/机场线|11号线/机场线",
+          "businfo_ui_colors": "84C3D0;|84C3D0;|741D51|741D51",
+          "businfo_alias": "",
+          "businfo_angles": "-61.874502|118.125498|119.262740|-61.290514",
+          "businfo_line_names": "地铁20号线(会展城--机场北);(在建)地铁20号线二期(机场北--白石洲)|地铁20号线(机场北--会展城);(在建)地铁20号线二期(白石洲--机场北)|地铁11号线(机场线)(岗厦北--碧头)|地铁11号线(机场线)(碧头--岗厦北)",
+          "businfo_stationids": "900000075926005;900000208420001|900000075925002;900000208421012|440300024056026|440300024057026",
+          "businfo_line_types": "2;2|2;2|2|2",
+          "businfo_road_ids": "649510|649510|649510|649510",
+          "businfo_station_status": "1;3|1;3|1|1",
+          "businfo_meshs": "F49F017047|F49F017047|F49F017047|F49F017047",
+          "xs": "113.798446|113.798446|113.798296|113.798296",
+          "ys": "22.651513|22.651513|22.651433|22.651433",
+          "businfo_line_keys": "地铁20号线;(在建)地铁20号线二期|地铁20号线;(在建)地铁20号线二期|地铁11号线(机场线)|地铁11号线(机场线)",
+          "businfo_expect_dates": ";预计2028年开通|;预计2028年开通| | ",
+          "businfo_realbus": "0;0|0;0|0|0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10680166/headerImg/6b2e4f4d5b1ae223388b8639b28862d8_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.652064+++22.650495+++22.652207+++22.650714+++22.650827",
+            "poiids": "BX09906243+++BX09906241+++BX09906242+++BX09906239+++BX09906240",
+            "name": "parent_other_rel",
+            "pxs": "113.797864+++113.799346+++113.798259+++113.798606+++113.798152",
+            "childtype": "107+++107+++107+++107+++107",
+            "poiname": "机场北地铁站A口+++机场北地铁站D口+++机场北地铁站E口+++机场北地铁站B口+++机场北地铁站C口",
+            "address": "11号线/机场线+++20号线+++20号线+++11号线/机场线+++11号线/机场线",
+            "shortname": "A口+++D口+++E口+++B口+++C口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "机场北(地铁站)",
+        "cpdata": "",
+        "latitude": "22.651433",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.068351",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906299",
+        "name": "岗厦北地铁站11号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057;440300024076;440300024077;900000055265;900000055266;900000095033;900000095035;900000211171",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线;2号线(8号线);2号线(8号线);10号线/坂田线;10号线/坂田线;14号线/东部快线;14号线/东部快线;2号线(8号线)",
+          "businfo_exit_status": "1",
+          "eys": "22.537754",
+          "businfo_station_name_en": "gangxia north",
+          "businfo_stationids": "440300024056027;440300024057027;440300024076024;440300024077008;900000055265004;900000055266020;900000095033017;900000095035001;900000211171006",
+          "businfo_ui_colors": "741D51;741D51;B35A1F;B35A1F;EA6183;EA6183;DAC17D;DAC17D;B35A1F",
+          "businfo_exitids": "44030002405602735;44030002405702736;44030002407602407;44030002407700809;90000005526500427;90000005526602021;90000009503301711;90000009503500121;90000021117100602",
+          "poiid1s": "BT09906327",
+          "exs": "114.068351",
+          "businfo_station_name": "岗厦北",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北);地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾);地铁10号线(坂田线)(福田口岸--双拥街);地铁10号线(坂田线)(双拥街--福田口岸);地铁14号线(东部快线)(沙田--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线);地铁2号线(8号线);地铁2号线(8号线);地铁10号线(坂田线);地铁10号线(坂田线);地铁14号线(东部快线);地铁14号线(东部快线);地铁2号线(8号线)晨曦特快",
+          "businfo_station_poiid2": "BV10249998"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "岗厦北地铁站11号口",
+        "cpdata": "",
+        "latitude": "22.537754",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)12号线二期;11号线/机场线;6号线/光明线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024056;440300024046;900000165812",
+            "businfo_line_shields": "11号线;6号线;12号线二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.772271",
+            "businfo_line_alias": "11号线/机场线;6号线/光明线;(在建)12号线二期",
+            "businfo_stationids": "440300024056013;440300024046020;900000165812001",
+            "businfo_ui_colors": "741D51;00AD8E;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-72.972179",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS10478145",
+            "poiid2": "BV10242465",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "松岗(地铁站)",
+            "businfo_mesh": "F49F015047",
+            "businfo_road_id": "8024",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁6号线(光明线)(科学馆--松岗);(在建)地铁12号线二期(松岗--海上田园东)",
+            "x": "113.829631",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁11号线(机场线);地铁6号线(光明线);(在建)地铁12号线二期",
+            "businfo_station_status": "1;1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024057;440300024047;900000165811",
+            "businfo_line_shields": "11号线;6号线;12号线二期",
+            "businfo_line_types": "2;2;2",
+            "y": "22.772271",
+            "businfo_line_alias": "11号线/机场线;6号线/光明线;(在建)12号线二期",
+            "businfo_stationids": "440300024057002;440300024047002;900000165811007",
+            "businfo_ui_colors": "741D51;00AD8E;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-13.421305",
+            "businfo_expect_dates": ";;预计2025年开通",
+            "poiid": "BS10478146",
+            "poiid2": "BV10242465",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "松岗(地铁站)",
+            "businfo_mesh": "F49F015047",
+            "businfo_road_id": "8024",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁11号线(机场线)(碧头--岗厦北);地铁6号线(光明线)(松岗--科学馆);(在建)地铁12号线二期(海上田园东--松岗)",
+            "x": "113.829631",
+            "businfo_realbus": "0;0;0",
+            "businfo_line_keys": "地铁11号线(机场线);地铁6号线(光明线);(在建)地铁12号线二期",
+            "businfo_station_status": "1;1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.829631",
+        "review_total": "202",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10242465",
+        "name": "松岗(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024046;900000165812|440300024057;440300024047;900000165811",
+          "display_x": "113.829631",
+          "display_y": "22.772271",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS10478145|BS10478146",
+          "businfo_line_alias": "11号线/机场线;6号线/光明线;(在建)12号线二期|11号线/机场线;6号线/光明线;(在建)12号线二期",
+          "businfo_ui_colors": "741D51;00AD8E;AAAAAA|741D51;00AD8E;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-72.972179|-13.421305",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁6号线(光明线)(科学馆--松岗);(在建)地铁12号线二期(松岗--海上田园东)|地铁11号线(机场线)(碧头--岗厦北);地铁6号线(光明线)(松岗--科学馆);(在建)地铁12号线二期(海上田园东--松岗)",
+          "businfo_stationids": "440300024056013;440300024046020;900000165812001|440300024057002;440300024047002;900000165811007",
+          "businfo_line_types": "2;2;2|2;2;2",
+          "businfo_road_ids": "8024|8024",
+          "businfo_station_status": "1;1;3|1;1;3",
+          "businfo_meshs": "F49F015047|F49F015047",
+          "xs": "113.829631|113.829631",
+          "ys": "22.772271|22.772271",
+          "businfo_line_keys": "地铁11号线(机场线);地铁6号线(光明线);(在建)地铁12号线二期|地铁11号线(机场线);地铁6号线(光明线);(在建)地铁12号线二期",
+          "businfo_expect_dates": ";;预计2025年开通|;;预计2025年开通",
+          "businfo_realbus": "0;0;0|0;0;0"
+        },
+        "adcode": "440306",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/56e4ebf13a4ca37c00b48fc5bd6af8b5",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.771397+++22.773375+++22.772744+++22.772423+++22.771646+++22.772822+++22.771694",
+            "poiids": "BX09906459+++BX09906454+++BX09906457+++BX09906453+++BX09906458+++BX09906456+++BX09906455",
+            "name": "parent_other_rel",
+            "pxs": "113.829663+++113.829742+++113.829129+++113.831146+++113.830282+++113.830553+++113.829019",
+            "childtype": "107+++107+++107+++107+++107+++107+++107",
+            "poiname": "松岗地铁站C口+++松岗地铁站G口+++松岗地铁站A口+++松岗地铁站E口+++松岗地铁站D口+++松岗地铁站F口+++松岗地铁站B口",
+            "address": "11号线/机场线+++11号线/机场线+++6号线/光明线+++6号线/光明线+++11号线/机场线+++6号线/光明线+++6号线/光明线",
+            "shortname": "C口+++G口+++A口+++E口+++D口+++F口+++B口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "松岗(地铁站)",
+        "cpdata": "",
+        "latitude": "22.772271",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "11号线/机场线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.056678",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906708",
+        "name": "福田地铁站11号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线",
+          "businfo_exit_status": "0",
+          "eys": "22.536975",
+          "businfo_station_name_en": "futian",
+          "businfo_stationids": "440300024056002;440300024057013",
+          "businfo_ui_colors": "741D51;741D51",
+          "businfo_exitids": "44030002405600212;44030002405701312",
+          "poiid1s": "BT09906736",
+          "exs": "114.056678",
+          "businfo_station_name": "福田",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北)",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线)",
+          "businfo_station_poiid2": "BV10249929"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "福田地铁站11号口",
+        "cpdata": "",
+        "latitude": "22.536975",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "11号线/机场线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.056548",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906719",
+        "name": "福田地铁站21号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线",
+          "businfo_exit_status": "2",
+          "eys": "22.544081",
+          "businfo_station_name_en": "futian",
+          "businfo_stationids": "440300024056002;440300024057013",
+          "businfo_ui_colors": "741D51;741D51",
+          "businfo_exitids": "44030002405600209;44030002405701302",
+          "poiid1s": "BT09906747",
+          "exs": "114.056548",
+          "businfo_station_name": "福田",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北)",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线)",
+          "businfo_station_poiid2": "BV10249929"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "福田地铁站21号口",
+        "cpdata": "",
+        "latitude": "22.544081",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.068572",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906305",
+        "name": "岗厦北地铁站19号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057;440300024076;440300024077;900000055265;900000055266;900000095033;900000095035;900000211171",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线;2号线(8号线);2号线(8号线);10号线/坂田线;10号线/坂田线;14号线/东部快线;14号线/东部快线;2号线(8号线)",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024056027;440300024057027;440300024076024;440300024077008;900000055265004;900000055266020;900000095033017;900000095035001;900000211171006",
+          "eys": "22.540626",
+          "businfo_ui_colors": "741D51;741D51;B35A1F;B35A1F;EA6183;EA6183;DAC17D;DAC17D;B35A1F",
+          "businfo_exitids": "44030002405602718;44030002405702734;44030002407602418;44030002407700813;90000005526500429;90000005526602037;90000009503301718;90000009503500129;90000021117100610",
+          "poiid1s": "BT09906333",
+          "exs": "114.068572",
+          "businfo_station_name": "岗厦北",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北);地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾);地铁10号线(坂田线)(福田口岸--双拥街);地铁10号线(坂田线)(双拥街--福田口岸);地铁14号线(东部快线)(沙田--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线);地铁2号线(8号线);地铁2号线(8号线);地铁10号线(坂田线);地铁10号线(坂田线);地铁14号线(东部快线);地铁14号线(东部快线);地铁2号线(8号线)晨曦特快",
+          "businfo_station_name_en": "gangxia north",
+          "businfo_station_poiid2": "BV10249998"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "岗厦北地铁站19号口",
+        "cpdata": "",
+        "latitude": "22.540626",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "西丽街道丽紫路与西丽湖路交叉口东南侧",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.963894",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H3MC9DCR",
+        "name": "中国水电十一局深圳地铁7号线二期(东延)工程项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.594465",
+            "longitude": "113.963751"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/11da8b0ae0d2d62235264d32dda1dd6b",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中国水电十一局深圳地铁7号线二期(东延)工程项目经理部",
+        "cpdata": "",
+        "latitude": "22.594327",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.069033",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906295",
+        "name": "岗厦北地铁站12号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057;440300024076;440300024077;900000055265;900000055266;900000095033;900000095035;900000211171",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线;2号线(8号线);2号线(8号线);10号线/坂田线;10号线/坂田线;14号线/东部快线;14号线/东部快线;2号线(8号线)",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024056027;440300024057027;440300024076024;440300024077008;900000055265004;900000055266020;900000095033017;900000095035001;900000211171006",
+          "eys": "22.539661",
+          "businfo_ui_colors": "741D51;741D51;B35A1F;B35A1F;EA6183;EA6183;DAC17D;DAC17D;B35A1F",
+          "businfo_exitids": "44030002405602730;44030002405702719;44030002407602423;44030002407700816;90000005526500425;90000005526602030;90000009503301704;90000009503500126;90000021117100603",
+          "poiid1s": "BT09906323",
+          "exs": "114.069033",
+          "businfo_station_name": "岗厦北",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北);地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾);地铁10号线(坂田线)(福田口岸--双拥街);地铁10号线(坂田线)(双拥街--福田口岸);地铁14号线(东部快线)(沙田--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线);地铁2号线(8号线);地铁2号线(8号线);地铁10号线(坂田线);地铁10号线(坂田线);地铁14号线(东部快线);地铁14号线(东部快线);地铁2号线(8号线)晨曦特快",
+          "businfo_station_name_en": "gangxia north",
+          "businfo_station_poiid2": "BV10249998"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "岗厦北地铁站12号口",
+        "cpdata": "",
+        "latitude": "22.539661",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "130105",
+        "areacode": "0755",
+        "address": "福华社区图书馆东南门旁(华强路地铁站C口步行320米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.084926",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0GKZUAC26",
+        "name": "福田街道轨道11号线(二期)房屋征拆现场工作组办公室",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/7a5aabe6800d41b6532c10872fe9baec",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "130105",
+        "disp_name": "福田街道轨道11号线(二期)房屋征拆现场工作组办公室",
+        "cpdata": "",
+        "latitude": "22.537932",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "11号线/机场线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.056046",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906718",
+        "name": "福田地铁站22号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线",
+          "businfo_exit_status": "3",
+          "eys": "22.543643",
+          "businfo_station_name_en": "futian",
+          "businfo_stationids": "440300024056002;440300024057013",
+          "businfo_ui_colors": "741D51;741D51",
+          "businfo_exitids": "44030002405600225;44030002405701328",
+          "poiid1s": "BT09906746",
+          "exs": "114.056046",
+          "businfo_station_name": "福田",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北)",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线)",
+          "businfo_station_poiid2": "BV10249929"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "福田地铁站22号口",
+        "cpdata": "",
+        "latitude": "22.543643",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "11号线/机场线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.056532",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906710",
+        "name": "福田地铁站19号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线",
+          "businfo_exit_status": "3",
+          "eys": "22.542394",
+          "businfo_station_name_en": "futian",
+          "businfo_stationids": "440300024056002;440300024057013",
+          "businfo_ui_colors": "741D51;741D51",
+          "businfo_exitids": "44030002405600215;44030002405701319",
+          "poiid1s": "BT09906738",
+          "exs": "114.056532",
+          "businfo_station_name": "福田",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北)",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线)",
+          "businfo_station_poiid2": "BV10249929"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "福田地铁站19号口",
+        "cpdata": "",
+        "latitude": "22.542394",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "14号线/东部快线;7号线/西丽线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.087821",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906212",
+        "name": "黄木岗地铁站11号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024050;440300024051;900000095033;900000095035",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "7号线/西丽线;7号线/西丽线;14号线/东部快线;14号线/东部快线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024050020;440300024051006;900000095033016;900000095035002",
+          "eys": "22.557013",
+          "businfo_ui_colors": "2249A3;2249A3;DAC17D;DAC17D",
+          "businfo_exitids": "44030002405002038;44030002405100619;90000009503301601;90000009503500225",
+          "poiid1s": "BT09906240",
+          "exs": "114.087821",
+          "businfo_station_name": "黄木岗",
+          "businfo_line_names": "地铁7号线(西丽线)(西丽湖--太安);地铁7号线(西丽线)(太安--西丽湖);地铁14号线(东部快线)(沙田--岗厦北);地铁14号线(东部快线)(岗厦北--沙田)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁7号线(西丽线);地铁7号线(西丽线);地铁14号线(东部快线);地铁14号线(东部快线)",
+          "businfo_station_name_en": "Huangmugang",
+          "businfo_station_poiid2": "BV10602475"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "黄木岗地铁站11号口",
+        "cpdata": "",
+        "latitude": "22.557013",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

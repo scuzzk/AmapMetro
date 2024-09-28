@@ -1,0 +1,4147 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440100",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁18号线南延段",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727200996.48",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440100",
+        "target_city": "4401",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.179359300,23.516460100,113.690243700,22.425754900",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440100||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "sc-00|is-po|si-po|ci-100000|tg-merge",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.595000;出入口=0.373000;酒店=0.001000\u0006交通出行|地铁站=0.595000;出入口|地铁站出入口=0.373000;休闲娱乐|酒吧=0.001000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁18号线南延段",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.595000;出入口=0.373000;酒店=0.001000\u0006交通出行|地铁站=0.595000;出入口|地铁站出入口=0.373000;休闲娱乐|酒吧=0.001000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "广州市",
+        "result_adcode": "440100"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁18号线南延段",
+    "message": "Successful.",
+    "total": "73",
+    "busline_list": [
+      {
+        "front_name": "万顷沙",
+        "areacode": "020",
+        "code": "440100",
+        "xs": "113.557043,113.559285,113.559634,113.559999,113.560256,113.560471,113.561222,113.561426,113.56164,113.56202,113.562316,113.562627,113.56841,113.582441,113.605409,113.617789,113.620155,113.625636,113.630656,113.634808,113.637382,113.647193,113.650188,113.650967,113.651556,113.651646,113.651418,113.650949,113.650493,113.650009,113.649402,113.64767,113.646474,113.644752,113.640031,113.630762,113.613338,113.608188,113.601755,113.599255,113.59668,113.580995,113.580008,113.578935,113.577519,113.576188,113.574429,113.570781,113.566961,113.56267,113.557961,113.55294,113.549077,113.533413,113.530195,113.527053,113.525047,113.522043,113.518009,113.513073,113.508567,113.488712,113.486808,113.481278,113.474154,113.468532,113.46394,113.460356,113.451353,113.450361,113.430174,113.42769,113.425866,113.424236,113.422519,113.421253,113.419837,113.418442,113.41679,113.415695,113.409627,113.408366,113.405663,113.403839,113.402809,113.400719,113.396288,113.395283,113.394897,113.394296,113.393095,113.391807,113.391099,113.39077",
+        "id": "900000191865",
+        "terminal_name": "兴中",
+        "terminal_spell": "xing zhong",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁18号线南延段",
+        "start_time": "",
+        "front_spell": "wan qing sha",
+        "busline_event": "",
+        "ys": "22.698398,22.696168,22.695648,22.694966,22.694392,22.693659,22.689473,22.688681,22.688156,22.687524,22.687146,22.6868,22.681187,22.667649,22.646324,22.633808,22.631196,22.625999,22.620426,22.614787,22.611215,22.597295,22.592349,22.59032,22.588104,22.5863,22.584359,22.583071,22.582039,22.581158,22.580394,22.578999,22.577926,22.576672,22.573818,22.569618,22.56296,22.560741,22.558258,22.557205,22.555977,22.54803,22.547713,22.547515,22.547515,22.547911,22.548783,22.550844,22.552865,22.554966,22.557022,22.558468,22.558805,22.558567,22.55833,22.557364,22.556388,22.555596,22.555358,22.555873,22.556587,22.555879,22.555805,22.555039,22.554009,22.553811,22.55387,22.553414,22.552779,22.552598,22.54582,22.545377,22.545357,22.545674,22.546784,22.548072,22.550351,22.552174,22.552986,22.553303,22.553244,22.553233,22.553233,22.552698,22.552103,22.547877,22.53593,22.531614,22.529613,22.528185,22.526402,22.524618,22.522834,22.516647",
+        "total_price": "0",
+        "name": "地铁18号线南延段(万顷沙--兴中)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "万顷沙",
+            "station_num": "1",
+            "poiid1": "BS11918320",
+            "start_time": "",
+            "spell": "wan qing sha",
+            "time_desc_json": "",
+            "station_id": "900000191865001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.557043;22.698398",
+            "poiid2_xy": "113.557043;22.698398",
+            "poiid2": "BV10862412"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "十涌",
+            "station_num": "2",
+            "poiid1": "BS09203539",
+            "start_time": "",
+            "spell": "shi yong",
+            "time_desc_json": "",
+            "station_id": "900000191865002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.582441;22.667649",
+            "poiid2_xy": "113.582441;22.667649",
+            "poiid2": "BV09083041"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "十二涌",
+            "station_num": "3",
+            "poiid1": "BS09203542",
+            "start_time": "",
+            "spell": "shi er yong",
+            "time_desc_json": "",
+            "station_id": "900000191865003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.605409;22.646324",
+            "poiid2_xy": "113.605409;22.646324",
+            "poiid2": "BV09083043"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "二十涌",
+            "station_num": "4",
+            "poiid1": "BS09236626",
+            "start_time": "",
+            "spell": "er shi yong",
+            "time_desc_json": "",
+            "station_id": "900000191865004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.64767;22.578999",
+            "poiid2_xy": "113.647670;22.578999",
+            "poiid2": "BV09093738"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "香山",
+            "station_num": "5",
+            "poiid1": "BS09203582",
+            "start_time": "",
+            "spell": "xiang shan",
+            "time_desc_json": "",
+            "station_id": "900000191865005",
+            "pics": "[]",
+            "poiid2": "BV09083061",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.601755;22.558258",
+            "xy_coords": "113.601755;22.558258"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "火炬东",
+            "station_num": "6",
+            "poiid1": "BS09203578",
+            "start_time": "",
+            "spell": "huo ju dong",
+            "time_desc_json": "",
+            "station_id": "900000191865006",
+            "pics": "[]",
+            "poiid2": "BV09083059",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.527053;22.557364",
+            "xy_coords": "113.527053;22.557364"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "火炬",
+            "station_num": "7",
+            "poiid1": "BS09203586",
+            "start_time": "",
+            "spell": "huo ju",
+            "time_desc_json": "",
+            "station_id": "900000191865007",
+            "pics": "[]",
+            "poiid2": "BV09083063",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.488712;22.555879",
+            "xy_coords": "113.488712;22.555879"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "张家边",
+            "station_num": "8",
+            "poiid1": "BS09203571",
+            "start_time": "",
+            "spell": "zhang jia bian",
+            "time_desc_json": "",
+            "station_id": "900000191865008",
+            "pics": "[]",
+            "poiid2": "BV09083056",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.451353;22.552779",
+            "xy_coords": "113.451353;22.552779"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "中山站",
+            "station_num": "9",
+            "poiid1": "BS09203583",
+            "start_time": "",
+            "spell": "zhong shan zhan",
+            "time_desc_json": "",
+            "station_id": "900000191865009",
+            "pics": "[]",
+            "poiid2": "BV09083062",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.430174;22.545820",
+            "xy_coords": "113.430174;22.54582"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "岐江新城",
+            "station_num": "10",
+            "poiid1": "BS09203579",
+            "start_time": "",
+            "spell": "qi jiang xin cheng",
+            "time_desc_json": "",
+            "station_id": "900000191865010",
+            "pics": "[]",
+            "poiid2": "BV09083060",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.409627;22.553244",
+            "xy_coords": "113.409627;22.553244"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "世纪路",
+            "station_num": "11",
+            "poiid1": "BS09282385",
+            "start_time": "",
+            "spell": "shi ji lu",
+            "time_desc_json": "",
+            "station_id": "900000191865011",
+            "pics": "[]",
+            "poiid2": "BV09112110",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.400719;22.547877",
+            "xy_coords": "113.400719;22.547877"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "石岐",
+            "station_num": "12",
+            "poiid1": "BS09203574",
+            "start_time": "",
+            "spell": "shi qi",
+            "time_desc_json": "",
+            "station_id": "900000191865012",
+            "pics": "[]",
+            "poiid2": "BV09083057",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.396288;22.535930",
+            "xy_coords": "113.396288;22.53593"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "兴中",
+            "station_num": "13",
+            "poiid1": "BS09203570",
+            "start_time": "",
+            "spell": "xing zhong",
+            "time_desc_json": "",
+            "station_id": "900000191865013",
+            "pics": "[]",
+            "poiid2": "BV09083055",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.390770;22.516647",
+            "xy_coords": "113.39077;22.516647"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.390770;22.516647;113.651646;22.698398",
+        "air": "",
+        "length": "48.125000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "兴中",
+        "areacode": "020",
+        "code": "440100",
+        "xs": "113.39077,113.391099,113.391807,113.393095,113.394296,113.394897,113.395283,113.396288,113.400719,113.402809,113.403839,113.405663,113.408366,113.409627,113.415695,113.41679,113.418442,113.419837,113.421253,113.422519,113.424236,113.425866,113.42769,113.430174,113.450361,113.451353,113.460356,113.46394,113.468532,113.474154,113.481278,113.486808,113.488712,113.508567,113.513073,113.518009,113.522043,113.525047,113.527053,113.530195,113.533413,113.549077,113.55294,113.557961,113.56267,113.566961,113.570781,113.574429,113.576188,113.577519,113.578935,113.580008,113.580995,113.59668,113.599255,113.601755,113.608188,113.613338,113.630762,113.640031,113.644752,113.646474,113.64767,113.649402,113.650009,113.650493,113.650949,113.651418,113.651646,113.651556,113.650967,113.650188,113.647193,113.637382,113.634808,113.630656,113.625636,113.620155,113.617789,113.605409,113.582441,113.56841,113.562627,113.562316,113.56202,113.56164,113.561426,113.561222,113.560471,113.560256,113.559999,113.559634,113.559285,113.557043",
+        "id": "900000191864",
+        "terminal_name": "万顷沙",
+        "terminal_spell": "wan qing sha",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁18号线南延段",
+        "start_time": "",
+        "front_spell": "xing zhong",
+        "busline_event": "",
+        "ys": "22.516647,22.522834,22.524618,22.526402,22.528185,22.529613,22.531614,22.53593,22.547877,22.552103,22.552698,22.553233,22.553233,22.553244,22.553303,22.552986,22.552174,22.550351,22.548072,22.546784,22.545674,22.545357,22.545377,22.54582,22.552598,22.552779,22.553414,22.55387,22.553811,22.554009,22.555039,22.555805,22.555879,22.556587,22.555873,22.555358,22.555596,22.556388,22.557364,22.55833,22.558567,22.558805,22.558468,22.557022,22.554966,22.552865,22.550844,22.548783,22.547911,22.547515,22.547515,22.547713,22.54803,22.555977,22.557205,22.558258,22.560741,22.56296,22.569618,22.573818,22.576672,22.577926,22.578999,22.580394,22.581158,22.582039,22.583071,22.584359,22.5863,22.588104,22.59032,22.592349,22.597295,22.611215,22.614787,22.620426,22.625999,22.631196,22.633808,22.646324,22.667649,22.681187,22.6868,22.687146,22.687524,22.688156,22.688681,22.689473,22.693659,22.694392,22.694966,22.695648,22.696168,22.698398",
+        "total_price": "0",
+        "name": "地铁18号线南延段(兴中--万顷沙)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "兴中",
+            "station_num": "1",
+            "poiid1": "BS09203569",
+            "start_time": "",
+            "spell": "xing zhong",
+            "time_desc_json": "",
+            "station_id": "900000191864001",
+            "pics": "[]",
+            "poiid2": "BV09083055",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.390770;22.516647",
+            "xy_coords": "113.39077;22.516647"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "石岐",
+            "station_num": "2",
+            "poiid1": "BS09203573",
+            "start_time": "",
+            "spell": "shi qi",
+            "time_desc_json": "",
+            "station_id": "900000191864002",
+            "pics": "[]",
+            "poiid2": "BV09083057",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.396288;22.535930",
+            "xy_coords": "113.396288;22.53593"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "世纪路",
+            "station_num": "3",
+            "poiid1": "BS09282384",
+            "start_time": "",
+            "spell": "shi ji lu",
+            "time_desc_json": "",
+            "station_id": "900000191864003",
+            "pics": "[]",
+            "poiid2": "BV09112110",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.400719;22.547877",
+            "xy_coords": "113.400719;22.547877"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "岐江新城",
+            "station_num": "4",
+            "poiid1": "BS09203580",
+            "start_time": "",
+            "spell": "qi jiang xin cheng",
+            "time_desc_json": "",
+            "station_id": "900000191864004",
+            "pics": "[]",
+            "poiid2": "BV09083060",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.409627;22.553244",
+            "xy_coords": "113.409627;22.553244"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "中山站",
+            "station_num": "5",
+            "poiid1": "BS09203584",
+            "start_time": "",
+            "spell": "zhong shan zhan",
+            "time_desc_json": "",
+            "station_id": "900000191864005",
+            "pics": "[]",
+            "poiid2": "BV09083062",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.430174;22.545820",
+            "xy_coords": "113.430174;22.54582"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "张家边",
+            "station_num": "6",
+            "poiid1": "BS09203572",
+            "start_time": "",
+            "spell": "zhang jia bian",
+            "time_desc_json": "",
+            "station_id": "900000191864006",
+            "pics": "[]",
+            "poiid2": "BV09083056",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.451353;22.552779",
+            "xy_coords": "113.451353;22.552779"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "火炬",
+            "station_num": "7",
+            "poiid1": "BS09203585",
+            "start_time": "",
+            "spell": "huo ju",
+            "time_desc_json": "",
+            "station_id": "900000191864007",
+            "pics": "[]",
+            "poiid2": "BV09083063",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.488712;22.555879",
+            "xy_coords": "113.488712;22.555879"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "火炬东",
+            "station_num": "8",
+            "poiid1": "BS09203577",
+            "start_time": "",
+            "spell": "huo ju dong",
+            "time_desc_json": "",
+            "station_id": "900000191864008",
+            "pics": "[]",
+            "poiid2": "BV09083059",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.527053;22.557364",
+            "xy_coords": "113.527053;22.557364"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "442000",
+            "navi_poiid": "",
+            "name": "香山",
+            "station_num": "9",
+            "poiid1": "BS09203581",
+            "start_time": "",
+            "spell": "xiang shan",
+            "time_desc_json": "",
+            "station_id": "900000191864009",
+            "pics": "[]",
+            "poiid2": "BV09083061",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "poiid2_xy": "113.601755;22.558258",
+            "xy_coords": "113.601755;22.558258"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "二十涌",
+            "station_num": "10",
+            "poiid1": "BS09236627",
+            "start_time": "",
+            "spell": "er shi yong",
+            "time_desc_json": "",
+            "station_id": "900000191864010",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.64767;22.578999",
+            "poiid2_xy": "113.647670;22.578999",
+            "poiid2": "BV09093738"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "十二涌",
+            "station_num": "11",
+            "poiid1": "BS09203543",
+            "start_time": "",
+            "spell": "shi er yong",
+            "time_desc_json": "",
+            "station_id": "900000191864011",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.605409;22.646324",
+            "poiid2_xy": "113.605409;22.646324",
+            "poiid2": "BV09083043"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "十涌",
+            "station_num": "12",
+            "poiid1": "BS09203538",
+            "start_time": "",
+            "spell": "shi yong",
+            "time_desc_json": "",
+            "station_id": "900000191864012",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.582441;22.667649",
+            "poiid2_xy": "113.582441;22.667649",
+            "poiid2": "BV09083041"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440115",
+            "navi_poiid": "",
+            "name": "万顷沙",
+            "station_num": "13",
+            "poiid1": "BS11918319",
+            "start_time": "",
+            "spell": "wan qing sha",
+            "time_desc_json": "",
+            "station_id": "900000191864013",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.557043;22.698398",
+            "poiid2_xy": "113.557043;22.698398",
+            "poiid2": "BV10862412"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.390770;22.516647;113.651646;22.698398",
+        "air": "",
+        "length": "48.125000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.221933;22.516647;113.647670;23.425568",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0760",
+        "cityname": "中山市",
+        "address": "(在建)18号线南延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191867",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.516647",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191867001",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "86.956106",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09203569",
+            "poiid2": "BV09083055",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "兴中(地铁站)",
+            "businfo_mesh": "F49F018044",
+            "businfo_road_id": "1558",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)",
+            "x": "113.390770",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191868",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.516647",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191868013",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-93.043894",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09203570",
+            "poiid2": "BV09083055",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "兴中(地铁站)",
+            "businfo_mesh": "F49F018044",
+            "businfo_road_id": "1558",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线南延段(万顷沙--兴中)",
+            "x": "113.390770",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.390770",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09083055",
+        "name": "兴中(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000191867|900000191868",
+          "display_x": "113.390770",
+          "display_y": "22.516647",
+          "businfo_ids": "BS09203569|BS09203570",
+          "businfo_line_alias": "(在建)18号线南延段|(在建)18号线南延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "86.956106|-93.043894",
+          "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)|(在建)地铁18号线南延段(万顷沙--兴中)",
+          "businfo_stationids": "900000191867001|900000191868013",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "1558|1558",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F018044|F49F018044",
+          "xs": "113.390770|113.390770",
+          "ys": "22.516647|22.516647",
+          "businfo_line_keys": "(在建)地铁18号线南延段|(在建)地铁18号线南延段",
+          "businfo_expect_dates": "预计2027年开通|预计2027年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "442000",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://s-pic.oss-cn-beijing.aliyuncs.com/desensitize/images/publish/ba74fd69395dbf7ba7a7bee7378622d3.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "兴中(地铁站)",
+        "cpdata": "",
+        "latitude": "22.516647",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线南延段;18号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075991;900000191865",
+            "businfo_line_shields": "18号线;18号线南延段",
+            "businfo_line_types": "2;2",
+            "y": "22.698398",
+            "businfo_line_alias": "18号线;(在建)18号线南延段",
+            "businfo_stationids": "900000075991009;900000191865001",
+            "businfo_ui_colors": "2249A3;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-44.942603",
+            "businfo_expect_dates": ";预计2027年开通",
+            "poiid": "BS11918320",
+            "poiid2": "BV10862412",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "万顷沙(地铁站)",
+            "businfo_mesh": "F49F016045",
+            "businfo_road_id": "613616",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁18号线(冼村--万顷沙);(在建)地铁18号线南延段(万顷沙--兴中)",
+            "x": "113.557043",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁18号线;(在建)地铁18号线南延段",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075992;900000191864",
+            "businfo_line_shields": "18号线;18号线南延段",
+            "businfo_line_types": "2;2",
+            "y": "22.698398",
+            "businfo_line_alias": "18号线;(在建)18号线南延段",
+            "businfo_stationids": "900000075992001;900000191864013",
+            "businfo_ui_colors": "2249A3;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "135.057397",
+            "businfo_expect_dates": ";预计2027年开通",
+            "poiid": "BS11918319",
+            "poiid2": "BV10862412",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "万顷沙(地铁站)",
+            "businfo_mesh": "F49F016045",
+            "businfo_road_id": "613616",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁18号线(万顷沙--冼村);(在建)地铁18号线南延段(兴中--万顷沙)",
+            "x": "113.557043",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁18号线;(在建)地铁18号线南延段",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.557043",
+        "review_total": "102",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10862412",
+        "name": "万顷沙(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075992;900000191864|900000075991;900000191865",
+          "display_x": "113.557043",
+          "display_y": "22.698398",
+          "businfo_ids": "BS11918319|BS11918320",
+          "businfo_line_alias": "18号线;(在建)18号线南延段|18号线;(在建)18号线南延段",
+          "businfo_ui_colors": "2249A3;AAAAAA|2249A3;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "135.057397|-44.942603",
+          "businfo_line_names": "地铁18号线(万顷沙--冼村);(在建)地铁18号线南延段(兴中--万顷沙)|地铁18号线(冼村--万顷沙);(在建)地铁18号线南延段(万顷沙--兴中)",
+          "businfo_stationids": "900000075992001;900000191864013|900000075991009;900000191865001",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "613616|613616",
+          "businfo_station_status": "1;3|1;3",
+          "businfo_meshs": "F49F016045|F49F016045",
+          "xs": "113.557043|113.557043",
+          "ys": "22.698398|22.698398",
+          "businfo_line_keys": "地铁18号线;(在建)地铁18号线南延段|地铁18号线;(在建)地铁18号线南延段",
+          "businfo_expect_dates": ";预计2027年开通|;预计2027年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/3847cc6e7c3d2690dac7a48b76115470",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.697822+++22.699166+++22.698414+++22.697955",
+            "poiids": "BX10033633+++BX10033632+++BX09904437+++BX09903959",
+            "name": "parent_other_rel",
+            "pxs": "113.558102+++113.556793+++113.556384+++113.556841",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "万顷沙地铁站A口+++万顷沙地铁站B口+++万顷沙地铁站C口+++万顷沙地铁站D口",
+            "address": "18号线+++18号线+++18号线+++18号线",
+            "shortname": "A口+++B口+++C口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "万顷沙(地铁站)",
+        "cpdata": "",
+        "latitude": "22.698398",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线南延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191864",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.667649",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191864012",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "137.124350",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09203538",
+            "poiid2": "BV09083041",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "十涌(地铁站)",
+            "businfo_mesh": "F49F016045",
+            "businfo_road_id": "619446",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)",
+            "x": "113.582441",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191865",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.667649",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191865002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-43.975523",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09203539",
+            "poiid2": "BV09083041",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "十涌(地铁站)",
+            "businfo_mesh": "F49F016045",
+            "businfo_road_id": "619446",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线南延段(万顷沙--兴中)",
+            "x": "113.582441",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.582441",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09083041",
+        "name": "十涌(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000191864|900000191865",
+          "display_x": "113.582441",
+          "display_y": "22.667649",
+          "businfo_ids": "BS09203538|BS09203539",
+          "businfo_line_alias": "(在建)18号线南延段|(在建)18号线南延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "137.124350|-43.975523",
+          "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)|(在建)地铁18号线南延段(万顷沙--兴中)",
+          "businfo_stationids": "900000191864012|900000191865002",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "619446|619446",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F016045|F49F016045",
+          "xs": "113.582441|113.582441",
+          "ys": "22.667649|22.667649",
+          "businfo_line_keys": "(在建)地铁18号线南延段|(在建)地铁18号线南延段",
+          "businfo_expect_dates": "预计2027年开通|预计2027年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "十涌(地铁站)",
+        "cpdata": "",
+        "latitude": "22.667649",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线北延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172017",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.360554",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172017006",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "90.198764",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433294",
+            "poiid2": "BV11605040",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "凤凰南路(地铁站)",
+            "businfo_mesh": "F49F008042",
+            "businfo_road_id": "19140",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线北延段(广州东站--花城街)",
+            "x": "113.240112",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172012",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.360554",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172012003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-88.788727",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433287",
+            "poiid2": "BV11605040",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "凤凰南路(地铁站)",
+            "businfo_mesh": "F49F008042",
+            "businfo_road_id": "19140",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站)",
+            "x": "113.240112",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.240112",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11605040",
+        "name": "凤凰南路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000172017|900000172012",
+          "display_x": "113.240112",
+          "display_y": "23.360554",
+          "businfo_ids": "BS13433294|BS13433287",
+          "businfo_line_alias": "(在建)18号线北延段|(在建)18号线北延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "90.198764|-88.788727",
+          "businfo_line_names": "(在建)地铁18号线北延段(广州东站--花城街)|(在建)地铁18号线北延段(花城街--广州东站)",
+          "businfo_stationids": "900000172017006|900000172012003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "19140|19140",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F008042|F49F008042",
+          "xs": "113.240112|113.240112",
+          "ys": "23.360554|23.360554",
+          "businfo_line_keys": "(在建)地铁18号线北延段|(在建)地铁18号线北延段",
+          "businfo_expect_dates": "预计2026年底开通|预计2026年底开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440114",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "凤凰南路(地铁站)",
+        "cpdata": "",
+        "latitude": "23.360554",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线南延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191865",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.578999",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191865004",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-137.590891",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09236626",
+            "poiid2": "BV09093738",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "二十涌(地铁站)",
+            "businfo_mesh": "",
+            "businfo_road_id": "",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线南延段(万顷沙--兴中)",
+            "x": "113.647670",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191864",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.578999",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191864010",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "41.897096",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09236627",
+            "poiid2": "BV09093738",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "二十涌(地铁站)",
+            "businfo_mesh": "",
+            "businfo_road_id": "",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)",
+            "x": "113.647670",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.647670",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09093738",
+        "name": "二十涌(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000191864|900000191865",
+          "display_x": "113.647670",
+          "display_y": "22.578999",
+          "businfo_ids": "BS09236627|BS09236626",
+          "businfo_line_alias": "(在建)18号线南延段|(在建)18号线南延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "41.897096|-137.590891",
+          "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)|(在建)地铁18号线南延段(万顷沙--兴中)",
+          "businfo_stationids": "900000191864010|900000191865004",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": " | ",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": " | ",
+          "xs": "113.647670|113.647670",
+          "ys": "22.578999|22.578999",
+          "businfo_line_keys": "(在建)地铁18号线南延段|(在建)地铁18号线南延段",
+          "businfo_expect_dates": "预计2027年开通|预计2027年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "二十涌(地铁站)",
+        "cpdata": "",
+        "latitude": "22.578999",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线南延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191865",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.646324",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191865003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-42.875650",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09203542",
+            "poiid2": "BV09083043",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "十二涌(地铁站)",
+            "businfo_mesh": "F49F017045",
+            "businfo_road_id": "608880",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线南延段(万顷沙--兴中)",
+            "x": "113.605409",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000191864",
+            "businfo_line_shields": "18号线南延段",
+            "businfo_line_types": "2",
+            "y": "22.646324",
+            "businfo_line_alias": "(在建)18号线南延段",
+            "businfo_stationids": "900000191864011",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "134.687012",
+            "businfo_expect_dates": "预计2027年开通",
+            "poiid": "BS09203543",
+            "poiid2": "BV09083043",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "十二涌(地铁站)",
+            "businfo_mesh": "F49F017045",
+            "businfo_road_id": "608880",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)",
+            "x": "113.605409",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线南延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.605409",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV09083043",
+        "name": "十二涌(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000191864|900000191865",
+          "display_x": "113.605409",
+          "display_y": "22.646324",
+          "businfo_ids": "BS09203543|BS09203542",
+          "businfo_line_alias": "(在建)18号线南延段|(在建)18号线南延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "134.687012|-42.875650",
+          "businfo_line_names": "(在建)地铁18号线南延段(兴中--万顷沙)|(在建)地铁18号线南延段(万顷沙--兴中)",
+          "businfo_stationids": "900000191864011|900000191865003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "608880|608880",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F017045|F49F017045",
+          "xs": "113.605409|113.605409",
+          "ys": "22.646324|22.646324",
+          "businfo_line_keys": "(在建)地铁18号线南延段|(在建)地铁18号线南延段",
+          "businfo_expect_dates": "预计2027年开通|预计2027年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "十二涌(地铁站)",
+        "cpdata": "",
+        "latitude": "22.646324",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线北延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172017",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.177047",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172017002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "78.793241",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433295",
+            "poiid2": "BV11605041",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "京溪路(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "683992",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线北延段(广州东站--花城街)",
+            "x": "113.332333",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172012",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.177047",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172012007",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-104.463418",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433288",
+            "poiid2": "BV11605041",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "京溪路(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "683992",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站)",
+            "x": "113.332333",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.332333",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11605041",
+        "name": "京溪路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000172017|900000172012",
+          "display_x": "113.332333",
+          "display_y": "23.177047",
+          "businfo_ids": "BS13433295|BS13433288",
+          "businfo_line_alias": "(在建)18号线北延段|(在建)18号线北延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "78.793241|-104.463418",
+          "businfo_line_names": "(在建)地铁18号线北延段(广州东站--花城街)|(在建)地铁18号线北延段(花城街--广州东站)",
+          "businfo_stationids": "900000172017002|900000172012007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "683992|683992",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.332333|113.332333",
+          "ys": "23.177047|23.177047",
+          "businfo_line_keys": "(在建)地铁18号线北延段|(在建)地铁18号线北延段",
+          "businfo_expect_dates": "预计2026年底开通|预计2026年底开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "京溪路(地铁站)",
+        "cpdata": "",
+        "latitude": "23.177047",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)11号线内环;(在建)11号线外环;18号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074491",
+            "businfo_line_shields": "11号线外环",
+            "businfo_line_types": "2",
+            "y": "23.079198",
+            "businfo_line_alias": "(在建)11号线外环",
+            "businfo_stationids": "900000074491031",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "14.413021",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS11892907",
+            "poiid2": "BV11375603",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "龙潭(地铁站)",
+            "businfo_mesh": "F49F012043",
+            "businfo_road_id": "691709",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁11号线外环(赤沙--赤沙)",
+            "x": "113.340364",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075991",
+            "businfo_line_shields": "18号线",
+            "businfo_line_types": "2",
+            "y": "23.080783",
+            "businfo_line_alias": "18号线",
+            "businfo_stationids": "900000075991004",
+            "businfo_ui_colors": "2249A3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-99.488641",
+            "businfo_expect_dates": "",
+            "poiid": "BS11918327",
+            "poiid2": "BV11375603",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "龙潭(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "722209",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁18号线(冼村--万顷沙)",
+            "x": "113.341155",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁18号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075992",
+            "businfo_line_shields": "18号线",
+            "businfo_line_types": "2",
+            "y": "23.080783",
+            "businfo_line_alias": "18号线",
+            "businfo_stationids": "900000075992006",
+            "businfo_ui_colors": "2249A3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "80.455231",
+            "businfo_expect_dates": "",
+            "poiid": "BS11918328",
+            "poiid2": "BV11375603",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "龙潭(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "722209",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁18号线(万顷沙--冼村)",
+            "x": "113.341155",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁18号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074492",
+            "businfo_line_shields": "11号线内环",
+            "businfo_line_types": "2",
+            "y": "23.079198",
+            "businfo_line_alias": "(在建)11号线内环",
+            "businfo_stationids": "900000074492002",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-168.875801",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS11892906",
+            "poiid2": "BV11375603",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "龙潭(地铁站)",
+            "businfo_mesh": "F49F012043",
+            "businfo_road_id": "691709",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁11号线内环(赤沙--赤沙)",
+            "x": "113.340364",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线内环",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.341155",
+        "review_total": "33",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11375603",
+        "name": "龙潭(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075992|900000075991|900000074491|900000074492",
+          "display_x": "113.341155",
+          "display_y": "23.080783",
+          "businfo_ids": "BS11918328|BS11918327|BS11892907|BS11892906",
+          "businfo_line_alias": "18号线|18号线|(在建)11号线外环|(在建)11号线内环",
+          "businfo_ui_colors": "2249A3|2249A3|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "80.455231|-99.488641|14.413021|-168.875801",
+          "businfo_line_names": "地铁18号线(万顷沙--冼村)|地铁18号线(冼村--万顷沙)|(在建)地铁11号线外环(赤沙--赤沙)|(在建)地铁11号线内环(赤沙--赤沙)",
+          "businfo_stationids": "900000075992006|900000075991004|900000074491031|900000074492002",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "722209|722209|691709|691709",
+          "businfo_station_status": "1|1|3|3",
+          "businfo_meshs": "F49F011043|F49F011043|F49F012043|F49F012043",
+          "xs": "113.341155|113.341155|113.340364|113.340364",
+          "ys": "23.080783|23.080783|23.079198|23.079198",
+          "businfo_line_keys": "地铁18号线|地铁18号线|(在建)地铁11号线外环|(在建)地铁11号线内环",
+          "businfo_expect_dates": " | |预计2024年年底开通|预计2024年年底开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440105",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV11375603/comment/309f212bda163b94a018d9d19f3a07d6_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.080408+++23.081870+++23.080397",
+            "poiids": "BX10033622+++BX10033913+++BX09901892",
+            "name": "parent_other_rel",
+            "pxs": "113.341636+++113.340865+++113.340925",
+            "childtype": "107+++107+++107",
+            "poiname": "龙潭地铁站B口+++龙潭地铁站C口+++龙潭地铁站D口",
+            "address": "18号线+++18号线+++18号线",
+            "shortname": "B口+++C口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "龙潭(地铁站)",
+        "cpdata": "",
+        "latitude": "23.080783",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170000",
+        "areacode": "020",
+        "address": "广东省广州市天河区金穗路91号",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.328573",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0FFLJQYEM",
+        "name": "18号线冼村站铺轨基地",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.123255",
+            "longitude": "113.328576"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440106",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/b3bafaa2281c889463bae4b82dd98021",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170000",
+        "disp_name": "18号线冼村站铺轨基地",
+        "cpdata": "",
+        "latitude": "23.123440",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "18号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075991",
+            "businfo_line_shields": "18号线",
+            "businfo_line_types": "2",
+            "y": "22.753453",
+            "businfo_line_alias": "18号线",
+            "businfo_stationids": "900000075991008",
+            "businfo_ui_colors": "2249A3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-69.502659",
+            "businfo_expect_dates": "",
+            "poiid": "BS11918322",
+            "poiid2": "BV10862413",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "横沥(地铁站)",
+            "businfo_mesh": "F49F015045",
+            "businfo_road_id": "643277",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁18号线(冼村--万顷沙)",
+            "x": "113.511721",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁18号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000075992",
+            "businfo_line_shields": "18号线",
+            "businfo_line_types": "2",
+            "y": "22.753453",
+            "businfo_line_alias": "18号线",
+            "businfo_stationids": "900000075992002",
+            "businfo_ui_colors": "2249A3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "107.998002",
+            "businfo_expect_dates": "",
+            "poiid": "BS11918321",
+            "poiid2": "BV10862413",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "横沥(地铁站)",
+            "businfo_mesh": "F49F015045",
+            "businfo_road_id": "643277",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁18号线(万顷沙--冼村)",
+            "x": "113.511721",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁18号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.511721",
+        "review_total": "172",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10862413",
+        "name": "横沥(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075992|900000075991",
+          "display_x": "113.511721",
+          "display_y": "22.753453",
+          "businfo_ids": "BS11918321|BS11918322",
+          "businfo_line_alias": "18号线|18号线",
+          "businfo_ui_colors": "2249A3|2249A3",
+          "businfo_alias": "",
+          "businfo_angles": "107.998002|-69.502659",
+          "businfo_line_names": "地铁18号线(万顷沙--冼村)|地铁18号线(冼村--万顷沙)",
+          "businfo_stationids": "900000075992002|900000075991008",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "643277|643277",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F015045|F49F015045",
+          "xs": "113.511721|113.511721",
+          "ys": "22.753453|22.753453",
+          "businfo_line_keys": "地铁18号线|地铁18号线",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10862413/comment/de0fc35fc191f18408d2a1e243fa31aa_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.752346+++22.754228+++22.752773",
+            "poiids": "BX10033624+++BX10033625+++BX10033623",
+            "name": "parent_other_rel",
+            "pxs": "113.512156+++113.511037+++113.511592",
+            "childtype": "107+++107+++107",
+            "poiname": "横沥地铁站A口+++横沥地铁站D口+++横沥地铁站E口",
+            "address": "18号线+++18号线+++18号线",
+            "shortname": "A口+++D口+++E口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "横沥(地铁站)",
+        "cpdata": "",
+        "latitude": "22.753453",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "020",
+        "address": "瑞华庄南三巷18号",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.221933",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0K1FSPYGU",
+        "name": "地铁九号线安检基地",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.385238",
+            "longitude": "113.221985"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440114",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/629f8ad6c8dac9bcec5f1583efc48978",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "地铁九号线安检基地",
+        "cpdata": "",
+        "latitude": "23.385252",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150905",
+        "areacode": "020",
+        "address": "草河二街与草怡路交叉口西北60米",
+        "cityname": "广州市",
+        "display_brand": "5parking",
+        "shape_region": "",
+        "longitude": "113.401385",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0IAZZP1VZ",
+        "name": "广州地铁十八号线陇枕停车场(内部专用)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.916940",
+            "longitude": "113.401463"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440113",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/993bcd653d36d9fa2965fde1af49dc51",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150905",
+        "disp_name": "广州地铁十八号线陇枕停车场(内部专用)",
+        "cpdata": "",
+        "latitude": "22.917021",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)11号线内环;(在建)11号线外环;(在建)18号线北延段;(在建)18号线后通段;1号线;3号线北延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023049",
+            "businfo_line_shields": "1号线",
+            "businfo_line_types": "2",
+            "y": "23.150202",
+            "businfo_line_alias": "1号线",
+            "businfo_stationids": "440100023049002",
+            "businfo_ui_colors": "FCD600",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-19.294628",
+            "businfo_expect_dates": "",
+            "poiid": "BS11111291",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "751535",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁1号线(广州东站--西塱)",
+            "x": "113.324606",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁1号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000164416;900000172017",
+            "businfo_line_shields": "18号线后通段;18号线北延段",
+            "businfo_line_types": "2;2",
+            "y": "23.149614",
+            "businfo_line_alias": "(在建)18号线后通段;(在建)18号线北延段",
+            "businfo_stationids": "900000164416002;900000172017001",
+            "businfo_ui_colors": "AAAAAA;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "88.903626",
+            "businfo_expect_dates": "预计2024年开通;预计2026年底开通",
+            "poiid": "BS13436635",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "47659",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线后通段(冼村--广州东站);(在建)地铁18号线北延段(广州东站--花城街)",
+            "x": "113.325625",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁18号线后通段;(在建)地铁18号线北延段",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074492",
+            "businfo_line_shields": "11号线内环",
+            "businfo_line_types": "2",
+            "y": "23.152156",
+            "businfo_line_alias": "(在建)11号线内环",
+            "businfo_stationids": "900000074492025",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-21.073969",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS11892867",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "664386",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁11号线内环(赤沙--赤沙)",
+            "x": "113.325729",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172012;900000164415",
+            "businfo_line_shields": "18号线北延段;18号线后通段",
+            "businfo_line_types": "2;2",
+            "y": "23.149614",
+            "businfo_line_alias": "(在建)18号线北延段;(在建)18号线后通段",
+            "businfo_stationids": "900000172012008;900000164415001",
+            "businfo_ui_colors": "AAAAAA;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-91.096374",
+            "businfo_expect_dates": "预计2026年底开通;预计2024年开通",
+            "poiid": "BS13436636",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "47659",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站);(在建)地铁18号线后通段(广州东站--冼村)",
+            "x": "113.325625",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁18号线北延段;(在建)地铁18号线后通段",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074491",
+            "businfo_line_shields": "11号线外环",
+            "businfo_line_types": "2",
+            "y": "23.152156",
+            "businfo_line_alias": "(在建)11号线外环",
+            "businfo_stationids": "900000074491008",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "150.800188",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS11892866",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "664386",
+            "bus_alias": "E",
+            "businfo_line_names": "(在建)地铁11号线外环(赤沙--赤沙)",
+            "x": "113.325729",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023032",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.151077",
+            "businfo_line_alias": "3号线北延段",
+            "businfo_stationids": "440100023032004",
+            "businfo_ui_colors": "FFA500",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "67.339599",
+            "businfo_expect_dates": "",
+            "poiid": "BS10047475",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "709701",
+            "bus_alias": "F",
+            "businfo_line_names": "地铁3号线(北延段)(体育西路--机场北(2号航站楼))",
+            "x": "113.324493",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线(北延段)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023031",
+            "businfo_line_shields": "3号线",
+            "businfo_line_types": "2",
+            "y": "23.151077",
+            "businfo_line_alias": "3号线北延段",
+            "businfo_stationids": "440100023031013",
+            "businfo_ui_colors": "FFA500",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-112.961488",
+            "businfo_expect_dates": "",
+            "poiid": "BS10047476",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "709701",
+            "bus_alias": "G",
+            "businfo_line_names": "地铁3号线(北延段)(机场北(2号航站楼)--体育西路)",
+            "x": "113.324493",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁3号线(北延段)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023050",
+            "businfo_line_shields": "1号线",
+            "businfo_line_types": "2",
+            "y": "23.150202",
+            "businfo_line_alias": "1号线",
+            "businfo_stationids": "440100023050017",
+            "businfo_ui_colors": "FCD600",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "160.705372",
+            "businfo_expect_dates": "",
+            "poiid": "BS11111290",
+            "poiid2": "BV10024357",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州东站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "751535",
+            "bus_alias": "H",
+            "businfo_line_names": "地铁1号线(西塱--广州东站)",
+            "x": "113.324606",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁1号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.324493",
+        "review_total": "155",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10024357",
+        "name": "广州东站(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440100023031|440100023032|440100023050|440100023049|900000164416;900000172017|900000172012;900000164415|900000074491|900000074492",
+          "display_x": "113.324493",
+          "display_y": "23.151077",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS10047476|BS10047475|BS11111290|BS11111291|BS13436635|BS13436636|BS11892866|BS11892867",
+          "businfo_line_alias": "3号线北延段|3号线北延段|1号线|1号线|(在建)18号线后通段;(在建)18号线北延段|(在建)18号线北延段;(在建)18号线后通段|(在建)11号线外环|(在建)11号线内环",
+          "businfo_ui_colors": "FFA500|FFA500|FCD600|FCD600|AAAAAA;AAAAAA|AAAAAA;AAAAAA|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-112.961488|67.339599|160.705372|-19.294628|88.903626|-91.096374|150.800188|-21.073969",
+          "businfo_line_names": "地铁3号线(北延段)(机场北(2号航站楼)--体育西路)|地铁3号线(北延段)(体育西路--机场北(2号航站楼))|地铁1号线(西塱--广州东站)|地铁1号线(广州东站--西塱)|(在建)地铁18号线后通段(冼村--广州东站);(在建)地铁18号线北延段(广州东站--花城街)|(在建)地铁18号线北延段(花城街--广州东站);(在建)地铁18号线后通段(广州东站--冼村)|(在建)地铁11号线外环(赤沙--赤沙)|(在建)地铁11号线内环(赤沙--赤沙)",
+          "businfo_stationids": "440100023031013|440100023032004|440100023050017|440100023049002|900000164416002;900000172017001|900000172012008;900000164415001|900000074491008|900000074492025",
+          "businfo_line_types": "2|2|2|2|2;2|2;2|2|2",
+          "businfo_road_ids": "709701|709701|751535|751535|47659|47659|664386|664386",
+          "businfo_station_status": "1|1|1|1|3;3|3;3|3|3",
+          "businfo_meshs": "F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043",
+          "xs": "113.324493|113.324493|113.324606|113.324606|113.325625|113.325625|113.325729|113.325729",
+          "ys": "23.151077|23.151077|23.150202|23.150202|23.149614|23.149614|23.152156|23.152156",
+          "businfo_line_keys": "地铁3号线(北延段)|地铁3号线(北延段)|地铁1号线|地铁1号线|(在建)地铁18号线后通段;(在建)地铁18号线北延段|(在建)地铁18号线北延段;(在建)地铁18号线后通段|(在建)地铁11号线外环|(在建)地铁11号线内环",
+          "businfo_expect_dates": " | | | |预计2024年开通;预计2026年底开通|预计2026年底开通;预计2024年开通|预计2024年年底开通|预计2024年年底开通",
+          "businfo_realbus": "0|0|0|0|0;0|0;0|0|0"
+        },
+        "adcode": "440106",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10024357/comment/6cc0b3e86d5eceba5e2ebd758d731118_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.149123+++23.151895+++23.150208+++23.150032+++23.150350+++23.152251+++23.150388+++23.150214+++23.150408",
+            "poiids": "BX10017665+++BX10017669+++BX10017670+++BX10017664+++BX10020913+++BX10017663+++BX10020912+++BX10017666+++BX10017668",
+            "name": "parent_other_rel",
+            "pxs": "113.326054+++113.325354+++113.324177+++113.324676+++113.322782+++113.324703+++113.323132+++113.325078+++113.324523",
+            "childtype": "107+++107+++107+++107+++107+++107+++107+++107+++107",
+            "poiname": "广州东站地铁站F口+++广州东站地铁站J口+++广州东站地铁站I入口+++广州东站地铁站G口+++广州东站地铁站B1口+++广州东站地铁站H口+++广州东站地铁站B2口+++广州东站地铁站E口+++广州东站地铁站D口",
+            "address": "1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段+++1号线;3号线北延段",
+            "shortname": "F口+++J口+++I入口+++G口+++B1口+++H口+++B2口+++E口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "广州东站(地铁站)",
+        "cpdata": "",
+        "latitude": "23.151077",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170000",
+        "areacode": "020",
+        "address": "番禺大道南辅路",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.418463",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0FFLK0UQD",
+        "name": "18号线横番3号风井铺轨基地",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.863437",
+            "longitude": "113.41855"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/9c42e1cceab39c96616a61bfc03e19a7",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170000",
+        "disp_name": "18号线横番3号风井铺轨基地",
+        "cpdata": "",
+        "latitude": "22.863419",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170000",
+        "areacode": "020",
+        "address": "同安东围路124号",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "113.569317,22.702894,113.574116,22.698165",
+        "longitude": "113.571723",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0FFLJR6KK",
+        "name": "18号线万顷沙车辆段",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.701290",
+            "longitude": "113.573238"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440115",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/781ad913441dce07ac68b972c96b133a",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "value": "113.569317,22.698879_113.573038,22.702246_113.57323,22.702894_113.574116,22.702025_113.570051,22.698165_113.569317,22.698879",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170000",
+        "disp_name": "18号线万顷沙车辆段",
+        "cpdata": "",
+        "latitude": "22.700427",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线北延段;14号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172017",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.249425",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172017003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "158.140901",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433297",
+            "poiid2": "BV10851523",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白云东平(地铁站)",
+            "businfo_mesh": "F49F009043",
+            "businfo_road_id": "669017",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线北延段(广州东站--花城街)",
+            "x": "113.319745",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074702",
+            "businfo_line_shields": "14号线",
+            "businfo_line_types": "2",
+            "y": "23.251170",
+            "businfo_line_alias": "14号线",
+            "businfo_stationids": "900000074702012",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-119.697937",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895403",
+            "poiid2": "BV10851523",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白云东平(地铁站)",
+            "businfo_mesh": "F49F009043",
+            "businfo_road_id": "636535",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁14号线(东风--嘉禾望岗)",
+            "x": "113.317841",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074701",
+            "businfo_line_shields": "14号线",
+            "businfo_line_types": "2",
+            "y": "23.251170",
+            "businfo_line_alias": "14号线",
+            "businfo_stationids": "900000074701002",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "60.431052",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895404",
+            "poiid2": "BV10851523",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白云东平(地铁站)",
+            "businfo_mesh": "F49F009043",
+            "businfo_road_id": "636535",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁14号线(嘉禾望岗--东风)",
+            "x": "113.317841",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172012",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.249425",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172012006",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-26.102944",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433290",
+            "poiid2": "BV10851523",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "白云东平(地铁站)",
+            "businfo_mesh": "F49F009043",
+            "businfo_road_id": "669017",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站)",
+            "x": "113.319745",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.317841",
+        "review_total": "102",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10851523",
+        "name": "白云东平(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074701|900000074702|900000172012|900000172017",
+          "display_x": "113.317841",
+          "display_y": "23.251170",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS11895404|BS11895403|BS13433290|BS13433297",
+          "businfo_line_alias": "14号线|14号线|(在建)18号线北延段|(在建)18号线北延段",
+          "businfo_ui_colors": "871C2A|871C2A|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "60.431052|-119.697937|-26.102944|158.140901",
+          "businfo_line_names": "地铁14号线(嘉禾望岗--东风)|地铁14号线(东风--嘉禾望岗)|(在建)地铁18号线北延段(花城街--广州东站)|(在建)地铁18号线北延段(广州东站--花城街)",
+          "businfo_stationids": "900000074701002|900000074702012|900000172012006|900000172017003",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "636535|636535|669017|669017",
+          "businfo_station_status": "1|1|3|3",
+          "businfo_meshs": "F49F009043|F49F009043|F49F009043|F49F009043",
+          "xs": "113.317841|113.317841|113.319745|113.319745",
+          "ys": "23.251170|23.251170|23.249425|23.249425",
+          "businfo_line_keys": "地铁14号线|地铁14号线|(在建)地铁18号线北延段|(在建)地铁18号线北延段",
+          "businfo_expect_dates": " | |预计2026年底开通|预计2026年底开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10851523/comment/b5455cfe87c05c201ab92b15958f0f6c_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.252104+++23.250554+++23.251728+++23.250126",
+            "poiids": "BX10026369+++BX10026002+++BX10026004+++BX10026003",
+            "name": "parent_other_rel",
+            "pxs": "113.317765+++113.317030+++113.318568+++113.317659",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "白云东平地铁站E口+++白云东平地铁站F口+++白云东平地铁站B口+++白云东平地铁站A口",
+            "address": "14号线+++14号线+++14号线+++14号线",
+            "shortname": "E口+++F口+++B口+++A口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "白云东平(地铁站)",
+        "cpdata": "",
+        "latitude": "23.251170",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "18号线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.337567",
+        "review_total": "2",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10033631",
+        "name": "沙溪地铁站E1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075991;900000075992",
+          "businfo_landmark_poiids": "B0FFLAF8Y5;B0FFM5H5SC;B0FFICKQ8V;BV11604375;B0FFLE6DZN;B0FFHLIVZF",
+          "businfo_line_alias": "18号线;18号线",
+          "businfo_exit_status": "1",
+          "eys": "23.034769",
+          "businfo_station_name_en": "Shaxi",
+          "businfo_stationids": "900000075991005;900000075992005",
+          "businfo_ui_colors": "2249A3;2249A3",
+          "businfo_exitids": "90000007599100504;90000007599200505",
+          "poiid1s": "BT10033630",
+          "exs": "113.337567",
+          "businfo_station_name": "沙溪",
+          "businfo_line_names": "地铁18号线(冼村--万顷沙);地铁18号线(万顷沙--冼村)",
+          "businfo_line_keys": "地铁18号线;地铁18号线",
+          "businfo_station_poiid2": "BV10862414"
+        },
+        "adcode": "440113",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BX10033631/comment/36fb3f9ba624f0e768bcccb8b2d843c6_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "沙溪地铁站E1口",
+        "cpdata": "",
+        "latitude": "23.034769",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "18号线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.344033",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09907547",
+        "name": "磨碟沙地铁站E1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.098786",
+            "longitude": "113.344103"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075991;900000075992",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "18号线;18号线",
+          "businfo_exit_status": "1",
+          "eys": "23.099567",
+          "businfo_station_name_en": "modiesha",
+          "businfo_stationids": "900000075991003;900000075992007",
+          "businfo_ui_colors": "2249A3;2249A3",
+          "businfo_exitids": "90000007599100302;90000007599200705",
+          "poiid1s": "BT09907575",
+          "exs": "113.344033",
+          "businfo_station_name": "磨碟沙",
+          "businfo_line_names": "地铁18号线(冼村--万顷沙);地铁18号线(万顷沙--冼村)",
+          "businfo_line_keys": "地铁18号线;地铁18号线",
+          "businfo_station_poiid2": "BV10015269"
+        },
+        "adcode": "440105",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "磨碟沙地铁站E1口",
+        "cpdata": "",
+        "latitude": "23.099567",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)18号线北延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172012",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.425568",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172012001",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-95.222958",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433292",
+            "poiid2": "BV11605044",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "花城街(地铁站)",
+            "businfo_mesh": "F49F007042",
+            "businfo_road_id": "629275",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站)",
+            "x": "113.234955",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000172017",
+            "businfo_line_shields": "18号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.425568",
+            "businfo_line_alias": "(在建)18号线北延段",
+            "businfo_stationids": "900000172017008",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "84.777042",
+            "businfo_expect_dates": "预计2026年底开通",
+            "poiid": "BS13433300",
+            "poiid2": "BV11605044",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "花城街(地铁站)",
+            "businfo_mesh": "F49F007042",
+            "businfo_road_id": "629275",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁18号线北延段(广州东站--花城街)",
+            "x": "113.234955",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁18号线北延段",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.234955",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11605044",
+        "name": "花城街(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000172012|900000172017",
+          "display_x": "113.234955",
+          "display_y": "23.425568",
+          "businfo_ids": "BS13433292|BS13433300",
+          "businfo_line_alias": "(在建)18号线北延段|(在建)18号线北延段",
+          "businfo_ui_colors": "AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-95.222958|84.777042",
+          "businfo_line_names": "(在建)地铁18号线北延段(花城街--广州东站)|(在建)地铁18号线北延段(广州东站--花城街)",
+          "businfo_stationids": "900000172012001|900000172017008",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "629275|629275",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F007042|F49F007042",
+          "xs": "113.234955|113.234955",
+          "ys": "23.425568|23.425568",
+          "businfo_line_keys": "(在建)地铁18号线北延段|(在建)地铁18号线北延段",
+          "businfo_expect_dates": "预计2026年底开通|预计2026年底开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440114",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "花城街(地铁站)",
+        "cpdata": "",
+        "latitude": "23.425568",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "18号线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.343366",
+        "review_total": "2",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10033931",
+        "name": "南村万博地铁站E1口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000075991;900000075992",
+          "businfo_landmark_poiids": "BV10014518;B0H3HSYYUW;BV11172006;BV11206265;B0FFH2W7JW",
+          "businfo_line_alias": "18号线;18号线",
+          "businfo_exit_status": "1",
+          "eys": "23.002755",
+          "businfo_station_name_en": "Nancun Wanbo",
+          "businfo_stationids": "900000075991006;900000075992004",
+          "businfo_ui_colors": "2249A3;2249A3",
+          "businfo_exitids": "90000007599100606;90000007599200406",
+          "poiid1s": "BT10033930",
+          "exs": "113.343366",
+          "businfo_station_name": "南村万博",
+          "businfo_line_names": "地铁18号线(冼村--万顷沙);地铁18号线(万顷沙--冼村)",
+          "businfo_line_keys": "地铁18号线;地铁18号线",
+          "businfo_station_poiid2": "BV10569459"
+        },
+        "adcode": "440113",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BX10033931/comment/00b6e061164a9fccf3bf99d7e4190b29_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "南村万博地铁站E1口",
+        "cpdata": "",
+        "latitude": "23.002755",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4149 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440100",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁14号线二期",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727200800.29",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440100",
+        "target_city": "4401",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.218988500,23.536623600,113.627366500,23.111528400",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440100||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "8468416411670055208_sc-00|ia-po|sy-no|si-po|ci-440100|tg-or",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "交通出行=0.837000;出入口=0.144000\u0006交通出行|地铁站=0.835000;出入口|地铁站出入口=0.144000;交通出行|公交站=0.001000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁14号线二期",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "交通出行=0.837000;出入口=0.144000\u0006交通出行|地铁站=0.835000;出入口|地铁站出入口=0.144000;交通出行|公交站=0.001000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "广州市",
+        "result_adcode": "440100"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁14号线二期",
+    "message": "Successful.",
+    "total": "100",
+    "busline_list": [
+      {
+        "front_name": "广州火车站",
+        "areacode": "020",
+        "code": "440100",
+        "xs": "113.258073,113.256161,113.255332,113.254474,113.253787,113.253057,113.252499,113.252199,113.251813,113.25177,113.252199,113.252843,113.253916,113.255804,113.257306,113.258422,113.260315,113.261018,113.261211,113.261276,113.260823,113.259835,113.259685,113.259621,113.259706,113.259835,113.260678,113.261187,113.261525,113.261766,113.262249,113.262662,113.26307,113.263331,113.26364,113.263731,113.26379,113.263854,113.263929,113.263892,113.263897,113.263895,113.263895,113.263792,113.263878,113.263985,113.264286,113.264822,113.266698,113.267643,113.268236,113.272333,113.273214,113.27387,113.275008,113.275501,113.276038,113.276755,113.277225,113.277861,113.279671,113.280272,113.280685,113.281399,113.285184,113.286096,113.286632,113.28793,113.288531,113.288778,113.288874,113.28895,113.288982,113.288956",
+        "id": "900000099909",
+        "terminal_name": "嘉禾望岗",
+        "terminal_spell": "jia he wang gang",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁14号线二期",
+        "start_time": "",
+        "front_spell": "guang zhou huo che zhan",
+        "busline_event": "",
+        "ys": "23.147993,23.14872,23.149232,23.149784,23.150337,23.150771,23.151797,23.152625,23.154085,23.155348,23.156571,23.158229,23.15961,23.161069,23.162174,23.163003,23.164901,23.165824,23.166534,23.167244,23.17094,23.176172,23.177198,23.177977,23.178924,23.179791,23.183717,23.188652,23.190043,23.190817,23.191887,23.192942,23.193835,23.19468,23.195667,23.196007,23.196387,23.196851,23.197628,23.19921,23.200157,23.200972,23.201642,23.205296,23.207604,23.208176,23.209024,23.210049,23.213148,23.21465,23.215544,23.222676,23.223709,23.224569,23.225512,23.225872,23.226212,23.22654,23.226609,23.226693,23.226924,23.227008,23.227058,23.227175,23.227775,23.227992,23.22815,23.229047,23.230378,23.231314,23.232438,23.233986,23.235938,23.237437",
+        "total_price": "0",
+        "name": "地铁14号线二期(广州火车站--嘉禾望岗)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "广州火车站",
+            "station_num": "1",
+            "poiid1": "BS13427467",
+            "start_time": "",
+            "spell": "guang zhou huo che zhan",
+            "time_desc_json": "",
+            "station_id": "900000099909001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.258073;23.147993",
+            "poiid2_xy": "113.256512;23.148339",
+            "poiid2": "BV10015177"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "乐嘉路",
+            "station_num": "2",
+            "poiid1": "BS12268486",
+            "start_time": "",
+            "spell": "le jia lu",
+            "time_desc_json": "",
+            "station_id": "900000099909002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.260823;23.17094",
+            "poiid2_xy": "113.260823;23.170940",
+            "poiid2": "BV11031577"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "岗贝",
+            "station_num": "3",
+            "poiid1": "BS12268475",
+            "start_time": "",
+            "spell": "gang bei",
+            "time_desc_json": "",
+            "station_id": "900000099909003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.260678;23.183717",
+            "poiid2_xy": "113.260678;23.183717",
+            "poiid2": "BV11031573"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "新市墟",
+            "station_num": "4",
+            "poiid1": "BS09000673",
+            "start_time": "",
+            "spell": "xin shi xu",
+            "time_desc_json": "",
+            "station_id": "900000099909004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.263331;23.19468",
+            "poiid2_xy": "113.263331;23.194680",
+            "poiid2": "BV11030733"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "马务",
+            "station_num": "5",
+            "poiid1": "BS09001265",
+            "start_time": "",
+            "spell": "ma wu",
+            "time_desc_json": "",
+            "station_id": "900000099909005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.263895;23.201642",
+            "poiid2_xy": "113.263895;23.201642",
+            "poiid2": "BV11031574"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "创意园",
+            "station_num": "6",
+            "poiid1": "BS12268489",
+            "start_time": "",
+            "spell": "chuang yi yuan",
+            "time_desc_json": "",
+            "station_id": "900000099909006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.266698;23.213148",
+            "poiid2_xy": "113.266698;23.213148",
+            "poiid2": "BV11031578"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "鹤南",
+            "station_num": "7",
+            "poiid1": "BS09001604",
+            "start_time": "",
+            "spell": "he nan",
+            "time_desc_json": "",
+            "station_id": "900000099909007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.272333;23.222676",
+            "poiid2_xy": "113.272333;23.222676",
+            "poiid2": "BV11031576"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "彭边",
+            "station_num": "8",
+            "poiid1": "BS12268479",
+            "start_time": "",
+            "spell": "peng bian",
+            "time_desc_json": "",
+            "station_id": "900000099909008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.281399;23.227175",
+            "poiid2_xy": "113.281399;23.227175",
+            "poiid2": "BV11031575"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "嘉禾望岗",
+            "station_num": "9",
+            "poiid1": "BS12456994",
+            "start_time": "",
+            "spell": "jia he wang gang",
+            "time_desc_json": "",
+            "station_id": "900000099909009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.288956;23.237437",
+            "poiid2_xy": "113.289243;23.237460",
+            "poiid2": "BV10024352"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.251770;23.147993;113.288982;23.237437",
+        "air": "",
+        "length": "12.060000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "嘉禾望岗",
+        "areacode": "020",
+        "code": "440100",
+        "xs": "113.288956,113.288982,113.28895,113.288874,113.288778,113.288531,113.28793,113.286632,113.286096,113.285184,113.281399,113.280685,113.280272,113.279671,113.277861,113.277225,113.276755,113.276038,113.275501,113.275008,113.27387,113.273214,113.272333,113.268236,113.267643,113.266698,113.264822,113.264286,113.263985,113.263878,113.263792,113.263895,113.263895,113.263897,113.263892,113.263929,113.263854,113.26379,113.263731,113.26364,113.263331,113.26307,113.262662,113.262249,113.261766,113.261525,113.261187,113.260678,113.259835,113.259706,113.259621,113.259685,113.259835,113.260823,113.261276,113.261211,113.261018,113.260315,113.258422,113.257306,113.255804,113.253916,113.252843,113.252199,113.25177,113.251813,113.252199,113.252499,113.253057,113.253787,113.254474,113.255332,113.256161,113.258073",
+        "id": "900000099908",
+        "terminal_name": "广州火车站",
+        "terminal_spell": "guang zhou huo che zhan",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁14号线二期",
+        "start_time": "",
+        "front_spell": "jia he wang gang",
+        "busline_event": "",
+        "ys": "23.237437,23.235938,23.233986,23.232438,23.231314,23.230378,23.229047,23.22815,23.227992,23.227775,23.227175,23.227058,23.227008,23.226924,23.226693,23.226609,23.22654,23.226212,23.225872,23.225512,23.224569,23.223709,23.222676,23.215544,23.21465,23.213148,23.210049,23.209024,23.208176,23.207604,23.205296,23.201642,23.200972,23.200157,23.19921,23.197628,23.196851,23.196387,23.196007,23.195667,23.19468,23.193835,23.192942,23.191887,23.190817,23.190043,23.188652,23.183717,23.179791,23.178924,23.177977,23.177198,23.176172,23.17094,23.167244,23.166534,23.165824,23.164901,23.163003,23.162174,23.161069,23.15961,23.158229,23.156571,23.155348,23.154085,23.152625,23.151797,23.150771,23.150337,23.149784,23.149232,23.14872,23.147993",
+        "total_price": "0",
+        "name": "地铁14号线二期(嘉禾望岗--广州火车站)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "嘉禾望岗",
+            "station_num": "1",
+            "poiid1": "BS12456993",
+            "start_time": "",
+            "spell": "jia he wang gang",
+            "time_desc_json": "",
+            "station_id": "900000099908001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.288956;23.237437",
+            "poiid2_xy": "113.289243;23.237460",
+            "poiid2": "BV10024352"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "彭边",
+            "station_num": "2",
+            "poiid1": "BS12268478",
+            "start_time": "",
+            "spell": "peng bian",
+            "time_desc_json": "",
+            "station_id": "900000099908002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.281399;23.227175",
+            "poiid2_xy": "113.281399;23.227175",
+            "poiid2": "BV11031575"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "鹤南",
+            "station_num": "3",
+            "poiid1": "BS09001605",
+            "start_time": "",
+            "spell": "he nan",
+            "time_desc_json": "",
+            "station_id": "900000099908003",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.272333;23.222676",
+            "poiid2_xy": "113.272333;23.222676",
+            "poiid2": "BV11031576"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "创意园",
+            "station_num": "4",
+            "poiid1": "BS12268488",
+            "start_time": "",
+            "spell": "chuang yi yuan",
+            "time_desc_json": "",
+            "station_id": "900000099908004",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.266698;23.213148",
+            "poiid2_xy": "113.266698;23.213148",
+            "poiid2": "BV11031578"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "马务",
+            "station_num": "5",
+            "poiid1": "BS09001264",
+            "start_time": "",
+            "spell": "ma wu",
+            "time_desc_json": "",
+            "station_id": "900000099908005",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.263895;23.201642",
+            "poiid2_xy": "113.263895;23.201642",
+            "poiid2": "BV11031574"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "新市墟",
+            "station_num": "6",
+            "poiid1": "BS09000672",
+            "start_time": "",
+            "spell": "xin shi xu",
+            "time_desc_json": "",
+            "station_id": "900000099908006",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.263331;23.19468",
+            "poiid2_xy": "113.263331;23.194680",
+            "poiid2": "BV11030733"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "岗贝",
+            "station_num": "7",
+            "poiid1": "BS12268474",
+            "start_time": "",
+            "spell": "gang bei",
+            "time_desc_json": "",
+            "station_id": "900000099908007",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.260678;23.183717",
+            "poiid2_xy": "113.260678;23.183717",
+            "poiid2": "BV11031573"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "乐嘉路",
+            "station_num": "8",
+            "poiid1": "BS12268487",
+            "start_time": "",
+            "spell": "le jia lu",
+            "time_desc_json": "",
+            "station_id": "900000099908008",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.260823;23.17094",
+            "poiid2_xy": "113.260823;23.170940",
+            "poiid2": "BV11031577"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440111",
+            "navi_poiid": "",
+            "name": "广州火车站",
+            "station_num": "9",
+            "poiid1": "BS13427468",
+            "start_time": "",
+            "spell": "guang zhou huo che zhan",
+            "time_desc_json": "",
+            "station_id": "900000099908009",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "113.258073;23.147993",
+            "poiid2_xy": "113.256512;23.148339",
+            "poiid2": "BV10015177"
+          }
+        ],
+        "interval": "",
+        "bounds": "113.251770;23.147993;113.288982;23.237437",
+        "air": "",
+        "length": "12.060000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.256512;23.148339;113.593335;23.501199",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)11号线内环;(在建)11号线外环;(在建)14号线二期;(在建)22号线北延段;2号线;5号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023037",
+            "businfo_line_shields": "5号线",
+            "businfo_line_types": "2",
+            "y": "23.147864",
+            "businfo_line_alias": "5号线",
+            "businfo_stationids": "440100023037007",
+            "businfo_ui_colors": "C5003E",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-24.227745",
+            "businfo_expect_dates": "",
+            "poiid": "BS10922245",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "798153",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁5号线(滘口--黄埔新港)",
+            "x": "113.257170",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁5号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023308",
+            "businfo_line_shields": "2号线",
+            "businfo_line_types": "2",
+            "y": "23.148339",
+            "businfo_line_alias": "2号线",
+            "businfo_stationids": "440100023308017",
+            "businfo_ui_colors": "0065B3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "110.198631",
+            "businfo_expect_dates": "",
+            "poiid": "BS10030258",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "798153",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁2号线(广州南站--嘉禾望岗)",
+            "x": "113.256512",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁2号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000177137",
+            "businfo_line_shields": "22号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.149268",
+            "businfo_line_alias": "(在建)22号线北延段",
+            "businfo_stationids": "900000177137003",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "80.033475",
+            "businfo_expect_dates": "预计2026年年底开通",
+            "poiid": "BS13537331",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011042",
+            "businfo_road_id": "641315",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁22号线北延段(芳村--机场北(2号航站楼))",
+            "x": "113.254564",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁22号线北延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000177138",
+            "businfo_line_shields": "22号线北延段",
+            "businfo_line_types": "2",
+            "y": "23.149268",
+            "businfo_line_alias": "(在建)22号线北延段",
+            "businfo_stationids": "900000177138009",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-98.247355",
+            "businfo_expect_dates": "预计2026年年底开通",
+            "poiid": "BS13537332",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011042",
+            "businfo_road_id": "641315",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁22号线北延段(机场北(2号航站楼)--芳村)",
+            "x": "113.254564",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁22号线北延段",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.147993",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909001",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "159.181688",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13427467",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "13251",
+            "bus_alias": "E",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.258073",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.147993",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908009",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-20.818312",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS13427468",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "13251",
+            "bus_alias": "F",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.258073",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074491",
+            "businfo_line_shields": "11号线外环",
+            "businfo_line_types": "2",
+            "y": "23.147578",
+            "businfo_line_alias": "(在建)11号线外环",
+            "businfo_stationids": "900000074491015",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-120.417584",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS13411799",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "756061",
+            "bus_alias": "G",
+            "businfo_line_names": "(在建)地铁11号线外环(赤沙--赤沙)",
+            "x": "113.257792",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线外环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074492",
+            "businfo_line_shields": "11号线内环",
+            "businfo_line_types": "2",
+            "y": "23.147578",
+            "businfo_line_alias": "(在建)11号线内环",
+            "businfo_stationids": "900000074492018",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "60.282428",
+            "businfo_expect_dates": "预计2024年年底开通",
+            "poiid": "BS13411798",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "756061",
+            "bus_alias": "H",
+            "businfo_line_names": "(在建)地铁11号线内环(赤沙--赤沙)",
+            "x": "113.257792",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁11号线内环",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023038",
+            "businfo_line_shields": "5号线",
+            "businfo_line_types": "2",
+            "y": "23.147864",
+            "businfo_line_alias": "5号线",
+            "businfo_stationids": "440100023038020",
+            "businfo_ui_colors": "C5003E",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "156.107105",
+            "businfo_expect_dates": "",
+            "poiid": "BS10922244",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "798153",
+            "bus_alias": "I",
+            "businfo_line_names": "地铁5号线(黄埔新港--滘口)",
+            "x": "113.257170",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁5号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023309",
+            "businfo_line_shields": "2号线",
+            "businfo_line_types": "2",
+            "y": "23.148339",
+            "businfo_line_alias": "2号线",
+            "businfo_stationids": "440100023309010",
+            "businfo_ui_colors": "0065B3",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-69.496992",
+            "businfo_expect_dates": "",
+            "poiid": "BS10030259",
+            "poiid2": "BV10015177",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "广州火车站(地铁站)",
+            "businfo_mesh": "F49F011043",
+            "businfo_road_id": "798153",
+            "bus_alias": "J",
+            "businfo_line_names": "地铁2号线(嘉禾望岗--广州南站)",
+            "x": "113.256512",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁2号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.256512",
+        "review_total": "162",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10015177",
+        "name": "广州火车站(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000177138|900000177137|900000099909|900000099908|900000074492|900000074491|440100023309|440100023308|440100023038|440100023037",
+          "display_x": "113.256512",
+          "display_y": "23.148339",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS13537332|BS13537331|BS13427467|BS13427468|BS13411798|BS13411799|BS10030259|BS10030258|BS10922244|BS10922245",
+          "businfo_line_alias": "(在建)22号线北延段|(在建)22号线北延段|(在建)14号线二期|(在建)14号线二期|(在建)11号线内环|(在建)11号线外环|2号线|2号线|5号线|5号线",
+          "businfo_ui_colors": "AAAAAA|AAAAAA|871C2A|871C2A|AAAAAA|AAAAAA|0065B3|0065B3|C5003E|C5003E",
+          "businfo_alias": "",
+          "businfo_angles": "-98.247355|80.033475|159.181688|-20.818312|60.282428|-120.417584|-69.496992|110.198631|156.107105|-24.227745",
+          "businfo_line_names": "(在建)地铁22号线北延段(机场北(2号航站楼)--芳村)|(在建)地铁22号线北延段(芳村--机场北(2号航站楼))|(在建)地铁14号线二期(广州火车站--嘉禾望岗)|(在建)地铁14号线二期(嘉禾望岗--广州火车站)|(在建)地铁11号线内环(赤沙--赤沙)|(在建)地铁11号线外环(赤沙--赤沙)|地铁2号线(嘉禾望岗--广州南站)|地铁2号线(广州南站--嘉禾望岗)|地铁5号线(黄埔新港--滘口)|地铁5号线(滘口--黄埔新港)",
+          "businfo_stationids": "900000177138009|900000177137003|900000099909001|900000099908009|900000074492018|900000074491015|440100023309010|440100023308017|440100023038020|440100023037007",
+          "businfo_line_types": "2|2|2|2|2|2|2|2|2|2",
+          "businfo_road_ids": "641315|641315|13251|13251|756061|756061|798153|798153|798153|798153",
+          "businfo_station_status": "3|3|3|3|3|3|1|1|1|1",
+          "businfo_meshs": "F49F011042|F49F011042|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043|F49F011043",
+          "xs": "113.254564|113.254564|113.258073|113.258073|113.257792|113.257792|113.256512|113.256512|113.257170|113.257170",
+          "ys": "23.149268|23.149268|23.147993|23.147993|23.147578|23.147578|23.148339|23.148339|23.147864|23.147864",
+          "businfo_line_keys": "(在建)地铁22号线北延段|(在建)地铁22号线北延段|(在建)地铁14号线二期|(在建)地铁14号线二期|(在建)地铁11号线内环|(在建)地铁11号线外环|地铁2号线|地铁2号线|地铁5号线|地铁5号线",
+          "businfo_expect_dates": "预计2026年年底开通|预计2026年年底开通|预计2025年开通|预计2025年开通|预计2024年年底开通|预计2024年年底开通| | | | ",
+          "businfo_realbus": "0|0|0|0|0|0|0|0|0|0"
+        },
+        "adcode": "440104",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10015177/comment/4479e66b5af5458b903f7e86ca7baf81_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.147699+++23.149234+++23.147285+++23.148275+++23.148732+++23.148991+++23.146953+++23.147908+++23.147270+++23.147528",
+            "poiids": "BX10017899+++BX10036079+++BX10036160+++BX10017894+++BX10017895+++BX10017892+++BX09903050+++BX09903052+++BX09903048+++BX09903051",
+            "name": "parent_other_rel",
+            "pxs": "113.257605+++113.256880+++113.253125+++113.255113+++113.255593+++113.256967+++113.253484+++113.253020+++113.255776+++113.253808",
+            "childtype": "107+++107+++107+++107+++107+++107+++107+++107+++107+++107",
+            "poiname": "广州火车站地铁站A口+++广州火车站地铁站C入口+++广州火车站地铁站出入口+++广州火车站地铁站D2口+++广州火车站地铁站D1口+++广州火车站地铁站B口+++广州火车站地铁站出入口+++广州火车站地铁站市政通道五4号口+++广州火车站地铁站市政通道六2号口+++广州火车站地铁站市政通道五5号口",
+            "address": "2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线+++2号线;5号线",
+            "shortname": "A口+++C入口+++出入口+++D2口+++D1口+++B口+++出入口+++市政通道五4号口+++市政通道六2号口+++市政通道五5号口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "广州火车站(地铁站)",
+        "cpdata": "",
+        "latitude": "23.148339",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.222676",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909007",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "60.124650",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09001604",
+            "poiid2": "BV11031576",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "鹤南(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "699232",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.272333",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.222676",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908003",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-130.459394",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09001605",
+            "poiid2": "BV11031576",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "鹤南(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "699232",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.272333",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.272333",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11031576",
+        "name": "鹤南(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099908|900000099909",
+          "display_x": "113.272333",
+          "display_y": "23.222676",
+          "businfo_ids": "BS09001605|BS09001604",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "-130.459394|60.124650",
+          "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)|(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+          "businfo_stationids": "900000099908003|900000099909007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "699232|699232",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.272333|113.272333",
+          "ys": "23.222676|23.222676",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "鹤南(地铁站)",
+        "cpdata": "",
+        "latitude": "23.222676",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.213148",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909006",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "58.811109",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268489",
+            "poiid2": "BV11031578",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "创意园(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "706021",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.266698",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.213148",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908004",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-122.176507",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268488",
+            "poiid2": "BV11031578",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "创意园(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "706021",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.266698",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.266698",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11031578",
+        "name": "创意园(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099909|900000099908",
+          "display_x": "113.266698",
+          "display_y": "23.213148",
+          "businfo_ids": "BS12268489|BS12268488",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "58.811109|-122.176507",
+          "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)|(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+          "businfo_stationids": "900000099909006|900000099908004",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "706021|706021",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.266698|113.266698",
+          "ys": "23.213148|23.213148",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "创意园(地铁站)",
+        "cpdata": "",
+        "latitude": "23.213148",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.201642",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909005",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "90.000000",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09001265",
+            "poiid2": "BV11031574",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "马务(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "638871",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.263895",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.201642",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908005",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-88.385358",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09001264",
+            "poiid2": "BV11031574",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "马务(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "638871",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.263895",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.263895",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11031574",
+        "name": "马务(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099909|900000099908",
+          "display_x": "113.263895",
+          "display_y": "23.201642",
+          "businfo_ids": "BS09001265|BS09001264",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "90.000000|-88.385358",
+          "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)|(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+          "businfo_stationids": "900000099909005|900000099908005",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "638871|638871",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.263895|113.263895",
+          "ys": "23.201642|23.201642",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "马务(地铁站)",
+        "cpdata": "",
+        "latitude": "23.201642",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)12号线;(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099784",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "23.194442",
+            "businfo_line_alias": "(在建)12号线",
+            "businfo_stationids": "900000099784007",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-8.491384",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09003473",
+            "poiid2": "BV11030733",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新市墟(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "707867",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁12号线(浔峰岗--大学城南)",
+            "x": "113.265277",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁12号线",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099788",
+            "businfo_line_shields": "12号线",
+            "businfo_line_types": "2",
+            "y": "23.194442",
+            "businfo_line_alias": "(在建)12号线",
+            "businfo_stationids": "900000099788019",
+            "businfo_ui_colors": "AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "174.717513",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09003472",
+            "poiid2": "BV11030733",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新市墟(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "707867",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁12号线(大学城南--浔峰岗)",
+            "x": "113.265277",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁12号线",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.194680",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909004",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "72.835350",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09000673",
+            "poiid2": "BV11030733",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新市墟(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "707066",
+            "bus_alias": "C",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.263331",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.194680",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908006",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-107.383768",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS09000672",
+            "poiid2": "BV11030733",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新市墟(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "707066",
+            "bus_alias": "D",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.263331",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.263331",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11030733",
+        "name": "新市墟(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099909|900000099908|900000099784|900000099788",
+          "display_x": "113.263331",
+          "display_y": "23.194680",
+          "businfo_ids": "BS09000673|BS09000672|BS09003473|BS09003472",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期|(在建)12号线|(在建)12号线",
+          "businfo_ui_colors": "871C2A|871C2A|AAAAAA|AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "72.835350|-107.383768|-8.491384|174.717513",
+          "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)|(在建)地铁14号线二期(嘉禾望岗--广州火车站)|(在建)地铁12号线(浔峰岗--大学城南)|(在建)地铁12号线(大学城南--浔峰岗)",
+          "businfo_stationids": "900000099909004|900000099908006|900000099784007|900000099788019",
+          "businfo_line_types": "2|2|2|2",
+          "businfo_road_ids": "707066|707066|707867|707867",
+          "businfo_station_status": "3|3|3|3",
+          "businfo_meshs": "F49F010043|F49F010043|F49F010043|F49F010043",
+          "xs": "113.263331|113.263331|113.265277|113.265277",
+          "ys": "23.194680|23.194680|23.194442|23.194442",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期|(在建)地铁12号线|(在建)地铁12号线",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通|预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0|0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "新市墟(地铁站)",
+        "cpdata": "",
+        "latitude": "23.194680",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.170940",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909002",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "96.987603",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268486",
+            "poiid2": "BV11031577",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "乐嘉路(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "654335",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.260823",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.170940",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908008",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-79.306309",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268487",
+            "poiid2": "BV11031577",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "乐嘉路(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "654335",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.260823",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.260823",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11031577",
+        "name": "乐嘉路(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099908|900000099909",
+          "display_x": "113.260823",
+          "display_y": "23.170940",
+          "businfo_ids": "BS12268487|BS12268486",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "-79.306309|96.987603",
+          "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)|(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+          "businfo_stationids": "900000099908008|900000099909002",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "654335|654335",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.260823|113.260823",
+          "ys": "23.170940|23.170940",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "乐嘉路(地铁站)",
+        "cpdata": "",
+        "latitude": "23.170940",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.227175",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908002",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-170.992397",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268478",
+            "poiid2": "BV11031575",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "彭边(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "666911",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.281399",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.227175",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909008",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "9.306097",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268479",
+            "poiid2": "BV11031575",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "彭边(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "666911",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.281399",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.281399",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11031575",
+        "name": "彭边(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099909|900000099908",
+          "display_x": "113.281399",
+          "display_y": "23.227175",
+          "businfo_ids": "BS12268479|BS12268478",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "9.306097|-170.992397",
+          "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)|(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+          "businfo_stationids": "900000099909008|900000099908002",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "666911|666911",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.281399|113.281399",
+          "ys": "23.227175|23.227175",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "彭边(地铁站)",
+        "cpdata": "",
+        "latitude": "23.227175",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099908",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.183717",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099908007",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-95.888712",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268474",
+            "poiid2": "BV11031573",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗贝(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "10570",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.260678",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000099909",
+            "businfo_line_shields": "14号线二期",
+            "businfo_line_types": "2",
+            "y": "23.183717",
+            "businfo_line_alias": "(在建)14号线二期",
+            "businfo_stationids": "900000099909003",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "77.881325",
+            "businfo_expect_dates": "预计2025年开通",
+            "poiid": "BS12268475",
+            "poiid2": "BV11031573",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "岗贝(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "10570",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.260678",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "(在建)地铁14号线二期",
+            "businfo_station_status": "3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.260678",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV11031573",
+        "name": "岗贝(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000099909|900000099908",
+          "display_x": "113.260678",
+          "display_y": "23.183717",
+          "businfo_ids": "BS12268475|BS12268474",
+          "businfo_line_alias": "(在建)14号线二期|(在建)14号线二期",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "77.881325|-95.888712",
+          "businfo_line_names": "(在建)地铁14号线二期(广州火车站--嘉禾望岗)|(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+          "businfo_stationids": "900000099909003|900000099908007",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "10570|10570",
+          "businfo_station_status": "3|3",
+          "businfo_meshs": "F49F010043|F49F010043",
+          "xs": "113.260678|113.260678",
+          "ys": "23.183717|23.183717",
+          "businfo_line_keys": "(在建)地铁14号线二期|(在建)地铁14号线二期",
+          "businfo_expect_dates": "预计2025年开通|预计2025年开通",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "岗贝(地铁站)",
+        "cpdata": "",
+        "latitude": "23.183717",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "(在建)14号线二期;14号线;2号线;3号线北延段",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023308;440100023032",
+            "businfo_line_shields": "2号线;3号线",
+            "businfo_line_types": "2;2",
+            "y": "23.237460",
+            "businfo_line_alias": "2号线;3号线北延段",
+            "businfo_stationids": "440100023308025;440100023032011",
+            "businfo_ui_colors": "0065B3;FFA500",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "89.882350",
+            "businfo_expect_dates": ";",
+            "poiid": "BS10047465",
+            "poiid2": "BV10024352",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "嘉禾望岗(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "643953",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁2号线(广州南站--嘉禾望岗);地铁3号线(北延段)(体育西路--机场北(2号航站楼))",
+            "x": "113.289243",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁2号线;地铁3号线(北延段)",
+            "businfo_station_status": "1;1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074701;900000099909",
+            "businfo_line_shields": "14号线;14号线二期",
+            "businfo_line_types": "2;2",
+            "y": "23.237437",
+            "businfo_line_alias": "14号线;(在建)14号线二期",
+            "businfo_stationids": "900000074701001;900000099909009",
+            "businfo_ui_colors": "871C2A;871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "90.435237",
+            "businfo_expect_dates": ";预计2025年开通",
+            "poiid": "BS12456994",
+            "poiid2": "BV10024352",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "嘉禾望岗(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "620681",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁14号线(嘉禾望岗--东风);(在建)地铁14号线二期(广州火车站--嘉禾望岗)",
+            "x": "113.288956",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁14号线;(在建)地铁14号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074702;900000099908",
+            "businfo_line_shields": "14号线;14号线二期",
+            "businfo_line_types": "2;2",
+            "y": "23.237437",
+            "businfo_line_alias": "14号线;(在建)14号线二期",
+            "businfo_stationids": "900000074702013;900000099908001",
+            "businfo_ui_colors": "871C2A;871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-89.564763",
+            "businfo_expect_dates": ";预计2025年开通",
+            "poiid": "BS12456993",
+            "poiid2": "BV10024352",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "嘉禾望岗(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "620681",
+            "bus_alias": "C",
+            "businfo_line_names": "地铁14号线(东风--嘉禾望岗);(在建)地铁14号线二期(嘉禾望岗--广州火车站)",
+            "x": "113.288956",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁14号线;(在建)地铁14号线二期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440100023309;440100023031",
+            "businfo_line_shields": "2号线;3号线",
+            "businfo_line_types": "2;2",
+            "y": "23.237460",
+            "businfo_line_alias": "2号线;3号线北延段",
+            "businfo_stationids": "440100023309002;440100023031006",
+            "businfo_ui_colors": "0065B3;FFA500",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-90.000951",
+            "businfo_expect_dates": ";",
+            "poiid": "BS10047466",
+            "poiid2": "BV10024352",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "嘉禾望岗(地铁站)",
+            "businfo_mesh": "F49F010043",
+            "businfo_road_id": "643953",
+            "bus_alias": "D",
+            "businfo_line_names": "地铁2号线(嘉禾望岗--广州南站);地铁3号线(北延段)(机场北(2号航站楼)--体育西路)",
+            "x": "113.289243",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁2号线;地铁3号线(北延段)",
+            "businfo_station_status": "1;1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.289243",
+        "review_total": "486",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10024352",
+        "name": "嘉禾望岗(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074702;900000099908|900000074701;900000099909|440100023309;440100023031|440100023308;440100023032",
+          "display_x": "113.289243",
+          "display_y": "23.237460",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS12456993|BS12456994|BS10047466|BS10047465",
+          "businfo_line_alias": "14号线;(在建)14号线二期|14号线;(在建)14号线二期|2号线;3号线北延段|2号线;3号线北延段",
+          "businfo_ui_colors": "871C2A;871C2A|871C2A;871C2A|0065B3;FFA500|0065B3;FFA500",
+          "businfo_alias": "",
+          "businfo_angles": "-89.564763|90.435237|-90.000951|89.882350",
+          "businfo_line_names": "地铁14号线(东风--嘉禾望岗);(在建)地铁14号线二期(嘉禾望岗--广州火车站)|地铁14号线(嘉禾望岗--东风);(在建)地铁14号线二期(广州火车站--嘉禾望岗)|地铁2号线(嘉禾望岗--广州南站);地铁3号线(北延段)(机场北(2号航站楼)--体育西路)|地铁2号线(广州南站--嘉禾望岗);地铁3号线(北延段)(体育西路--机场北(2号航站楼))",
+          "businfo_stationids": "900000074702013;900000099908001|900000074701001;900000099909009|440100023309002;440100023031006|440100023308025;440100023032011",
+          "businfo_line_types": "2;2|2;2|2;2|2;2",
+          "businfo_road_ids": "620681|620681|643953|643953",
+          "businfo_station_status": "1;3|1;3|1;1|1;1",
+          "businfo_meshs": "F49F010043|F49F010043|F49F010043|F49F010043",
+          "xs": "113.288956|113.288956|113.289243|113.289243",
+          "ys": "23.237437|23.237437|23.237460|23.237460",
+          "businfo_line_keys": "地铁14号线;(在建)地铁14号线二期|地铁14号线;(在建)地铁14号线二期|地铁2号线;地铁3号线(北延段)|地铁2号线;地铁3号线(北延段)",
+          "businfo_expect_dates": ";预计2025年开通|;预计2025年开通|;|;",
+          "businfo_realbus": "0;0|0;0|0;0|0;0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10024352/comment/52aba56c55813b6bec14a7e21c4f616e_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.237603+++23.237159+++23.237547+++23.236236+++23.235960+++23.237902+++23.237061+++23.236978",
+            "poiids": "BX10017979+++BX10017978+++BX10026365+++BX10026368+++BX10026364+++BX10026366+++BX10026367+++BX10026363",
+            "name": "parent_other_rel",
+            "pxs": "113.289399+++113.289401+++113.288760+++113.288633+++113.288909+++113.289007+++113.288770+++113.289006",
+            "childtype": "107+++107+++107+++107+++107+++107+++107+++107",
+            "poiname": "嘉禾望岗地铁站B口+++嘉禾望岗地铁站A口+++嘉禾望岗地铁站D口+++嘉禾望岗地铁站G口+++嘉禾望岗地铁站H口+++嘉禾望岗地铁站C口+++嘉禾望岗地铁站E口+++嘉禾望岗地铁站F口",
+            "address": "14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段+++14号线;2号线;3号线北延段",
+            "shortname": "B口+++A口+++D口+++G口+++H口+++C口+++E口+++F口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "嘉禾望岗(地铁站)",
+        "cpdata": "",
+        "latitude": "23.237460",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "14号线支线/知识城线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.509218",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10027902",
+        "name": "枫下地铁站C2口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074703;900000074704",
+          "businfo_landmark_poiids": "B0FFMFBB8I;BV11625080;BV10513571;B0FFIVX3VO;B0FFL7YTGH;B0G0DH9IZ7",
+          "businfo_line_alias": "14号线支线/知识城线;14号线支线/知识城线",
+          "businfo_exit_status": "1",
+          "eys": "23.362759",
+          "businfo_station_name_en": "Fengxia",
+          "businfo_stationids": "900000074703004;900000074704017",
+          "businfo_ui_colors": "871C2A;871C2A",
+          "businfo_exitids": "90000007470300403;90000007470401704",
+          "poiid1s": "BT10027901",
+          "exs": "113.509218",
+          "businfo_station_name": "枫下",
+          "businfo_line_names": "地铁14号线支线(知识城线)(新和--镇龙);地铁14号线支线(知识城线)(镇龙--新和)",
+          "businfo_line_keys": "地铁14号线支线(知识城线);地铁14号线支线(知识城线)",
+          "businfo_station_poiid2": "BV10851512"
+        },
+        "adcode": "440112",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "枫下地铁站C2口",
+        "cpdata": "",
+        "latitude": "23.362759",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "14号线;14号线支线/知识城线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.466041",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10024501",
+        "name": "新和地铁站C口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074701;900000074702;900000074703;900000074704",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "14号线;14号线;14号线支线/知识城线;14号线支线/知识城线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "900000074701008;900000074702006;900000074703001;900000074704020",
+          "eys": "23.413395",
+          "businfo_ui_colors": "871C2A;871C2A;871C2A;871C2A",
+          "businfo_exitids": "90000007470100801;90000007470200602;90000007470300102;90000007470402003",
+          "poiid1s": "BT10024500",
+          "exs": "113.466041",
+          "businfo_station_name": "新和",
+          "businfo_line_names": "地铁14号线(嘉禾望岗--东风);地铁14号线(东风--嘉禾望岗);地铁14号线支线(知识城线)(新和--镇龙);地铁14号线支线(知识城线)(镇龙--新和)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁14号线;地铁14号线;地铁14号线支线(知识城线);地铁14号线支线(知识城线)",
+          "businfo_station_name_en": "Xinhe",
+          "businfo_station_poiid2": "BV10851528"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "新和地铁站C口",
+        "cpdata": "",
+        "latitude": "23.413395",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "14号线;14号线支线/知识城线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074701;900000074703",
+            "businfo_line_shields": "14号线;14号线支",
+            "businfo_line_types": "2;2",
+            "y": "23.413259",
+            "businfo_line_alias": "14号线;14号线支线/知识城线",
+            "businfo_stationids": "900000074701008;900000074703001",
+            "businfo_ui_colors": "871C2A;871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "40.088653",
+            "businfo_expect_dates": ";",
+            "poiid": "BS12145063",
+            "poiid2": "BV10851528",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新和(地铁站)",
+            "businfo_mesh": "F49F008044",
+            "businfo_road_id": "604471",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁14号线(嘉禾望岗--东风);地铁14号线支线(知识城线)(新和--镇龙)",
+            "x": "113.467060",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁14号线;地铁14号线支线(知识城线)",
+            "businfo_station_status": "1;1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074702;900000074704",
+            "businfo_line_shields": "14号线;14号线支",
+            "businfo_line_types": "2;2",
+            "y": "23.413259",
+            "businfo_line_alias": "14号线;14号线支线/知识城线",
+            "businfo_stationids": "900000074702006;900000074704020",
+            "businfo_ui_colors": "871C2A;871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-139.862703",
+            "businfo_expect_dates": ";",
+            "poiid": "BS12145062",
+            "poiid2": "BV10851528",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "新和(地铁站)",
+            "businfo_mesh": "F49F008044",
+            "businfo_road_id": "604471",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁14号线(东风--嘉禾望岗);地铁14号线支线(知识城线)(镇龙--新和)",
+            "x": "113.467060",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁14号线;地铁14号线支线(知识城线)",
+            "businfo_station_status": "1;1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.467060",
+        "review_total": "65",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10851528",
+        "name": "新和(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074701;900000074703|900000074702;900000074704",
+          "display_x": "113.467060",
+          "display_y": "23.413259",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS12145063|BS12145062",
+          "businfo_line_alias": "14号线;14号线支线/知识城线|14号线;14号线支线/知识城线",
+          "businfo_ui_colors": "871C2A;871C2A|871C2A;871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "40.088653|-139.862703",
+          "businfo_line_names": "地铁14号线(嘉禾望岗--东风);地铁14号线支线(知识城线)(新和--镇龙)|地铁14号线(东风--嘉禾望岗);地铁14号线支线(知识城线)(镇龙--新和)",
+          "businfo_stationids": "900000074701008;900000074703001|900000074702006;900000074704020",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "604471|604471",
+          "businfo_station_status": "1;1|1;1",
+          "businfo_meshs": "F49F008044|F49F008044",
+          "xs": "113.467060|113.467060",
+          "ys": "23.413259|23.413259",
+          "businfo_line_keys": "地铁14号线;地铁14号线支线(知识城线)|地铁14号线;地铁14号线支线(知识城线)",
+          "businfo_expect_dates": ";|;",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10851528/comment/ea4a058eef8b95c0ae38ac88b455c581_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.412846+++23.413395+++23.413730",
+            "poiids": "BX10024500+++BX10024501+++BX10024499",
+            "name": "parent_other_rel",
+            "pxs": "113.466497+++113.466041+++113.467554",
+            "childtype": "107+++107+++107",
+            "poiname": "新和地铁站A口+++新和地铁站C口+++新和地铁站B口",
+            "address": "14号线;14号线支线/知识城线+++14号线;14号线支线/知识城线+++14号线;14号线支线/知识城线",
+            "shortname": "A口+++C口+++B口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "新和(地铁站)",
+        "cpdata": "",
+        "latitude": "23.413259",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "14号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074702",
+            "businfo_line_shields": "14号线",
+            "businfo_line_types": "2",
+            "y": "23.501199",
+            "businfo_line_alias": "14号线",
+            "businfo_stationids": "900000074702003",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-158.746025",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895389",
+            "poiid2": "BV10851516",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "赤草(地铁站)",
+            "businfo_mesh": "F49F006045",
+            "businfo_road_id": "7695",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁14号线(东风--嘉禾望岗)",
+            "x": "113.560204",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074701",
+            "businfo_line_shields": "14号线",
+            "businfo_line_types": "2",
+            "y": "23.501199",
+            "businfo_line_alias": "14号线",
+            "businfo_stationids": "900000074701011",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "20.916052",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895390",
+            "poiid2": "BV10851516",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "赤草(地铁站)",
+            "businfo_mesh": "F49F006045",
+            "businfo_road_id": "7695",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁14号线(嘉禾望岗--东风)",
+            "x": "113.560204",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.560204",
+        "review_total": "14",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10851516",
+        "name": "赤草(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074701|900000074702",
+          "display_x": "113.560204",
+          "display_y": "23.501199",
+          "businfo_ids": "BS11895390|BS11895389",
+          "businfo_line_alias": "14号线|14号线",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "20.916052|-158.746025",
+          "businfo_line_names": "地铁14号线(嘉禾望岗--东风)|地铁14号线(东风--嘉禾望岗)",
+          "businfo_stationids": "900000074701011|900000074702003",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "7695|7695",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F006045|F49F006045",
+          "xs": "113.560204|113.560204",
+          "ys": "23.501199|23.501199",
+          "businfo_line_keys": "地铁14号线|地铁14号线",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440117",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10851516/comment/bab7020135a4e4c219e302ffcb1cd43d_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.500995+++23.501582+++23.501492+++23.501705",
+            "poiids": "BX10025989+++BX10025988+++BX10025987+++BX10026242",
+            "name": "parent_other_rel",
+            "pxs": "113.559544+++113.559342+++113.560829+++113.559664",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "赤草地铁站A口+++赤草地铁站C口+++赤草地铁站B口+++赤草地铁站出入口",
+            "address": "14号线+++14号线+++14号线+++14号线",
+            "shortname": "A口+++C口+++B口+++出入口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "赤草(地铁站)",
+        "cpdata": "",
+        "latitude": "23.501199",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "14号线支线/知识城线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.486688",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10024498",
+        "name": "红卫地铁站B2口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.398800050394755",
+            "longitude": "113.48666275026676"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074703;900000074704",
+          "businfo_landmark_poiids": "BV11632362;BV11575187;B0GUR9QWJG;BV10017618;B00141TQD8;B00141ID48",
+          "businfo_line_alias": "14号线支线/知识城线;14号线支线/知识城线",
+          "businfo_exit_status": "1",
+          "eys": "23.398108",
+          "businfo_station_name_en": "Hongwei",
+          "businfo_stationids": "900000074703002;900000074704019",
+          "businfo_ui_colors": "871C2A;871C2A",
+          "businfo_exitids": "90000007470300203;90000007470401903",
+          "poiid1s": "BT10024497",
+          "exs": "113.486688",
+          "businfo_station_name": "红卫",
+          "businfo_line_names": "地铁14号线支线(知识城线)(新和--镇龙);地铁14号线支线(知识城线)(镇龙--新和)",
+          "businfo_line_keys": "地铁14号线支线(知识城线);地铁14号线支线(知识城线)",
+          "businfo_station_poiid2": "BV10851510"
+        },
+        "adcode": "440112",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "红卫地铁站B2口",
+        "cpdata": "",
+        "latitude": "23.398108",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "14号线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.317030",
+        "review_total": "5",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10026002",
+        "name": "白云东平地铁站F口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.250380993999272",
+            "longitude": "113.31692384653535"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074701;900000074702",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "14号线;14号线",
+          "businfo_exit_status": "1",
+          "eys": "23.250554",
+          "businfo_station_name_en": "Baiyun Dongping",
+          "businfo_stationids": "900000074701002;900000074702012",
+          "businfo_ui_colors": "871C2A;871C2A",
+          "businfo_exitids": "90000007470100201;90000007470201202",
+          "poiid1s": "BT10026001",
+          "exs": "113.31703",
+          "businfo_station_name": "白云东平",
+          "businfo_line_names": "地铁14号线(嘉禾望岗--东风);地铁14号线(东风--嘉禾望岗)",
+          "businfo_line_keys": "地铁14号线;地铁14号线",
+          "businfo_station_poiid2": "BV10851523"
+        },
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/e333213fb7f43b0e780a644539355c39",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "白云东平地铁站F口",
+        "cpdata": "",
+        "latitude": "23.250554",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "020",
+        "address": "嘉禾望岗华英路8号(嘉禾望岗地铁站H口旁)",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.289076",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0FFL1HXX2",
+        "name": "华隧建设集团股份有限公司广州市轨道交通十四号线二期工程总承包部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.235777",
+            "longitude": "113.289022"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/c29387be2c39847ea82193fba7e7ac93",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "华隧建设集团股份有限公司广州市轨道交通十四号线二期工程总承包部",
+        "cpdata": "",
+        "latitude": "23.235647",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "020",
+        "address": "彭西新村六街2-1",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.280286",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0I2ZROPZH",
+        "name": "广州市轨道交通十四号线二期工程总承包项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "23.228169",
+            "longitude": "113.280362"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440111",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://s-pic.oss-cn-beijing.aliyuncs.com/desensitize/images/publish/985ee57d21f0c135cef4772ca0a80309.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "广州市轨道交通十四号线二期工程总承包项目经理部",
+        "cpdata": "",
+        "latitude": "23.228028",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "14号线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074701",
+            "businfo_line_shields": "14号线",
+            "businfo_line_types": "2",
+            "y": "23.452090",
+            "businfo_line_alias": "14号线",
+            "businfo_stationids": "900000074701009",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "77.312944",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895384",
+            "poiid2": "BV10851513",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "太平(地铁站)",
+            "businfo_mesh": "F49F007044",
+            "businfo_road_id": "609843",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁14号线(嘉禾望岗--东风)",
+            "x": "113.491955",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074702",
+            "businfo_line_shields": "14号线",
+            "businfo_line_types": "2",
+            "y": "23.452090",
+            "businfo_line_alias": "14号线",
+            "businfo_stationids": "900000074702005",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-102.469608",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895383",
+            "poiid2": "BV10851513",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "太平(地铁站)",
+            "businfo_mesh": "F49F007044",
+            "businfo_road_id": "609843",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁14号线(东风--嘉禾望岗)",
+            "x": "113.491955",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.491955",
+        "review_total": "42",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10851513",
+        "name": "太平(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074701|900000074702",
+          "display_x": "113.491955",
+          "display_y": "23.452090",
+          "businfo_ids": "BS11895384|BS11895383",
+          "businfo_line_alias": "14号线|14号线",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "77.312944|-102.469608",
+          "businfo_line_names": "地铁14号线(嘉禾望岗--东风)|地铁14号线(东风--嘉禾望岗)",
+          "businfo_stationids": "900000074701009|900000074702005",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "609843|609843",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F007044|F49F007044",
+          "xs": "113.491955|113.491955",
+          "ys": "23.452090|23.452090",
+          "businfo_line_keys": "地铁14号线|地铁14号线",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440117",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10851513/comment/a47ada282aaa0cbf9ba90db400ce6b02_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.452187+++23.453032",
+            "poiids": "BX10025986+++BX10025985",
+            "name": "parent_other_rel",
+            "pxs": "113.491550+++113.492521",
+            "childtype": "107+++107",
+            "poiname": "太平地铁站A口+++太平地铁站B口",
+            "address": "14号线+++14号线",
+            "shortname": "A口+++B口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "太平(地铁站)",
+        "cpdata": "",
+        "latitude": "23.452090",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "020",
+        "cityname": "广州市",
+        "address": "14号线支线/知识城线",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074704",
+            "businfo_line_shields": "14号线支",
+            "businfo_line_types": "2",
+            "y": "23.399261",
+            "businfo_line_alias": "14号线支线/知识城线",
+            "businfo_stationids": "900000074704019",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "110.835950",
+            "businfo_expect_dates": "",
+            "poiid": "BS12145061",
+            "poiid2": "BV10851510",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "红卫(地铁站)",
+            "businfo_mesh": "F49F008044",
+            "businfo_road_id": "616349",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁14号线支线(知识城线)(镇龙--新和)",
+            "x": "113.487415",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线支线(知识城线)",
+            "businfo_station_status": "1"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000074703",
+            "businfo_line_shields": "14号线支",
+            "businfo_line_types": "2",
+            "y": "23.399261",
+            "businfo_line_alias": "14号线支线/知识城线",
+            "businfo_stationids": "900000074703002",
+            "businfo_ui_colors": "871C2A",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-69.244470",
+            "businfo_expect_dates": "",
+            "poiid": "BS11895378",
+            "poiid2": "BV10851510",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "红卫(地铁站)",
+            "businfo_mesh": "F49F008044",
+            "businfo_road_id": "616349",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁14号线支线(知识城线)(新和--镇龙)",
+            "x": "113.487415",
+            "businfo_realbus": "0",
+            "businfo_line_keys": "地铁14号线支线(知识城线)",
+            "businfo_station_status": "1"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.487415",
+        "review_total": "15",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10851510",
+        "name": "红卫(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000074703|900000074704",
+          "display_x": "113.487415",
+          "display_y": "23.399261",
+          "barrier_free_flag": "1",
+          "businfo_ids": "BS11895378|BS12145061",
+          "businfo_line_alias": "14号线支线/知识城线|14号线支线/知识城线",
+          "businfo_ui_colors": "871C2A|871C2A",
+          "businfo_alias": "",
+          "businfo_angles": "-69.244470|110.835950",
+          "businfo_line_names": "地铁14号线支线(知识城线)(新和--镇龙)|地铁14号线支线(知识城线)(镇龙--新和)",
+          "businfo_stationids": "900000074703002|900000074704019",
+          "businfo_line_types": "2|2",
+          "businfo_road_ids": "616349|616349",
+          "businfo_station_status": "1|1",
+          "businfo_meshs": "F49F008044|F49F008044",
+          "xs": "113.487415|113.487415",
+          "ys": "23.399261|23.399261",
+          "businfo_line_keys": "地铁14号线支线(知识城线)|地铁14号线支线(知识城线)",
+          "businfo_expect_dates": " | ",
+          "businfo_realbus": "0|0"
+        },
+        "adcode": "440112",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10851510/comment/accfecdac4d033b5152ab40eaa32bff3_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "23.399673+++23.398447+++23.398108",
+            "poiids": "BX10024497+++BX10024496+++BX10024498",
+            "name": "parent_other_rel",
+            "pxs": "113.486740+++113.487385+++113.486688",
+            "childtype": "107+++107+++107",
+            "poiname": "红卫地铁站A口+++红卫地铁站B1口+++红卫地铁站B2口",
+            "address": "14号线支线/知识城线+++14号线支线/知识城线+++14号线支线/知识城线",
+            "shortname": "A口+++B1口+++B2口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "红卫(地铁站)",
+        "cpdata": "",
+        "latitude": "23.399261",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "020",
+        "address": "14号线支线/知识城线;21号线",
+        "cityname": "广州市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.593335",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX10024769",
+        "name": "镇龙地铁站C口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000046003;900000046004;900000074703;900000074704",
+          "businfo_landmark_poiids": "B0GR1CZ3VX;B0FFJHTTYD;B0GRUD5QWF",
+          "businfo_line_alias": "21号线;21号线;14号线支线/知识城线;14号线支线/知识城线",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "900000046003007;900000046004014;900000074703010;900000074704011",
+          "eys": "23.284814",
+          "businfo_ui_colors": "0C1335;0C1335;871C2A;871C2A",
+          "businfo_exitids": "90000004600300703;90000004600401403;90000007470301003;90000007470401104",
+          "poiid1s": "BT10024768",
+          "exs": "113.593335",
+          "businfo_station_name": "镇龙",
+          "businfo_line_names": "地铁21号线(增城广场--员村);地铁21号线(员村--增城广场);地铁14号线支线(知识城线)(新和--镇龙);地铁14号线支线(知识城线)(镇龙--新和)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁21号线;地铁21号线;地铁14号线支线(知识城线);地铁14号线支线(知识城线)",
+          "businfo_station_name_en": "Zhenlong",
+          "businfo_station_poiid2": "BV10593235"
+        },
+        "adcode": "440112",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "镇龙地铁站C口",
+        "cpdata": "",
+        "latitude": "23.284814",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}

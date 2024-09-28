@@ -1,0 +1,2735 @@
+{
+  "status": "1",
+  "searchOpt": {
+    "city": "440300",
+    "pageSize": "20",
+    "pageIndex": "1",
+    "ac": "false",
+    "keyword": "地铁8号线三期",
+    "type": "4"
+  },
+  "data": {
+    "codepoint": 0,
+    "code": "1",
+    "suggestion": {},
+    "timestamp": "1727445017.65",
+    "lqii": {
+      "ppinfo": "[]",
+      "cache_directive": {
+        "cache_filter": {
+          "flag": "1",
+          "expires": "24"
+        },
+        "cache_all": {
+          "flag": "0"
+        }
+      },
+      "query_intent": {
+        "cate_list": "",
+        "type": "1000",
+        "cate": "",
+        "cate_ext": ""
+      },
+      "city_info_attr": {
+        "map_view_city": "440300",
+        "target_city": "4403",
+        "user_loc_city": ""
+      },
+      "brand_family": {
+        "brandname": "",
+        "brandcode": ""
+      },
+      "general_query_result": "0",
+      "general_flag": "",
+      "auto_query_cate_v3_full": "",
+      "specialclassify": "0",
+      "view_region": "113.889213600,22.702479400,114.459410400,22.478218600",
+      "smartspot": "0",
+      "suggestcontent": "",
+      "category_brand_recognition_result": "0",
+      "rank_info_query": "{\"query_type\":\"tquery\",\"rank_center_xy\":\"\",\"selected_qlineinfo\":\"440300||||0|0\"}",
+      "rank_info": "",
+      "pdheatmap": "",
+      "render_name_flag": "1",
+      "auto_query_cate_v2_full": "",
+      "is_current_city": "2",
+      "expand_range_tip": "",
+      "fan_query_ner": "",
+      "industry_info": null,
+      "suggest_query": {
+        "data": [],
+        "col": "",
+        "row": ""
+      },
+      "change_query_tip": "",
+      "qline_id": "8188330578440615398_sc-00|ia-po|sy-no|si-po|ci-440300|tg-or",
+      "is_tupu_sug": "0",
+      "has_recommend": "0",
+      "brand_intent": {
+        "t_tag": "",
+        "hierarchy_strategy": "0",
+        "cate": "",
+        "hierarchy_idx": "-1",
+        "flag": "0",
+        "query_brand": "",
+        "name": ""
+      },
+      "suggestionview": "0",
+      "show_hand_drawing": "0",
+      "change_query_type": "",
+      "business": "",
+      "auto_query_cate_v1": "出入口=0.435000;交通出行=0.365000;房产=0.130000\u0006出入口|地铁站出入口=0.402000;交通出行|地铁站=0.251000;房产=0.070000",
+      "auto_query_cate_v3": "",
+      "auto_query_cate_v2": "",
+      "auto_query_cate_v2_id": "",
+      "car_icon_flag": "0",
+      "category_brand_recognition_flag": 0,
+      "slayer_type": "none",
+      "show_pic": "",
+      "recall_info": {
+        "query": "keywords:地铁8号线三期",
+        "range": ""
+      },
+      "is_view_city": "1",
+      "querytype": "5",
+      "auto_query_cate": "出入口=0.435000;交通出行=0.365000;房产=0.130000\u0006出入口|地铁站出入口=0.402000;交通出行|地铁站=0.251000;房产=0.070000",
+      "tips_info": {
+        "tips_back_gsid": "",
+        "target_keywords_list": [],
+        "target_city_list": null,
+        "tip_rule": "",
+        "result_city": "深圳市",
+        "result_adcode": "440300"
+      },
+      "ww_info": {
+        "ww": {
+          "t_tag": "",
+          "atag_cid": "",
+          "poiid": ""
+        },
+        "is_ww": false
+      },
+      "self_navigation": "",
+      "rec_pos": {
+        "latlng": ""
+      },
+      "industry_new_info": null,
+      "auto_hit_intent_makeup_dict": "false",
+      "showaoi": "",
+      "utd_sceneid": "1000",
+      "distance_info": "",
+      "slayer": "0",
+      "target_view_city": "",
+      "call_taxi": "0",
+      "preload_next_page": "0",
+      "auto_query_cate_v3_id": "",
+      "magic_box": {},
+      "activity": {
+        "new_year": {
+          "flag": "0",
+          "tip": ""
+        }
+      },
+      "fan_query_insight": ""
+    },
+    "is_general_search": "0",
+    "result": "true",
+    "keywords": "地铁8号线三期",
+    "message": "Successful.",
+    "total": "25",
+    "busline_list": [
+      {
+        "front_name": "溪涌",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "114.360006,114.358267,114.357853,114.34742,114.334089,114.332641,114.331822,114.331445,114.331293,114.33115,114.329776,114.328948,114.327972,114.327466,114.327265,114.327167,114.327069,114.326972,114.326876,114.326781,114.326686,114.326593,114.326501",
+        "id": "900000150277",
+        "terminal_name": "小梅沙",
+        "terminal_spell": "xiao mei sha",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁8号线三期",
+        "start_time": "",
+        "front_spell": "xi yong",
+        "busline_event": "",
+        "ys": "22.612061,22.611318,22.6112,22.609547,22.607702,22.607395,22.607154,22.607025,22.606957,22.606879,22.60582,22.605162,22.604251,22.603588,22.603321,22.603187,22.603052,22.602916,22.602779,22.602642,22.602504,22.602365,22.602226",
+        "total_price": "0",
+        "name": "地铁8号线三期(溪涌--小梅沙)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "溪涌",
+            "station_num": "1",
+            "poiid1": "BS13048450",
+            "start_time": "",
+            "spell": "xi yong",
+            "time_desc_json": "",
+            "station_id": "900000150277001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.360006;22.612061",
+            "poiid2_xy": "114.360006;22.612061",
+            "poiid2": "BV10804220"
+          },
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440308",
+            "navi_poiid": "",
+            "name": "小梅沙",
+            "station_num": "2",
+            "poiid1": "BS09555459",
+            "start_time": "",
+            "spell": "xiao mei sha",
+            "time_desc_json": "",
+            "station_id": "900000150277002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.326501;22.602226",
+            "poiid2_xy": "114.326501;22.602226",
+            "poiid2": "BV10804214"
+          }
+        ],
+        "interval": "",
+        "bounds": "114.326501;22.602226;114.360006;22.612061",
+        "air": "1",
+        "length": "3.740000",
+        "end_time": "",
+        "is_realtime": "0"
+      },
+      {
+        "front_name": "小梅沙",
+        "areacode": "0755",
+        "code": "440300",
+        "xs": "114.326501,114.326686,114.326781,114.326876,114.326972,114.327069,114.327167,114.327265,114.327365,114.327466,114.327972,114.328948,114.329776,114.33115,114.331293,114.331445,114.331822,114.332641,114.334089,114.34742,114.357853,114.358267,114.360006",
+        "id": "900000150276",
+        "terminal_name": "溪涌",
+        "terminal_spell": "xi yong",
+        "basic_price": "0",
+        "type": "2",
+        "company": "",
+        "status": "3",
+        "ic_card": "0",
+        "neareststation": "",
+        "description": "",
+        "key_name": "地铁8号线三期",
+        "start_time": "",
+        "front_spell": "xiao mei sha",
+        "busline_event": "",
+        "ys": "22.602226,22.602504,22.602642,22.602779,22.602916,22.603052,22.603187,22.603321,22.603455,22.603588,22.604251,22.605162,22.60582,22.606879,22.606957,22.607025,22.607154,22.607395,22.607702,22.609547,22.6112,22.611318,22.612061",
+        "total_price": "0",
+        "name": "地铁8号线三期(小梅沙--溪涌)",
+        "auto": "0",
+        "stations": [
+          {
+            "status": "3",
+            "trans_flag": "",
+            "code": "440308",
+            "navi_poiid": "",
+            "name": "小梅沙",
+            "station_num": "1",
+            "poiid1": "BS09555460",
+            "start_time": "",
+            "spell": "xiao mei sha",
+            "time_desc_json": "",
+            "station_id": "900000150276001",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.326501;22.602226",
+            "poiid2_xy": "114.326501;22.602226",
+            "poiid2": "BV10804214"
+          },
+          {
+            "status": "3",
+            "trans_flag": "0",
+            "code": "440307",
+            "navi_poiid": "",
+            "name": "溪涌",
+            "station_num": "2",
+            "poiid1": "BS13048449",
+            "start_time": "",
+            "spell": "xi yong",
+            "time_desc_json": "",
+            "station_id": "900000150276002",
+            "pics": "[]",
+            "navi_poiname": "",
+            "end_time": "",
+            "navi_poiside": "",
+            "xy_coords": "114.360006;22.612061",
+            "poiid2_xy": "114.360006;22.612061",
+            "poiid2": "BV10804220"
+          }
+        ],
+        "interval": "",
+        "bounds": "114.326501;22.602226;114.360006;22.612061",
+        "air": "1",
+        "length": "3.740000",
+        "end_time": "",
+        "is_realtime": "0"
+      }
+    ],
+    "bus_list": [],
+    "general_flag": "0",
+    "bounds": "113.936730;22.496907;114.411894;22.683791",
+    "version": "2.0-3.0.4074.1742",
+    "busline_count": "2",
+    "magicbox_data": {},
+    "interior_count": "0",
+    "poi_list": [
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)8号线三期;2号线(8号线)",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024076;900000150276",
+            "businfo_line_shields": "2号线;8号线三期",
+            "businfo_line_types": "2;2",
+            "y": "22.602226",
+            "businfo_line_alias": "2号线(8号线);(在建)8号线三期",
+            "businfo_stationids": "440300024076043;900000150276001",
+            "businfo_ui_colors": "B35A1F;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "47.330706",
+            "businfo_expect_dates": ";预计2026年开通",
+            "poiid": "BS09555460",
+            "poiid2": "BV10804214",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "小梅沙(地铁站)",
+            "businfo_mesh": "F50F017003",
+            "businfo_road_id": "617923",
+            "bus_alias": "A",
+            "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);(在建)地铁8号线三期(小梅沙--溪涌)",
+            "x": "114.326501",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁2号线(8号线);(在建)地铁8号线三期",
+            "businfo_station_status": "1;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "440300024077;900000150277",
+            "businfo_line_shields": "2号线;8号线三期",
+            "businfo_line_types": "2;2",
+            "y": "22.602226",
+            "businfo_line_alias": "2号线(8号线);(在建)8号线三期",
+            "businfo_stationids": "440300024077040;900000150277002",
+            "businfo_ui_colors": "B35A1F;AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-132.669294",
+            "businfo_expect_dates": ";预计2026年开通",
+            "poiid": "BS09555459",
+            "poiid2": "BV10804214",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "小梅沙(地铁站)",
+            "businfo_mesh": "F50F017003",
+            "businfo_road_id": "617923",
+            "bus_alias": "B",
+            "businfo_line_names": "地铁2号线(8号线)(小梅沙--赤湾);(在建)地铁8号线三期(溪涌--小梅沙)",
+            "x": "114.326501",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "地铁2号线(8号线);(在建)地铁8号线三期",
+            "businfo_station_status": "1;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.326501",
+        "review_total": "58",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10804214",
+        "name": "小梅沙(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024077;900000150277|440300024076;900000150276",
+          "display_x": "114.326501",
+          "display_y": "22.602226",
+          "businfo_ids": "BS09555459|BS09555460",
+          "businfo_line_alias": "2号线(8号线);(在建)8号线三期|2号线(8号线);(在建)8号线三期",
+          "businfo_ui_colors": "B35A1F;AAAAAA|B35A1F;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-132.669294|47.330706",
+          "businfo_line_names": "地铁2号线(8号线)(小梅沙--赤湾);(在建)地铁8号线三期(溪涌--小梅沙)|地铁2号线(8号线)(赤湾--小梅沙);(在建)地铁8号线三期(小梅沙--溪涌)",
+          "businfo_stationids": "440300024077040;900000150277002|440300024076043;900000150276001",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "617923|617923",
+          "businfo_station_status": "1;3|1;3",
+          "businfo_meshs": "F50F017003|F50F017003",
+          "xs": "114.326501|114.326501",
+          "ys": "22.602226|22.602226",
+          "businfo_line_keys": "地铁2号线(8号线);(在建)地铁8号线三期|地铁2号线(8号线);(在建)地铁8号线三期",
+          "businfo_expect_dates": ";预计2026年开通|;预计2026年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440308",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BV10804214/comment/09fec5e761d76ad67c8eabf5f9481bd1_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.601626+++22.602935+++22.602295+++22.602501",
+            "poiids": "BX09906251+++BX09906252+++BX09906253+++BX09906250",
+            "name": "parent_other_rel",
+            "pxs": "114.325862+++114.327345+++114.327021+++114.326107",
+            "childtype": "107+++107+++107+++107",
+            "poiname": "小梅沙地铁站A口+++小梅沙地铁站C口+++小梅沙地铁站B口+++小梅沙地铁站D口",
+            "address": "2号线(8号线)+++2号线(8号线)+++2号线(8号线)+++2号线(8号线)",
+            "shortname": "A口+++C口+++B口+++D口",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "小梅沙(地铁站)",
+        "cpdata": "",
+        "latitude": "22.602226",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150500",
+        "areacode": "0755",
+        "cityname": "深圳市",
+        "address": "(在建)32号线;(在建)8号线三期",
+        "child_stations": [
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000216897;900000150276",
+            "businfo_line_shields": "32号线;8号线三期",
+            "businfo_line_types": "2;2",
+            "y": "22.612061",
+            "businfo_line_alias": "(在建)32号线;(在建)8号线三期",
+            "businfo_stationids": "900000216897001;900000150276002",
+            "businfo_ui_colors": ";AAAAAA",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "28.677426",
+            "businfo_expect_dates": ";预计2026年开通",
+            "poiid": "BS13048449",
+            "poiid2": "BV10804220",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "溪涌(地铁站)",
+            "businfo_mesh": "F50F017003",
+            "businfo_road_id": "609148",
+            "bus_alias": "A",
+            "businfo_line_names": "(在建)地铁32号线(溪涌--葵涌东);(在建)地铁8号线三期(小梅沙--溪涌)",
+            "x": "114.360006",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁32号线;(在建)地铁8号线三期",
+            "businfo_station_status": "3;3"
+          },
+          {
+            "navi_poiname": "",
+            "businfo_lineids": "900000150277;900000216896",
+            "businfo_line_shields": "8号线三期;32号线",
+            "businfo_line_types": "2;2",
+            "y": "22.612061",
+            "businfo_line_alias": "(在建)8号线三期;(在建)32号线",
+            "businfo_stationids": "900000150277001;900000216896005",
+            "businfo_ui_colors": "AAAAAA;",
+            "new_type": "150500",
+            "navi_poiside": "",
+            "businfo_angles": "-151.322574",
+            "businfo_expect_dates": "预计2026年开通;",
+            "poiid": "BS13048450",
+            "poiid2": "BV10804220",
+            "businfo_alias": "",
+            "navi_poiid": "",
+            "name": "溪涌(地铁站)",
+            "businfo_mesh": "F50F017003",
+            "businfo_road_id": "609148",
+            "bus_alias": "B",
+            "businfo_line_names": "(在建)地铁8号线三期(溪涌--小梅沙);(在建)地铁32号线(葵涌东--溪涌)",
+            "x": "114.360006",
+            "businfo_realbus": "0;0",
+            "businfo_line_keys": "(在建)地铁8号线三期;(在建)地铁32号线",
+            "businfo_station_status": "3;3"
+          }
+        ],
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.360006",
+        "review_total": "1",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BV10804220",
+        "name": "溪涌(地铁站)",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "900000150277;900000216896|900000216897;900000150276",
+          "display_x": "114.360006",
+          "display_y": "22.612061",
+          "businfo_ids": "BS13048450|BS13048449",
+          "businfo_line_alias": "(在建)8号线三期;(在建)32号线|(在建)32号线;(在建)8号线三期",
+          "businfo_ui_colors": "AAAAAA;|;AAAAAA",
+          "businfo_alias": "",
+          "businfo_angles": "-151.322574|28.677426",
+          "businfo_line_names": "(在建)地铁8号线三期(溪涌--小梅沙);(在建)地铁32号线(葵涌东--溪涌)|(在建)地铁32号线(溪涌--葵涌东);(在建)地铁8号线三期(小梅沙--溪涌)",
+          "businfo_stationids": "900000150277001;900000216896005|900000216897001;900000150276002",
+          "businfo_line_types": "2;2|2;2",
+          "businfo_road_ids": "609148|609148",
+          "businfo_station_status": "3;3|3;3",
+          "businfo_meshs": "F50F017003|F50F017003",
+          "xs": "114.360006|114.360006",
+          "ys": "22.612061|22.612061",
+          "businfo_line_keys": "(在建)地铁8号线三期;(在建)地铁32号线|(在建)地铁32号线;(在建)地铁8号线三期",
+          "businfo_expect_dates": "预计2026年开通;|;预计2026年开通",
+          "businfo_realbus": "0;0|0;0"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150500",
+        "disp_name": "溪涌(地铁站)",
+        "cpdata": "",
+        "latitude": "22.612061",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "18300005075",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "S30惠深沿海高速出口与S30惠深沿海高速交叉口西北240米",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "114.358990,22.613271,114.359696,22.612465",
+        "longitude": "114.359361",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H3AUDF8S",
+        "name": "中铁一局集团有限公司-深圳地铁8号线三期工程项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.613290",
+            "longitude": "114.359414"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "value": "114.359696,22.612475_114.359372,22.612465_114.35899,22.612526_114.359124,22.613205_114.359174,22.613225_114.359215,22.613271_114.359577,22.613193_114.359668,22.612998_114.359696,22.612475",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁一局集团有限公司-深圳地铁8号线三期工程项目部",
+        "cpdata": "",
+        "latitude": "22.612831",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "15797728403",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "梅沙街道小梅沙社区海琴道58号1栋",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.323309",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0H2TANOR4",
+        "name": "中铁四局集团深圳地铁8号线三期工程一工区",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.601541",
+            "longitude": "114.32332"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440308",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/e2cfcafd357d1ccc236c8e24a81b84cf",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁四局集团深圳地铁8号线三期工程一工区",
+        "cpdata": "",
+        "latitude": "22.601515",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "13163085879",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "葵涌街道土洋社区土洋中路42号4栋(三楼)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.405704",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0KAN72MBE",
+        "name": "中铁三局深圳地铁8号线三期六工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.615295",
+            "longitude": "114.405547"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁三局深圳地铁8号线三期六工区项目部",
+        "cpdata": "",
+        "latitude": "22.615330",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "坑尾头水库",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.356247",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HKGUEQY0",
+        "name": "中铁一局集团-深圳地铁8号线三期工程出入段线项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.617293",
+            "longitude": "114.356395"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/8457760bcde78eb7d47348cd1fcd855a",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁一局集团-深圳地铁8号线三期工程出入段线项目经理部",
+        "cpdata": "",
+        "latitude": "22.617261",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "三科麓湾以北500米坑尾头水库以南300",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.356719",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HKGRI4MM",
+        "name": "中铁南方投资集团有限公司深圳地铁8号线三期联合体项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.616791",
+            "longitude": "114.356963"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/bdae4de4cc56cc4b8e36263451b1ab70",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁南方投资集团有限公司深圳地铁8号线三期联合体项目经理部",
+        "cpdata": "",
+        "latitude": "22.616735",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "14号线/东部快线;16号线/龙坪线;3号线/龙岗线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.228211",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906675",
+        "name": "大运地铁站8号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.68382886981648",
+            "longitude": "114.22801875638227"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024060;440300024061;900000095033;900000095035;900000095071;900000095072",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "3号线/龙岗线;3号线/龙岗线;14号线/东部快线;14号线/东部快线;16号线/龙坪线;16号线/龙坪线",
+          "businfo_exit_status": "1",
+          "eys": "22.683791",
+          "businfo_station_name_en": "Universiade",
+          "businfo_stationids": "440300024060007;440300024061026;900000095033009;900000095035009;900000095071001;900000095072024",
+          "businfo_ui_colors": "01A2E2;01A2E2;DAC17D;DAC17D;1C24A4;1C24A4",
+          "businfo_exitids": "44030002406000721;44030002406102615;90000009503300902;90000009503500909;90000009507100113;90000009507202412",
+          "poiid1s": "BT09906703",
+          "exs": "114.228211",
+          "businfo_station_name": "大运",
+          "businfo_line_names": "地铁3号线(龙岗线)(双龙--福保);地铁3号线(龙岗线)(福保--双龙);地铁14号线(东部快线)(沙田--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);地铁16号线(龙坪线)(大运--田心);地铁16号线(龙坪线)(田心--大运)",
+          "businfo_line_keys": "地铁3号线(龙岗线);地铁3号线(龙岗线);地铁14号线(东部快线);地铁14号线(东部快线);地铁16号线(龙坪线);地铁16号线(龙坪线)",
+          "businfo_station_poiid2": "BV10249953"
+        },
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "大运地铁站8号口",
+        "cpdata": "",
+        "latitude": "22.683791",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "盐新一路45号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.357821",
+        "review_total": "2",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0I0B5E0MP",
+        "name": "中铁三局深圳地铁八号线三期五工区项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.613160",
+            "longitude": "114.357904"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/eef0498933ca8378e4a336937e31f75f",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁三局深圳地铁八号线三期五工区项目经理部",
+        "cpdata": "",
+        "latitude": "22.613148",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "120302",
+        "areacode": "0755",
+        "address": "工业七路8号(海月地铁站D口步行320米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "113.935615,22.497765,113.937560,22.495789",
+        "longitude": "113.936730",
+        "review_total": "2",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B02F37W7LU",
+        "name": "招商海月花园三期",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.495991",
+            "longitude": "113.936421"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/1c46ace50da09afeccf127f0175dd98e",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "value": "查看出入口、停车场",
+            "name": "parent_info"
+          },
+          {
+            "pys": "22.496327+++22.495991+++22.497671+++22.496169+++22.497548+++22.496296+++22.497704",
+            "poiids": "B0FFF478E7+++B02F37W7LV+++B0FFIVPL63+++B02F37W7LW+++B0FFF4AOOP+++B02F38SK0L+++B02F38SSTV",
+            "name": "parent_other_rel",
+            "pxs": "113.936418+++113.936421+++113.936833+++113.936863+++113.935592+++113.937509+++113.937345",
+            "childtype": "41+++31+++31+++31+++31+++31+++31",
+            "poiname": "海月花园三期停车场+++招商海月花园三期(南1门)+++招商·海月花园三期(侧门)+++招商海月花园三期(东南门)+++招商海月花园3期(北1门)+++海月花园3期(南3门)+++招商海月花园三期(北3门)",
+            "address": "工业七路8号海月花园三期+++工业七路8号招商海月花园三期+++工业七路8号招商海月花园三期+++工业七路8号招商海月花园三期+++工业七路8号招商海月花园三期+++工业七路8号招商海月花园三期+++工业七路8号招商海月花园三期",
+            "shortname": "停车场+++南1门+++侧门+++东南门+++北1门+++南3门+++北3门",
+            "type": "array",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "value": "113.936445,22.495789_113.936175,22.497099_113.935681,22.497011_113.935615,22.497675_113.937378,22.497765_113.93756,22.496054_113.936445,22.495789",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "120302",
+        "disp_name": "招商海月花园三期",
+        "cpdata": "",
+        "latitude": "22.496907",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "葵涌街道溪涌社区溪涌村坑尾头水库南侧",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.356795",
+        "review_total": "3",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0HKYZPV1M",
+        "name": "中铁三局深圳市城市轨道交通8号线三期工程施工总承包四工区项目经理部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.616844",
+            "longitude": "114.356903"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/B0HKYZPV1M/comment/9389e13d570c909d6f0cfa91f121d088_2048_2048_80.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁三局深圳市城市轨道交通8号线三期工程施工总承包四工区项目经理部",
+        "cpdata": "",
+        "latitude": "22.616809",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "第二工业路20号-2栋",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.411894",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0KUCMYMKO",
+        "name": "中铁二局集团电务工程有限公司深圳市城市轨道交通8号线三期工程八工区项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.612940",
+            "longitude": "114.411871"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁二局集团电务工程有限公司深圳市城市轨道交通8号线三期工程八工区项目部",
+        "cpdata": "",
+        "latitude": "22.612907",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.034324",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906418",
+        "name": "香梅北地铁站B3口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024076;440300024077",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "2号线(8号线);2号线(8号线)",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024076019;440300024077013",
+          "eys": "22.554188",
+          "businfo_ui_colors": "B35A1F;B35A1F",
+          "businfo_exitids": "44030002407601906;44030002407701306",
+          "poiid1s": "BT09906446",
+          "exs": "114.034324",
+          "businfo_station_name": "香梅北",
+          "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁2号线(8号线);地铁2号线(8号线)",
+          "businfo_station_name_en": "xiangmei north",
+          "businfo_station_poiid2": "BV10243787"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "香梅北地铁站B3口",
+        "cpdata": "",
+        "latitude": "22.554188",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.156720",
+        "review_total": "3",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906763",
+        "name": "莲塘口岸地铁站A3口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024076;440300024077",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "2号线(8号线);2号线(8号线)",
+          "businfo_exit_status": "1",
+          "eys": "22.553606",
+          "businfo_station_name_en": "Liantang Port",
+          "businfo_stationids": "440300024076031;440300024077033",
+          "businfo_ui_colors": "B35A1F;B35A1F",
+          "businfo_exitids": "44030002407603106;44030002407703303",
+          "poiid1s": "BT09906791",
+          "exs": "114.15672",
+          "businfo_station_name": "莲塘口岸",
+          "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾)",
+          "businfo_line_keys": "地铁2号线(8号线);地铁2号线(8号线)",
+          "businfo_station_poiid2": "BV10677095"
+        },
+        "adcode": "440303",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "https://aos-comment.amap.com/BX09906763/comment/content_media_external_images_media_1000044040_ss__1727201188827_77209121.jpg",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "莲塘口岸地铁站A3口",
+        "cpdata": "",
+        "latitude": "22.553606",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "白石三道8号(红树湾地铁站B口步行450米)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.973260",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0K2FML81E",
+        "name": "中铁十一局深圳地铁29号线红树湾南站项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/e80d6319bdcf4cb0ac0e2ca3ef8f02d2",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "中铁十一局深圳地铁29号线红树湾南站项目部",
+        "cpdata": "",
+        "latitude": "22.524966",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "113.940371",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906568",
+        "name": "后海地铁站A3口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024076;440300024077;900000211171",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "2号线(8号线);2号线(8号线);2号线(8号线)",
+          "businfo_exit_status": "1",
+          "eys": "22.516801",
+          "businfo_station_name_en": "houhai",
+          "businfo_stationids": "440300024076010;440300024077022;900000211171002",
+          "businfo_ui_colors": "B35A1F;B35A1F;B35A1F",
+          "businfo_exitids": "44030002407601007;44030002407702209;90000021117100203",
+          "poiid1s": "BT09906596",
+          "exs": "113.940371",
+          "businfo_station_name": "后海",
+          "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+          "businfo_line_keys": "地铁2号线(8号线);地铁2号线(8号线);地铁2号线(8号线)晨曦特快",
+          "businfo_station_poiid2": "BV10249990"
+        },
+        "adcode": "440305",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "后海地铁站A3口",
+        "cpdata": "",
+        "latitude": "22.516801",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.166157",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906824",
+        "name": "仙湖路地铁站C3口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024076;440300024077",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "2号线(8号线);2号线(8号线)",
+          "businfo_exit_status": "1",
+          "eys": "22.564719",
+          "businfo_station_name_en": "Xianhu Road",
+          "businfo_stationids": "440300024076032;440300024077032",
+          "businfo_ui_colors": "B35A1F;B35A1F",
+          "businfo_exitids": "44030002407603205;44030002407703205",
+          "poiid1s": "BT09906852",
+          "exs": "114.166157",
+          "businfo_station_name": "仙湖路",
+          "businfo_line_names": "地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾)",
+          "businfo_line_keys": "地铁2号线(8号线);地铁2号线(8号线)",
+          "businfo_station_poiid2": "BV10677096"
+        },
+        "adcode": "440303",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "仙湖路地铁站C3口",
+        "cpdata": "",
+        "latitude": "22.564719",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "10号线/坂田线;11号线/机场线;14号线/东部快线;2号线(8号线)",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.064220",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906291",
+        "name": "岗厦北地铁站3号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057;440300024076;440300024077;900000055265;900000055266;900000095033;900000095035;900000211171",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线;2号线(8号线);2号线(8号线);10号线/坂田线;10号线/坂田线;14号线/东部快线;14号线/东部快线;2号线(8号线)",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024056027;440300024057027;440300024076024;440300024077008;900000055265004;900000055266020;900000095033017;900000095035001;900000211171006",
+          "eys": "22.540595",
+          "businfo_ui_colors": "741D51;741D51;B35A1F;B35A1F;EA6183;EA6183;DAC17D;DAC17D;B35A1F",
+          "businfo_exitids": "44030002405602731;44030002405702737;44030002407602411;44030002407700819;90000005526500428;90000005526602033;90000009503301708;90000009503500118;90000021117100614",
+          "poiid1s": "BT09906319",
+          "exs": "114.06422",
+          "businfo_station_name": "岗厦北",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北);地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾);地铁10号线(坂田线)(福田口岸--双拥街);地铁10号线(坂田线)(双拥街--福田口岸);地铁14号线(东部快线)(沙田--岗厦北);地铁14号线(东部快线)(岗厦北--沙田);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线);地铁2号线(8号线);地铁2号线(8号线);地铁10号线(坂田线);地铁10号线(坂田线);地铁14号线(东部快线);地铁14号线(东部快线);地铁2号线(8号线)晨曦特快",
+          "businfo_station_name_en": "gangxia north",
+          "businfo_station_poiid2": "BV10249998"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "岗厦北地铁站3号口",
+        "cpdata": "",
+        "latitude": "22.540595",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "150501",
+        "areacode": "0755",
+        "address": "11号线/机场线;2号线(8号线);3号线/龙岗线",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.053169",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "BX09906738",
+        "name": "福田地铁站31号口",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [],
+        "recommend_flag": "0",
+        "exits": [],
+        "stations": {
+          "businfo_lineids": "440300024056;440300024057;440300024060;440300024061;440300024076;440300024077;900000211171",
+          "businfo_landmark_poiids": "",
+          "businfo_line_alias": "11号线/机场线;11号线/机场线;3号线/龙岗线;3号线/龙岗线;2号线(8号线);2号线(8号线);2号线(8号线)",
+          "businfo_exit_status": "1",
+          "businfo_stationids": "440300024056002;440300024057013;440300024060028;440300024061005;440300024076022;440300024077010;900000211171005",
+          "eys": "22.540635",
+          "businfo_ui_colors": "741D51;741D51;01A2E2;01A2E2;B35A1F;B35A1F;B35A1F",
+          "businfo_exitids": "44030002405600226;44030002405701335;44030002406002812;44030002406100512;44030002407602208;44030002407701005;90000021117100507",
+          "poiid1s": "BT09906766",
+          "exs": "114.053169",
+          "businfo_station_name": "福田",
+          "businfo_line_names": "地铁11号线(机场线)(岗厦北--碧头);地铁11号线(机场线)(碧头--岗厦北);地铁3号线(龙岗线)(双龙--福保);地铁3号线(龙岗线)(福保--双龙);地铁2号线(8号线)(赤湾--小梅沙);地铁2号线(8号线)(小梅沙--赤湾);地铁2号线(8号线)晨曦特快(湾厦--大梅沙)",
+          "barrier_free_flag": "1",
+          "businfo_line_keys": "地铁11号线(机场线);地铁11号线(机场线);地铁3号线(龙岗线);地铁3号线(龙岗线);地铁2号线(8号线);地铁2号线(8号线);地铁2号线(8号线)晨曦特快",
+          "businfo_station_name_en": "futian",
+          "businfo_station_poiid2": "BV10249929"
+        },
+        "adcode": "440304",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "150501",
+        "disp_name": "福田地铁站31号口",
+        "cpdata": "",
+        "latitude": "22.540635",
+        "discount_flag": "0"
+      },
+      {
+        "rating": "",
+        "tel": "",
+        "typecode": "170200",
+        "areacode": "0755",
+        "address": "银源街8号",
+        "cityname": "深圳市",
+        "display_brand": "",
+        "shape_region": "",
+        "longitude": "114.223991",
+        "review_total": "",
+        "cinemazuo_flag": "0",
+        "diner_flag": "0",
+        "id": "B0I03SW1EO",
+        "name": "广东中保保安服务有限公司驻深圳地铁3号线项目部",
+        "group_flag": "0",
+        "distance": "0",
+        "entrances": [
+          {
+            "latitude": "22.663715",
+            "longitude": "114.223850"
+          }
+        ],
+        "recommend_flag": "0",
+        "exits": [],
+        "adcode": "440307",
+        "domain_list": [
+          {
+            "type": "html",
+            "id": "1015",
+            "name": "poiclosed"
+          },
+          {
+            "type": "img",
+            "id": "1003",
+            "name": "icon"
+          },
+          {
+            "type": "html",
+            "id": "1011",
+            "name": "traffic"
+          },
+          {
+            "type": "text",
+            "id": "1014",
+            "name": "roadaoi"
+          },
+          {
+            "type": "button",
+            "id": "1012",
+            "name": "ext_btn"
+          },
+          {
+            "type": "webimg",
+            "id": "1009",
+            "value": "http://store.is.autonavi.com/showpic/9170bae65f743da2f103c3444030bb05",
+            "name": "pic_info"
+          },
+          {
+            "type": "img",
+            "id": "1008",
+            "name": "overbooked"
+          },
+          {
+            "type": "img",
+            "id": "1007",
+            "name": "moreservice"
+          },
+          {
+            "type": "html",
+            "id": "1006",
+            "name": "tag"
+          },
+          {
+            "type": "text",
+            "id": "1005",
+            "name": "parent_info"
+          },
+          {
+            "type": "array",
+            "name": "parent_other_rel",
+            "id": "1004"
+          },
+          {
+            "type": "text",
+            "id": "1010",
+            "name": "business_area"
+          },
+          {
+            "type": "html",
+            "id": "1002",
+            "name": "deepinfo"
+          },
+          {
+            "type": "html",
+            "id": "1001",
+            "name": "price"
+          },
+          {
+            "type": "text",
+            "id": "1013",
+            "name": "aoi"
+          }
+        ],
+        "newtype": "170200",
+        "disp_name": "广东中保保安服务有限公司驻深圳地铁3号线项目部",
+        "cpdata": "",
+        "latitude": "22.663653",
+        "discount_flag": "0"
+      }
+    ]
+  }
+}
