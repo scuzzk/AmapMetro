@@ -74,7 +74,7 @@
 ### 📋数据获取
 在网页打开高德地图，按下F12调出开发者工具，打开网络监听，在搜索栏输入运营中或在建的地铁线路，网页会返回整体的地铁线路数据，通过点击``“预览”``查看名为``poiInfo?query....``的数据能够发现里面包含了线路站点的所有信息，包括线路名称、首末站点名称、地点站名以及坐标点等信息。
 
-![数据获取](img/01_F12.png)
+![F12](img/01_F12.png)
 
 ### 📋数据格式解析
 
@@ -97,7 +97,7 @@
 |6|stations|线路站点数据|
 |7|status|线路运行状态|
 
-<img src=".\img\06_lineinfo.png" alt="Drawing" style="width: 400px;" align="mid"/>
+![line_info](img/06_lineinfo.png)
 
 展开`“station”`又可以看到各个站点的数据信息，重点关注以下值：
 ![station](img/05_station.png)
