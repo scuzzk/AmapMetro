@@ -30,8 +30,8 @@
 |:--:| :--:|:--:|:--:|
 |1|广州|![guangzhou](img/results_guangzhou.png)|![guangzhou](img/results_guangzhouimg.png)|
 |2|深圳|![shenzhen](img/results_shenzhen.png)|![shenzhen](img/results_shenzhenimg.png)|
-|3|佛山|![foshan](img/results_foshan.png)|![foshan](img/results_foshan.png)|
-|4|东莞|![dongguan](img/results_dongguan.png)|![dongguan](img/results_dongguan.png)|
+|3|佛山|![foshan](img/results_foshan.png)|![foshan](img/results_foshanimg.png)|
+|4|东莞|![dongguan](img/results_dongguan.png)|![dongguan](img/results_dongguanimg.png)|
 
 
 
